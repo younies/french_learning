@@ -7,3 +7,4 @@ There is also a dedicated section for TCF Canada (Test de Connaissance du Franç
 ## TCF Candada Section
 
 * [Exam 1](tcf_canada/exam1.md)
+* [Exam 2](tcf_canada/exam2.md)

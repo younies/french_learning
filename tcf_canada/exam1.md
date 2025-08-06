@@ -45,3 +45,34 @@ Paul
 | **spécialités locales** | local specialties      | Plats typiques de la région.                             |
 | **adorer l’ambiance**   | to love the atmosphere | Apprécier beaucoup l’atmosphère/le ressenti du lieu.     |
 | **séjour inoubliable**  | unforgettable stay     | Voyage ou vacances qu’on n’oublie jamais.                |
+
+
+### Tâche 2
+
+> Vous avez été sélectionné(e) pour un concours où le prix est un séjour de deux semaines dans votre ville favorite. Le thème du concours était “Mon artiste préféré”. Rédigez un article de blog pour parler de l’artiste que vous aimez le plus.
+
+> **ℹ️ Note :**  
+> Votre réponse doit contenir **entre 120 et 150 mots**.
+
+
+
+
+
+### Tâche 3
+
+> Chasse aux animaux : une pratique à soutenir ou à rejeter ?
+
+> Document 1 :
+> Gala (29 ans) : « Je fais partie de ceux qui ne parviennent pas à comprendre comment on peut prendre plaisir à tuer des animaux. Je fais aussi partie de ceux qui ne saisissent pas comment on peut prétendre aimer la nature tout en contribuant à sa destruction. »
+
+> Document 2 :
+> David (Journaliste de la FRM) : « La chasse est pratiquée pour diverses raisons : qu’il s’agisse de se nourrir, de commercer, de gérer la faune, de protéger la propriété, de faire de l’exercice, de se divertir ou de chercher du prestige. »
+
+> **ℹ️ Note :**  
+> Votre réponse doit contenir **entre 120 et 180 mots**.
+
+
+
+
+
+
