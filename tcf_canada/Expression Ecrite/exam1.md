@@ -1,11 +1,9 @@
-# Le Exam 1  de TCF Canada
-
-## Expression Ecrite
+# Le examen 1 de TCF Canada (Expression Ecrite)
 
 > **Resources:**  
 > [https://reussir-tcfcanada.com/juillet-2025-expression-ecrite/ (Combinaison 4)](https://reussir-tcfcanada.com/juillet-2025-expression-ecrite/)
 
-### Tâche 1
+## Tâche 1
 
 > **Sujet :**
 >
@@ -13,7 +11,9 @@
 >
 > *(60 mots minimum / 120 mots maximum)*
 
-## Invitation pour les vacances
+### Réponse
+
+Invitation pour les vacances
 
 Salut John,  
 
@@ -31,7 +31,7 @@ Paul
 
 ---
 
-## Vocabulaire et Expressions
+### Vocabulaire et Expressions
 
 | Mot/Expression          | Traduction en anglais  | Explication / Usage en français                          |
 | ----------------------- | ---------------------- | -------------------------------------------------------- |
@@ -47,7 +47,7 @@ Paul
 | **séjour inoubliable**  | unforgettable stay     | Voyage ou vacances qu’on n’oublie jamais.                |
 
 
-### Tâche 2
+## Tâche 2
 
 > Vous avez été sélectionné(e) pour un concours où le prix est un séjour de deux semaines dans votre ville favorite. Le thème du concours était “Mon artiste préféré”. Rédigez un article de blog pour parler de l’artiste que vous aimez le plus.
 
@@ -58,7 +58,7 @@ Paul
 
 
 
-### Tâche 3
+## Tâche 3
 
 > Chasse aux animaux : une pratique à soutenir ou à rejeter ?
 

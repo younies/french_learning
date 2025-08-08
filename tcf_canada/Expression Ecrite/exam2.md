@@ -1,18 +1,17 @@
-# Le Exam 2 de TCF Canada
-
-## Expression Ecrite
+# Le examen 2 de TCF Canada (Expression Ecrite)
 
 > **Resources:**  
 > [https://reussir-tcfcanada.com/juillet-2025-expression-ecrite/ (Combinaison 3)](https://reussir-tcfcanada.com/juillet-2025-expression-ecrite/)
 
-
-### Tâche 1
+## Tâche 1
 
 > Rédiger un message en réponse à un ami qui demande des informations sur une salle de sport réputée pour sa qualité.
 
 > **ℹ️ Note :**  
 > Votre réponse doit contenir **entre 60 et 120 mots**.
 
+
+### Réponse
 
 Salut Alex,
 
@@ -25,7 +24,7 @@ N’hésite pas si tu veux plus d’infos !
 
 ---
 
-## Vocabulaire et Expressions
+### Vocabulaire et Expressions
 
 | Mot/Expression          | Traduction en anglais | Explication / Usage en français                                  |
 | ----------------------- | --------------------- | ---------------------------------------------------------------- |
@@ -41,12 +40,14 @@ N’hésite pas si tu veux plus d’infos !
 | **espace détente**      | relaxation area       | Zone pour se reposer, souvent avec sauna ou hammam.              |
 | **sauna / hammam**      | sauna / steam room    | Espaces pour se relaxer avec de la chaleur.                      |
 
-### Tâche 2
+## Tâche 2
 
 >Rédiger un message décrivant une expérience avec les formations en ligne, en mettant en avant les points positifs et les éventuels défis rencontrés.
 
 > **ℹ️ Note :**  
 > Votre réponse doit contenir **entre 120 et 150 mots**.
+
+### Tâche 2 réponse
 
 Les expériences avec les formations en ligne : avantages et défis.
 
@@ -54,7 +55,8 @@ Voici mon expérience avec les **formations en ligne**. L’année dernière, j�
 Un autre point positif est la possibilité d’**échanger avec des personnes du monde entier**, ce qui **enrichit les discussions** et permet de découvrir de nouveaux **points de vue**.  
 Cependant, j’ai aussi rencontré quelques **défis**. Il faut être très **autonome** et savoir bien **gérer son temps**, car il est facile de **procrastiner** sans la présence d’un professeur. Parfois, l’**absence de contact direct** rend plus difficile la **compréhension de certains sujets complexes**. Malgré ces **obstacles**, je trouve que les formations en ligne sont une excellente **opportunité** pour apprendre et **progresser à son propre rythme**.
 
----
+
+### Vocabulaire et Expressions
 
 | Mot/Expression                                  | Traduction en anglais             | Explication / Usage en français                                       |
 | ----------------------------------------------- | --------------------------------- | --------------------------------------------------------------------- |
@@ -83,7 +85,7 @@ Cependant, j’ai aussi rencontré quelques **défis**. Il faut être très **au
 
 
 
-### Tâche 3
+## Tâche 3
 
 >Les produits faits maison : un choix judicieux ou un risque ?
 
@@ -97,7 +99,7 @@ Cependant, j’ai aussi rencontré quelques **défis**. Il faut être très **au
 > **ℹ️ Note :**  
 > Votre réponse doit contenir **entre 120 et 180 mots**.
 
-
+### Réponse
 
 Les produits faits maison : un choix judicieux ou un risque ?
 
@@ -106,6 +108,8 @@ Cependant, il existe aussi des **inconvénients**. La préparation demande du **
 En conclusion, les produits faits maison sont une **bonne alternative** pour ceux qui souhaitent adopter un mode de vie plus sain et écologique, à condition de bien s’informer et de respecter les règles d’hygiène.
 
 ---
+
+### Vocabulaire et Expressions
 
 | Mot/Expression                 | Traduction en anglais    | Explication / Usage en français                                          |
 | ------------------------------ | ------------------------ | ------------------------------------------------------------------------ |

@@ -4,7 +4,13 @@ This is a personal repository for learning French. It includes a variety of reso
 
 There is also a dedicated section for TCF Canada (Test de Connaissance du Français) preparation, focusing on both expression orale and expression écrite.
 
-## TCF Candada Section
+## TCF Canada
 
-* [Exam 1](tcf_canada/exam1.md)
-* [Exam 2](tcf_canada/exam2.md)
+### Expression Ecrite
+
+* [Exam 1](<tcf_canada/Expression Ecrite/exam1.md>)
+* [Exam 2](<tcf_canada/Expression Ecrite/exam2.md>)
+
+### Expression Orale
+
+* [Exam 1](<tcf_canada/Expression Orale/exam1.md>)
