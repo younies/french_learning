@@ -8,9 +8,9 @@ There is also a dedicated section for TCF Canada (Test de Connaissance du Franç
 
 ### Expression Ecrite
 
-* [Exam 1](<tcf_canada/Expression Ecrite/exam1.md>)
-* [Exam 2](<tcf_canada/Expression Ecrite/exam2.md>)
+* [Exam 1](tcf_canada/ee/exam1.md)
+* [Exam 2](tcf_canada/ee/exam2.md)
 
 ### Expression Orale
 
-* [Exam 1](<tcf_canada/Expression Orale/exam1.md>)
+* [Exam 1](tcf_canada/eo/exam1.md)
