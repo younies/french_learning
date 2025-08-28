@@ -31,6 +31,13 @@ There is also a dedicated section for TCF Canada (Test de Connaissance du Franç
 * [Numéro 011: Je suis votre voisine Je propose à la location une petite maison proche de la mer pour les séjour](tcf_canada/eo/task2/task2_011_Je_suis_votre_voisine._Je_propose_à_la_location_une_petite_maison_proche_de_la_mer_pour_les_séjour.md)
 * [Numéro 012: Je travaille dans une boutique de meubles Vous voulez recevoir un meuble à domicile Vous minterrog](tcf_canada/eo/task2/task2_012_Je_travaille_dans_une_boutique_de_meubles._Vous_voulez_recevoir_un_meuble_à_domicile.Vous_minterrog.md)
 * [Numéro 013: Nous nous trouvons dans une salle dattente Le train a du retard et nous engageons la conversation](tcf_canada/eo/task2/task2_013_Nous_nous_trouvons_dans_une_salle_dattente._Le_train_a_du_retard_et_nous_engageons_la_conversation.md)
+* [Numéro 014: À une soirée où nous faisons connaissance je rentre dun voyage récent Vous me posez des questions](tcf_canada/eo/task2/task2_014_À_une_soirée_où_nous_faisons_connaissance_je_rentre_dun_voyage_récent.Vous_me_posez_des_questions.md)
+* [Numéro 015: Je suis votre amie je viens daller voir un film au cinéma Vous me posez des questions pour savoi](tcf_canada/eo/task2/task2_015_Je_suis_votre_amie_je_viens_daller_voir_un_film_au_cinéma.Vous_me_posez_des_questions_pour_savoi.md)
+* [Numéro 016: Je suis votre voisine Je vais souvent à la piscine municipale Vous êtes intéressée Vous me pos](tcf_canada/eo/task2/task2_016_Je_suis_votre_voisine._Je_vais_souvent_à_la_piscine_municipale._Vous_êtes_intéressée.Vous_me_pos.md)
+* [Numéro 017: Je suis votre amie au Canada Vous venez me voir en décembre Vous me posez des questions pour bien](tcf_canada/eo/task2/task2_017_Je_suis_votre_amie_au_Canada._Vous_venez_me_voir_en_décembre.Vous_me_posez_des_questions_pour_bien.md)
+* [Numéro 018: Je suis votre amie Je vis en colocation et une chambre est libre Vous êtes intéressée Vous me](tcf_canada/eo/task2/task2_018_Je_suis_votre_amie._Je_vis_en_colocation_et_une_chambre_est_libre._Vous_êtes_intéressée.Vous_me.md)
+* [Numéro 019: Je suis votre voisine Vous venez darriver dans le quartier Vous me posez des questions pour le d](tcf_canada/eo/task2/task2_019_Je_suis_votre_voisine._Vous_venez_darriver_dans_le_quartier.Vous_me_posez_des_questions_pour_le_d.md)
+* [Numéro 020: Nous utilisons des cookies pour améliorer votre expérience sur notre site Web En naviguant sur ce s](tcf_canada/eo/task2/task2_020_Nous_utilisons_des_cookies_pour_améliorer_votre_expérience_sur_notre_site_Web._En_naviguant_sur_ce_s.md)
 
 
 ## New Expression Orale Tâche 3
@@ -48,3 +55,10 @@ There is also a dedicated section for TCF Canada (Test de Connaissance du Franç
 * [Numéro 011: Daprès vous quelles matières seraient importantes à enseigner davantage à lécole etpourquoi](tcf_canada/eo/task3/task3_011_Daprès_vous_quelles_matières_seraient_importantes_à_enseigner_davantage_à_lécole_etpourquoi.md)
 * [Numéro 012: Selon vous vaut-il mieux posséder une famille nombreuse ou de solides amitiés Pourquoi](tcf_canada/eo/task3/task3_012_Selon_vous_vaut-il_mieux_posséder_une_famille_nombreuse_ou_de_solides_amitiés_Pourquoi.md)
 * [Numéro 013: Partie 1Les relations créées sur Internet sont-elles aussi fortes que les liens familiaux Pourquoi](tcf_canada/eo/task3/task3_013_Partie_1Les_relations_créées_sur_Internet_sont-elles_aussi_fortes_que_les_liens_familiaux_Pourquoi.md)
+* [Numéro 014: Est-il vrai que vivre à la ville est plus stressant que vivre à la campagne Quen pensez-vous](tcf_canada/eo/task3/task3_014_Est-il_vrai_que_vivre_à_la_ville_est_plus_stressant_que_vivre_à_la_campagne_Quen_pensez-vous.md)
+* [Numéro 015: Pourquoi certaines personnes ne suivent pas la politique Quen pensez-vous](tcf_canada/eo/task3/task3_015_Pourquoi_certaines_personnes_ne_suivent_pas_la_politique_Quen_pensez-vous.md)
+* [Numéro 016: Les méthodologiesCompréhension ÉcriteCompréhension OraleExpression écriteExpression oraleÀ propos de](tcf_canada/eo/task3/task3_016_les_méthodologiesCompréhension_ÉcriteCompréhension_OraleExpression_écriteExpression_oraleÀ_propos_de.md)
+* [Numéro 017: Partager avec votre réseauNous acceptonsCliquez ici](tcf_canada/eo/task3/task3_017_Partager_avec_votre_réseauNous_acceptonsCliquez_ici.md)
+* [Numéro 018: Les méthodologiesCompréhension ÉcriteCompréhension OraleExpression écriteExpression oraleÀ propos de](tcf_canada/eo/task3/task3_018_les_méthodologiesCompréhension_ÉcriteCompréhension_OraleExpression_écriteExpression_oraleÀ_propos_de.md)
+* [Numéro 019: Partie 2À votre avis les adolescents ont-ils vraiment besoin dun téléphone personnelPensez-vous q](tcf_canada/eo/task3/task3_019_Partie_2À_votre_avis_les_adolescents_ont-ils_vraiment_besoin_dun_téléphone_personnelPensez-vous_q.md)
+* [Numéro 020: Pensez-vous quInternet a vraiment rapproché les gens partout dans le monde](tcf_canada/eo/task3/task3_020_Pensez-vous_quInternet_a_vraiment_rapproché_les_gens_partout_dans_le_monde.md)
