@@ -12,7 +12,6 @@ Pensez-vous que la gentillesse garantit toujours d’obtenir de l’attention et
 
 ---
 
-````markdown
 ### 🗣️ Monologue argumentatif - Tâche 3 (4.5 minutes)
 
 #### 🚀 Introduction
@@ -58,4 +57,3 @@ Pensez-vous que la gentillesse garantit toujours d’obtenir de l’attention et
 - **Adoptez une position nuancée** (ni trop absolue, ni hésitante)
 - **Gérez votre temps**: intro (1 min), développement (3 min), conclusion (30s)
 - **Montrez votre culture générale** avec des références pertinentes
-````

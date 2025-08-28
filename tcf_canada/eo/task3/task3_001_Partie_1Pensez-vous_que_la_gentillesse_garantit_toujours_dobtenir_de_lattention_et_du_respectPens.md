@@ -12,7 +12,7 @@ Partie 1Pensez-vous que la gentillesse garantit toujours d’obtenir de l’atte
 
 ---
 
-````markdown
+
 ### 🗣️ Monologue argumentatif - Tâche 3 (4.5 minutes)
 
 #### 🚀 Introduction
@@ -59,4 +59,3 @@ Ceci étant dit, il est important de noter que la gentillesse ne doit pas être 
 - **Adoptez une position nuancée** (ni trop absolue, ni hésitante)
 - **Gérez votre temps**: intro (1 min), développement (3 min), conclusion (30s)
 - **Montrez votre culture générale** avec des références pertinentes
-````

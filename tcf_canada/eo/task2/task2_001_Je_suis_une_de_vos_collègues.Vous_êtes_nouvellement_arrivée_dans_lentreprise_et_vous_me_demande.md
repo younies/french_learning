@@ -12,7 +12,6 @@ Je suis un(e) de vos collègues.Vous êtes nouvellement arrivé(e) dans l’entr
 
 ---
 
-````markdown
 ### 🗣️ Conversation simulée - Tâche 2 (3 minutes)
 
 **Contexte:** Vous êtes nouvel(le) dans l'entreprise et vous me demandez des informations sur l'organisation, les collègues, la cantine, etc.
@@ -67,4 +66,3 @@ Je suis un(e) de vos collègues.Vous êtes nouvellement arrivé(e) dans l’entr
 - **Demandez des précisions** pour approfondir
 - **Utilisez un registre approprié** (tu/vous selon la situation)
 - **Montrez votre intérêt** par des expressions de réaction
-````

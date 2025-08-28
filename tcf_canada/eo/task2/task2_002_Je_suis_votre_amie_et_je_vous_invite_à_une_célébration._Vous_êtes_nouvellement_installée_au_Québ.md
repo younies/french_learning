@@ -11,8 +11,7 @@ generated_at: 2025-08-28 02:55:01
 Je suis votre ami(e) et je vous invite à une célébration. Vous êtes nouvellement installé(e) au Québec et, comme c’est votre première fête ici,vous me demandez des renseignements (heures, cadeaux, vêtements, etc.).
 
 ---
-
-````markdown
+    
 ### 🗣️ Conversation simulée - Tâche 2 (3 minutes)
 
 **Contexte:** Je suis votre ami(e) qui vous invite à une célébration au Québec. Vous désirez obtenir des renseignements à propos de cette fête.
@@ -65,5 +64,3 @@ Je suis votre ami(e) et je vous invite à une célébration. Vous êtes nouvelle
 - **Utilisez un registre approprié** (tu/vous selon la situation)
 - **Montrez votre intérêt** par des expressions de réaction
 
-
-````
