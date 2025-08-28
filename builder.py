@@ -116,7 +116,7 @@ def update_readme(task2_content: str, task3_content: str) -> None:
     
     # Define the sections to replace
     task2_start = "## New Expression Orale Tâche 2\n"
-    task3_start = "# New Expression Orale Tâche 3\n"
+    task3_start = "## New Expression Orale Tâche 3\n"
     
     # Find the positions of each section
     task2_pos = content.find(task2_start)
