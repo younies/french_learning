@@ -4,55 +4,76 @@ source_file: aout-2025-expression-orale.json
 source_url: https://reussir-tcfcanada.com/aout-2025-expression-orale/
 task: unknown
 part: partie_1
-generated_at: 2025-08-28 02:55:01
+generated_at: 2025-08-28 03:24:10
 ---
 
 # Original Topic
 Je suis votre ami(e) et je vous invite à une célébration. Vous êtes nouvellement installé(e) au Québec et, comme c’est votre première fête ici,vous me demandez des renseignements (heures, cadeaux, vêtements, etc.).
 
 ---
-    
+
 ### 🗣️ Conversation simulée - Tâche 2 (3 minutes)
 
-**Contexte:** Je suis votre ami(e) qui vous invite à une célébration au Québec. Vous désirez obtenir des renseignements à propos de cette fête.
+Contexte: Je suis un ami qui invite le candidat à une célébration au Québec. Le candidat, nouvellement installé au Québec, me demande des renseignements sur la fête.
 
-**MOI:** **Salut!** Tu m'as mentionné une fête, n'est-ce pas ? **J'aimerais savoir**, quel est l'événement exactement ?
+MOI: **Salut**, comment ça va? **Je voulais te demander** quelques détails sur la célébration. **Pourriez-vous me dire à quelle heure** elle commence?
 
-**VOUS:** **Salut! Oui, absolument.** C'est une fête pour célébrer le nouvel an. Nous avons l'habitude de le célébrer en grand ici au Québec !
+VOUS: **Bonjour!** Je suis content que tu aies demandé. La célébration commencera à 18h. **C'est un horaire** assez standard pour ce type d'événement ici au Québec.
 
-**MOI:** **C'est intéressant!** Et à quelle heure **commence-t-elle normalement** ?
+MOI: **D'accord, je vois.** Et quelle est la durée prévue de la fête?
 
-**VOUS:** **En fait**, la fête commence généralement vers 20h, mais beaucoup de gens arrivent un peu plus tard, vers 21h ou 22h.
+VOUS: **En général**, les fêtes durent environ 4 à 5 heures. Donc, **on pourrait** s'attendre à finir vers minuit. **N'oublie pas** qu'il n'y a pas vraiment de règle fixe pour cela.
 
-**MOI:** **Je vois.** Et pour les cadeaux, **y a-t-il une tradition particulière** que je devrais connaître ?
+MOI: **C'est intéressant**. Et concernant le lieu, est-ce que c'est dans un espace public ou privé?
 
-**VOUS:** **Pas vraiment.** Au Québec, nous n'avons pas vraiment l'habitude d'apporter des cadeaux pour le nouvel an. **Cependant**, une bouteille de vin ou un dessert est toujours apprécié !
+VOUS: La célébration aura lieu chez moi. **C'est une tradition** au Québec d'organiser ce genre de fêtes chez soi. **Par contre**, il y a toujours un plan B en cas de mauvais temps.
 
-**MOI:** **Parfait**, merci pour l'information. Et en ce qui concerne la tenue, **dois-je m'habiller formellement** ?
+MOI: **D'accord, c'est bien à savoir.** Et concernant l'habillement, y a-t-il un code vestimentaire à suivre?
 
-**VOUS:** **Pas nécessairement.** C'est une fête assez décontractée, donc une tenue confortable est recommandée. **Néanmoins**, certains aiment se mettre sur leur 31, alors **si tu veux**, tu peux opter pour une tenue chic-décontractée.
+VOUS: **Pas du tout!** Ici, **on préfère** que les gens se sentent à l'aise. **Toutefois**, la plupart des gens **auront tendance à** s'habiller un peu plus chic pour une célébration.
 
-**MOI:** **D'accord**, je comprends. **Y a-t-il d'autres traditions ou coutumes spécifiques** que je devrais connaître pour le nouvel an au Québec ?
+MOI: Ah, **je comprends maintenant**. Et **devrais-je apporter** un cadeau pour l'hôte?
 
-**VOUS:** **Eh bien**, à minuit, nous faisons le décompte ensemble et nous nous souhaitons tous une bonne année. **Ensuite**, nous partageons souvent une coupe de champagne et échangeons des vœux. C'est une belle tradition !
+VOUS: **C'est une bonne idée** d'apporter un petit quelque chose, comme une bouteille de vin ou des fleurs. **C'est une coutume** assez courante ici.
 
-**MOI:** **Cela semble vraiment sympa!** Je me réjouis d'y participer. **Merci** pour toutes ces informations.
+MOI: **Je vois, merci pour l'info.** Est-ce que je peux apporter quelque chose pour partager, comme un plat ou une boisson?
 
-**VOUS:** **De rien!** Je suis sûr que tu te sentiras comme chez toi. **N'hésite pas** si tu as d'autres questions !
+VOUS: **Absolument!** Au Québec, **on appelle ça** un potluck. **C'est toujours très apprécié** lorsque les invités contribuent à la fête.
+
+MOI: **Je vous remercie** pour toutes ces informations. **Je suis vraiment excité** de participer à ma première fête au Québec!
+
+VOUS: **C'est un plaisir de t'aider.** Je suis sûr que tu **t'amuseras beaucoup** à la fête!
 
 ---
 
-### 📚 Expressions et vocabulaire utiles
+### 📚 Expressions et vocabulaire utiles (exhaustif)
 
-| Expression / Verbe | Translation (EN) | Usage / Context (FR) | Usage / Context (EN) |
-|--------------------|------------------|----------------------|----------------------|
-| J'aimerais savoir... | I would like to know... | Utilisé pour demander des informations. | Used to request information. |
-| C'est intéressant | That's interesting | Utilisé pour montrer de l'intérêt pour ce qui est dit. | Used to show interest in what is being said. |
-| En fait | In fact | Utilisé pour introduire une précision ou une correction. | Used to introduce a precision or correction. |
-| Je vois | I see | Utilisé pour montrer que vous avez compris quelque chose. | Used to show that you have understood something. |
-| Cependant | However | Utilisé pour introduire une idée contraire. | Used to introduce a contrary idea. |
-| Néanmoins | Nevertheless | Utilisé pour introduire une idée contraire. | Used to introduce a contrary idea. |
-| De rien | You're welcome | Utilisé pour répondre à un remerciement. | Used in response to a thank you. |
+| Expression / Verbe (FR) | Translation (EN) | Usage / Contexte (FR) | Usage / Context (EN) |
+|-------------------------|------------------|-----------------------|----------------------|
+| **Absolument!**      | Absolutely!      | Utilisé pour confirmer une proposition.       | Used to confirm a proposition. |
+| **auront tendance à**    | will tend to  | Utilisé pour exprimer une habitude générale. | Used to express a general habit. |
+| **Bonjour!**          | Hello!           | Salutation formelle pour commencer la conversation. | Formal greeting to start the conversation. |
+| **C'est une bonne idée** | That's a good idea | Utilisé pour approuver une suggestion. | Used to approve a suggestion. |
+| **C'est une coutume**   | It's a custom | Utilisé pour expliquer une tradition. | Used to explain a tradition. |
+| **C'est une tradition** | It's a tradition | Utilisé pour expliquer une pratique culturelle. | Used to explain a cultural practice. |
+| **C'est un horaire**   | It's a schedule  | Utilisé pour parler des heures. | Used to talk about hours. |
+| **C'est un plaisir de t'aider.** | It's a pleasure to help you. | Utilisé pour exprimer la satisfaction d'aider. | Used to express satisfaction in helping. |
+| **D'accord, c'est bien à savoir.** | Okay, that's good to know. | Utilisé pour reconnaître une information utile. | Used to acknowledge useful information. |
+| **D'accord, je vois.** | Okay, I see. | Utilisé pour indiquer la compréhension. | Used to indicate understanding. |
+| **devrais-je apporter** | should I bring | Utilisé pour demander si on doit apporter quelque chose. | Used to ask if one should bring something. |
+| **En général,** | In general, | Utilisé pour introduire une affirmation générale. | Used to introduce a general statement. |
+| **Je comprends maintenant** | I understand now | Utilisé pour indiquer une compréhension claire. | Used to indicate clear understanding. |
+| **Je suis vraiment excité** | I'm really excited | Utilisé pour exprimer l'enthousiasme. | Used to express excitement. |
+| **Je voulais te demander** | I wanted to ask you | Utilisé pour introduire une question. | Used to introduce a question. |
+| **Je vous remercie** | I thank you | Formule de politesse pour remercier quelqu'un. | Polite phrase to thank someone. |
+| **N'oublie pas** | Don't forget | Utilisé pour rappeler quelque chose à quelqu'un. | Used to remind someone of something. |
+| **on appelle ça** | we call that | Utilisé pour expliquer un terme ou une expression. | Used to explain a term or expression. |
+| **on pourrait** | we could | Utilisé pour exprimer une possibilité. | Used to express a possibility. |
+| **on préfère** | we prefer | Utilisé pour exprimer une préférence générale. | Used to express a general preference. |
+| **Pas du tout!** | Not at all! | Utilisé pour nier fortement quelque chose. | Used to strongly deny something. |
+| **Pourriez-vous me dire à quelle heure** | Could you tell me what time | Utilisé pour demander l'heure. | Used to ask for the time. |
+| **Salut,** | Hi, | Salutation informelle pour commencer la conversation. | Informal greeting to start the conversation. |
+| **t'amuseras beaucoup** | will have a lot of fun | Utilisé pour exprimer un souhait positif pour quelqu'un. | Used to express a positive wish for someone. |
 
 ---
 
@@ -63,4 +84,3 @@ Je suis votre ami(e) et je vous invite à une célébration. Vous êtes nouvelle
 - **Demandez des précisions** pour approfondir
 - **Utilisez un registre approprié** (tu/vous selon la situation)
 - **Montrez votre intérêt** par des expressions de réaction
-
