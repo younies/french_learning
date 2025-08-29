@@ -47,6 +47,7 @@ Personnellement, je trouve que cet environnement stimule notre créativité. De 
 [Ton prénom]
 
 ### 📚 Tableau de vocabulaire (Mots/expressions mis en évidence)
+
 | Mot / Expression (FR) | Meaning (EN) | Illustration (FR) | Illustration (EN) |
 |---|---|---|---|
 | nouvel espace de travail | new workspace | Dans notre nouvel espace de travail, la lumière naturelle est privilégiée. | In our new workspace, natural light is favored. |

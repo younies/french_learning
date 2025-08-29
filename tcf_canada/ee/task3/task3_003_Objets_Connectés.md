@@ -53,6 +53,7 @@ Selon le **Document 1**, les objets connectés *s'avèrent pratiques* dans notre
 Il est également important de sensibiliser le public aux risques potentiels liés à l'utilisation de ces objets. **En conclusion**, même si les objets connectés ont des avantages indéniables, il est essentiel de veiller à ce que leur utilisation ne compromette pas notre sécurité.
 
 ### 📚 Tableau de vocabulaire (Mots/expressions mis en évidence)
+
 | Mot / Expression (FR) | Meaning (EN) | Illustration (FR) | Illustration (EN) |
 |---|---|---|---|
 | s'avérer | to prove to be | Ce plan s'est avéré efficace. | This plan proved to be effective. |

@@ -55,6 +55,7 @@ Cependant, il est essentiel que les artistes respectent l'espace public et obtie
 En conclusion, malgré les controverses, je pense que l'art urbain, lorsqu'il est pratiqué de manière respectueuse, peut enrichir notre environnement urbain et favoriser la diversité culturelle.
 
 ### 📚 Tableau de vocabulaire (Mots/expressions mis en évidence)
+
 | Mot / Expression (FR) | Meaning (EN) | Illustration (FR) | Illustration (EN) |
 |---|---|---|---|
 | engendrer | to generate | La pollution engendre de nombreux problèmes de santé. | Pollution generates many health issues. |

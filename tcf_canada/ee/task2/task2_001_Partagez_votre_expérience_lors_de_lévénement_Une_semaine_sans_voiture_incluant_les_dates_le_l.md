@@ -47,6 +47,7 @@ Votre texte sera publié sur un blog axé sur le développement durable et l'éc
 **Ayant eu l'opportunité** de participer à l'événement "Une semaine sans voiture" qui **s'est déroulé** du 20 au 27 septembre à Paris, je peux affirmer que c'était une expérience enrichissante. **Des activités variées** ont été proposées, allant de **l'initiation au vélo** pour les plus petits à des **ateliers de sensibilisation** sur l'impact environnemental des voitures. **Personnellement**, j'ai beaucoup apprécié cette initiative qui nous **a permis de découvrir** des alternatives écologiques aux transports motorisés. Cependant, je regrette que **cette action soit limitée** à une semaine par an. **Il serait souhaitable** que des événements similaires se multiplient et **contribuent à un changement durable** de nos habitudes de déplacement.
 
 ### 📚 Tableau de vocabulaire (Mots/expressions mis en évidence)
+
 | Mot / Expression (FR) | Meaning (EN) | Illustration (FR) | Illustration (EN) |
 |---|---|---|---|
 | Ayant eu l'opportunité | Having had the opportunity | **Ayant eu l'opportunité** de voyager, j'ai découvert de nouvelles cultures. | **Having had the opportunity** to travel, I discovered new cultures. |

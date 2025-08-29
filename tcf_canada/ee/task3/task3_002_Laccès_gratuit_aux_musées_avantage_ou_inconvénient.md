@@ -53,6 +53,7 @@ Selon le **Document 1**, la gratuité des musées risque de nuire à la qualité
 En définitive, l'accès gratuit aux musées présente à la fois des avantages et des inconvénients. Il est important de trouver une solution qui **concilie** l'accès à la culture pour tous et le bon fonctionnement des musées.
 
 ### 📚 Tableau de vocabulaire (Mots/expressions mis en évidence)
+
 | Mot / Expression (FR) | Meaning (EN) | Illustration (FR) | Illustration (EN) |
 |---|---|---|---|
 | Inversement | Conversely | Inversement, il est difficile de se concentrer en classe sans petit déjeuner. | Conversely, it is hard to focus in class without breakfast. |

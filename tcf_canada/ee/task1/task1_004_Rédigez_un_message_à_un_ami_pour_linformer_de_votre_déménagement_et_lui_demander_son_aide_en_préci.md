@@ -41,6 +41,7 @@ Votre ami est quelqu'un avec qui vous avez une relation proche et familiale. Vou
 Salut, j'espère que tu te **portes à merveille**. J'ai une grande nouvelle à t'annoncer: je **vais déménager**! Je quitte mon vieil appartement pour m'installer plus près de mon travail. Et c'est **prévu pour** le week-end prochain, le 8 mai. Je **me demandais** si tu serais disponible pour m'aider? J'ai prévu de commencer tôt le matin et de terminer avec une petite fête dans la soirée. Ta présence serait **un énorme soulagement** pour moi. J'espère pouvoir compter sur toi et te remercie d'avance pour ton aide. À bientôt!
 
 ### 📚 Tableau de vocabulaire (Mots/expressions mis en évidence)
+
 | Mot / Expression (FR) | Meaning (EN) | Illustration (FR) | Illustration (EN) |
 |---|---|---|---|
 | se porter à merveille | to be doing great | Malgré le travail, je me porte à merveille. | Despite the work, I'm doing great. |

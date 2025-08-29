@@ -55,6 +55,7 @@ Le **Document 1 insiste sur** l'importance des vêtements de marque pour les enf
 En conclusion, **il serait judicieux de** permettre aux enfants de porter des vêtements de marque, tout en leur enseignant la valeur de l'argent et l'importance de prendre soin de leurs affaires.
 
 ### 📚 Tableau de vocabulaire (Mots/expressions mis en évidence)
+
 | Mot / Expression (FR) | Meaning (EN) | Illustration (FR) | Illustration (EN) |
 |---|---|---|---|
 | insister sur | to insist on | Il insiste sur le fait qu'il a raison. | He insists that he is right. |

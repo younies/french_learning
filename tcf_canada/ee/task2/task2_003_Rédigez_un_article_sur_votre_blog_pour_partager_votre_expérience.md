@@ -48,6 +48,7 @@ L'article sera publié sur votre blog personnel, qui est suivi par un public mix
 Originaire de **Lille**, une ville au charme provincial, je **me suis récemment installé** à Paris pour des raisons professionnelles. Le déménagement a été une véritable **aventure**, pleine de moments **mémorables** et de **défis inattendus**. Trouver un logement adapté à mon budget et à mes besoins a été le premier défi. **Grâce à** la persévérance, j'ai finalement trouvé un petit appartement confortable à Montmartre. **Vivre seul** dans une grande ville a été une autre expérience **marquante**. J'ai dû apprendre à cuisiner, à gérer mes finances et à naviguer dans le **dédale** de la métropole. Cette expérience **m'a appris** l'importance de la résilience face aux changements. Pour ceux qui envisagent de déménager, je recommanderais de bien **planifier** à l'avance et de toujours rester ouvert à de nouvelles expériences.
 
 ### 📚 Tableau de vocabulaire (Mots/expressions mis en évidence)
+
 | Mot / Expression (FR) | Meaning (EN) | Illustration (FR) | Illustration (EN) |
 |---|---|---|---|
 | Lille | Lille (city in France) | J'ai vécu à Lille pendant 10 ans. | I lived in Lille for 10 years. |

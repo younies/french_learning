@@ -47,6 +47,7 @@ Votre article sera publié sur votre blog personnel. Votre public cible est comp
 Récemment, j'ai **pris la décision** de débuter la salsa, une danse qui **a toujours exercé sur moi une fascination certaine**. J'étais à la recherche d'un nouveau moyen de me défouler après une longue journée de travail. Ma première leçon a été **un véritable baptême du feu** ! Il m'a fallu beaucoup de concentration pour suivre le rythme et ne pas **faire faux bond** à mon partenaire. Au début, je me suis senti maladroit, mais avec le temps, j'ai **gagné en aisance** et en confiance. Aujourd'hui, après plusieurs semaines de pratique, je peux dire que la salsa est devenue une véritable passion. C'est **un exutoire formidable** qui me permet de me libérer de toutes mes tensions quotidiennes. Dans l'avenir, j'aimerais participer à des compétitions et, **qui sait**, peut-être même enseigner cette danse à mon tour !
 
 ### 📚 Tableau de vocabulaire (Mots/expressions mis en évidence)
+
 | Mot / Expression (FR) | Meaning (EN) | Illustration (FR) | Illustration (EN) |
 |---|---|---|---|
 | pris la décision | made the decision | J'ai **pris la décision** de déménager. | I **made the decision** to move. |

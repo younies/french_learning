@@ -41,6 +41,7 @@ Vous êtes nouvellement installé dans une grande ville et vous cherchez à part
 Salut à tous! J'**offre en colocation** un super appart de **70m²**, bien **aménagé** et situé en plein centre-ville. Je cherche un coloc **sérieux** et **responsable**, non-fumeur. Le loyer est de **600€** par mois, charges incluses. **Contactez-moi** par mail à: coloc@exemple.com. L'appart sera **dispo** à partir du 1er juillet. **Pourquoi la colocation** ? C'est une super opportunité de partager des moments sympas et de **réduire nos charges**. Au plaisir de vous lire!
 
 ### 📚 Tableau de vocabulaire (Mots/expressions mis en évidence)
+
 | Mot / Expression (FR) | Meaning (EN) | Illustration (FR) | Illustration (EN) |
 |---|---|---|---|
 | offre en colocation | offer for a shared rental | J'offre en colocation un appartement de deux pièces. | I offer a two-room apartment for shared rental. |

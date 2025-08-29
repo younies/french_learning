@@ -40,6 +40,7 @@ Vous rédigez un texte à destination d'une audience large, des personnes potent
 **Salut à tous!** Je loue un appartement **spacieux** de 80m2 en plein cœur de Paris, avec une chambre **libre**. Je cherche un colocataire **sympa** et **respectueux**, non-fumeur et sans animaux. Le loyer est de 600€ par mois, charges comprises. Si vous êtes intéressé, n'hésitez pas à me contacter pour **planifier une visite**. **Au plaisir de partager** ce super endroit avec vous!
 
 ### 📚 Tableau de vocabulaire (Mots/expressions mis en évidence)
+
 | Mot / Expression (FR) | Meaning (EN) | Illustration (FR) | Illustration (EN) |
 |---|---|---|---|
 | Salut à tous! | Hi everyone! | Salut à tous! Comment ça va? | Hi everyone! How's it going? |
