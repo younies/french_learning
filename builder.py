@@ -2,8 +2,9 @@
 """
 French Learning Repository Link Builder
 
-This script automatically scans the tcf_canada/eo/task2 and tcf_canada/eo/task3 
-directories and generates markdown links for all files, then updates the README.md.
+This script automatically scans the tcf_canada/eo/task2, tcf_canada/eo/task3,
+and tcf_canada/ee/task1, tcf_canada/ee/task2, tcf_canada/ee/task3 directories
+and generates markdown links for all files, then updates the README.md.
 """
 
 import os
@@ -26,7 +27,7 @@ def clean_filename_for_title(filename: str) -> str:
     title = filename.replace('.md', '')
     
     # Extract task number if present
-    task_match = re.match(r'task[23]_(\d+)_(.+)', title)
+    task_match = re.match(r'task[123]_(\d+)_(.+)', title)
     if task_match:
         task_num = task_match.group(1)
         content = task_match.group(2)
@@ -96,13 +97,16 @@ def generate_markdown_links(files: List[Tuple[str, str]]) -> str:
     return '\n'.join(links) + '\n'
 
 
-def update_readme(task2_content: str, task3_content: str) -> None:
+def update_readme(eo_task2_content: str, eo_task3_content: str, ee_task1_content: str, ee_task2_content: str, ee_task3_content: str) -> None:
     """
-    Update the README.md file with new content for task2 and task3 sections.
+    Update the README.md file with new content for all task sections.
     
     Args:
-        task2_content: Markdown content for task2 section
-        task3_content: Markdown content for task3 section
+        eo_task2_content: Markdown content for Expression Orale task2 section
+        eo_task3_content: Markdown content for Expression Orale task3 section
+        ee_task1_content: Markdown content for Expression Écrite task1 section
+        ee_task2_content: Markdown content for Expression Écrite task2 section
+        ee_task3_content: Markdown content for Expression Écrite task3 section
     """
     readme_path = Path('README.md')
     
@@ -114,33 +118,49 @@ def update_readme(task2_content: str, task3_content: str) -> None:
     with open(readme_path, 'r', encoding='utf-8') as f:
         content = f.read()
     
-    # Define the sections to replace
-    task2_start = "## New Expression Orale Tâche 2\n"
-    task3_start = "## New Expression Orale Tâche 3\n"
+    # Find the TCF Canada section
+    tcf_start = "## TCF Canada\n"
+    tcf_pos = content.find(tcf_start)
     
-    # Find the positions of each section
-    task2_pos = content.find(task2_start)
-    task3_pos = content.find(task3_start)
-    
-    if task2_pos == -1 or task3_pos == -1:
-        print("Could not find the required sections in README.md")
+    if tcf_pos == -1:
+        print("Could not find the TCF Canada section in README.md")
         return
     
-    # Extract the parts of the README
-    before_task2 = content[:task2_pos]
+    # Extract the part before TCF Canada
+    before_tcf = content[:tcf_pos]
     
-    # Find the end of task2 section (start of task3 section)
-    task2_end = task3_pos
+    # Build the new TCF Canada section with both EE and EO content
+    new_tcf_content = f"""## TCF Canada
+
+### Expression Ecrite
+
+#### Tâche 1
+
+{ee_task1_content}
+
+#### Tâche 2
+
+{ee_task2_content}
+
+#### Tâche 3
+
+{ee_task3_content}
+
+### Expression Orale
+
+* [Exam 1](tcf_canada/eo/exam1.md)
+
+#### Tâche 2
+
+{eo_task2_content}
+
+#### Tâche 3
+
+{eo_task3_content}
+"""
     
-    # Find the end of task3 section (end of file or next major section)
-    after_task3_pos = len(content)  # Default to end of file
-    
-    # Build the new content
-    new_content = (
-        before_task2 +
-        task2_start + "\n" + task2_content + "\n\n" +
-        task3_start + "\n" + task3_content
-    )
+    # Build the complete new content
+    new_content = before_tcf + new_tcf_content
     
     # Write the updated content
     with open(readme_path, 'w', encoding='utf-8') as f:
@@ -154,35 +174,69 @@ def main():
     print("French Learning Repository Link Builder")
     print("=" * 40)
     
-    # Define paths
-    base_path = Path('tcf_canada/eo')
-    task2_path = base_path / 'task2'
-    task3_path = base_path / 'task3'
+    # Define paths for Expression Orale
+    eo_base_path = Path('tcf_canada/eo')
+    eo_task2_path = eo_base_path / 'task2'
+    eo_task3_path = eo_base_path / 'task3'
     
-    # Scan directories
-    print(f"Scanning {task2_path}...")
-    task2_files = scan_directory(task2_path)
-    print(f"Found {len(task2_files)} files in task2")
+    # Define paths for Expression Écrite
+    ee_base_path = Path('tcf_canada/ee')
+    ee_task1_path = ee_base_path / 'task1'
+    ee_task2_path = ee_base_path / 'task2'
+    ee_task3_path = ee_base_path / 'task3'
     
-    print(f"Scanning {task3_path}...")
-    task3_files = scan_directory(task3_path)
-    print(f"Found {len(task3_files)} files in task3")
+    # Scan Expression Orale directories
+    print(f"Scanning {eo_task2_path}...")
+    eo_task2_files = scan_directory(eo_task2_path)
+    print(f"Found {len(eo_task2_files)} files in EO task2")
+    
+    print(f"Scanning {eo_task3_path}...")
+    eo_task3_files = scan_directory(eo_task3_path)
+    print(f"Found {len(eo_task3_files)} files in EO task3")
+    
+    # Scan Expression Écrite directories
+    print(f"Scanning {ee_task1_path}...")
+    ee_task1_files = scan_directory(ee_task1_path)
+    print(f"Found {len(ee_task1_files)} files in EE task1")
+    
+    print(f"Scanning {ee_task2_path}...")
+    ee_task2_files = scan_directory(ee_task2_path)
+    print(f"Found {len(ee_task2_files)} files in EE task2")
+    
+    print(f"Scanning {ee_task3_path}...")
+    ee_task3_files = scan_directory(ee_task3_path)
+    print(f"Found {len(ee_task3_files)} files in EE task3")
     
     # Generate markdown content
-    task2_content = generate_markdown_links(task2_files)
-    task3_content = generate_markdown_links(task3_files)
+    eo_task2_content = generate_markdown_links(eo_task2_files)
+    eo_task3_content = generate_markdown_links(eo_task3_files)
+    ee_task1_content = generate_markdown_links(ee_task1_files)
+    ee_task2_content = generate_markdown_links(ee_task2_files)
+    ee_task3_content = generate_markdown_links(ee_task3_files)
     
     # Preview the content
-    print("\nGenerated Task 2 content:")
+    print("\nGenerated EO Task 2 content:")
     print("-" * 25)
-    print(task2_content)
+    print(eo_task2_content)
     
-    print("Generated Task 3 content:")
+    print("Generated EO Task 3 content:")
     print("-" * 25)
-    print(task3_content)
+    print(eo_task3_content)
+    
+    print("Generated EE Task 1 content:")
+    print("-" * 25)
+    print(ee_task1_content)
+    
+    print("Generated EE Task 2 content:")
+    print("-" * 25)
+    print(ee_task2_content)
+    
+    print("Generated EE Task 3 content:")
+    print("-" * 25)
+    print(ee_task3_content)
     
     # Update README
-    update_readme(task2_content, task3_content)
+    update_readme(eo_task2_content, eo_task3_content, ee_task1_content, ee_task2_content, ee_task3_content)
 
 
 if __name__ == "__main__":

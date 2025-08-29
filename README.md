@@ -8,15 +8,26 @@ There is also a dedicated section for TCF Canada (Test de Connaissance du Franç
 
 ### Expression Ecrite
 
-* [Exam 1](tcf_canada/ee/exam1.md)
-* [Exam 2](tcf_canada/ee/exam2.md)
+#### Tâche 1
+
+* [Numéro 001: Répondez au courriel de votre ami Lucas en lui fournissant des détails sur les nouveaux locaux de vo](tcf_canada/ee/task1/task1_001_Répondez_au_courriel_de_votre_ami_Lucas_en_lui_fournissant_des_détails_sur_les_nouveaux_locaux_de_vo.md)
+
+
+#### Tâche 2
+
+* [Numéro 001: Partagez votre expérience lors de lévénement Une semaine sans voiture incluant les dates le l](tcf_canada/ee/task2/task2_001_Partagez_votre_expérience_lors_de_lévénement_Une_semaine_sans_voiture_incluant_les_dates_le_l.md)
+
+
+#### Tâche 3
+
+* [Numéro 001: Impact des vêtements de marque sur les enfants](tcf_canada/ee/task3/task3_001_Impact_des_vêtements_de_marque_sur_les_enfants.md)
+
 
 ### Expression Orale
 
 * [Exam 1](tcf_canada/eo/exam1.md)
 
-
-## New Expression Orale Tâche 2
+#### Tâche 2
 
 * [Numéro 001: Je suis une de vos collègues Vous êtes nouvellement arrivée dans lentreprise et vous me demande](tcf_canada/eo/task2/task2_001_Je_suis_une_de_vos_collègues.Vous_êtes_nouvellement_arrivée_dans_lentreprise_et_vous_me_demande.md)
 * [Numéro 002: Je suis votre amie et je vous invite à une célébration Vous êtes nouvellement installée au Québ](tcf_canada/eo/task2/task2_002_Je_suis_votre_amie_et_je_vous_invite_à_une_célébration._Vous_êtes_nouvellement_installée_au_Québ.md)
@@ -35,10 +46,9 @@ There is also a dedicated section for TCF Canada (Test de Connaissance du Franç
 * [Numéro 015: Je suis votre amie au Canada Vous venez me voir en décembre Vous me posez des questions pour bien](tcf_canada/eo/task2/task2_015_Je_suis_votre_amie_au_Canada._Vous_venez_me_voir_en_décembre.Vous_me_posez_des_questions_pour_bien.md)
 * [Numéro 016: Je suis votre amie Je vis en colocation et une chambre est libre Vous êtes intéressée Vous me](tcf_canada/eo/task2/task2_016_Je_suis_votre_amie._Je_vis_en_colocation_et_une_chambre_est_libre._Vous_êtes_intéressée.Vous_me.md)
 * [Numéro 017: Je suis votre voisine Vous venez darriver dans le quartier Vous me posez des questions pour le d](tcf_canada/eo/task2/task2_017_Je_suis_votre_voisine._Vous_venez_darriver_dans_le_quartier.Vous_me_posez_des_questions_pour_le_d.md)
-* [Numéro 018: Je suis votre voisine Vous venez darriver dans le quartier Vous me posez des questions pour le d](tcf_canada/eo/task2/task2_018_Je_suis_votre_voisine._Vous_venez_darriver_dans_le_quartier.Vous_me_posez_des_questions_pour_le_d.md)
 
 
-## New Expression Orale Tâche 3
+#### Tâche 3
 
 * [Numéro 001: Partie 1Pensez-vous que la gentillesse garantit toujours dobtenir de lattention et du respectPens](tcf_canada/eo/task3/task3_001_Partie_1Pensez-vous_que_la_gentillesse_garantit_toujours_dobtenir_de_lattention_et_du_respectPens.md)
 * [Numéro 002: Pensez-vous que la gentillesse garantit toujours dobtenir de lattention et du respect](tcf_canada/eo/task3/task3_002_Pensez-vous_que_la_gentillesse_garantit_toujours_dobtenir_de_lattention_et_du_respect.md)
@@ -57,4 +67,4 @@ There is also a dedicated section for TCF Canada (Test de Connaissance du Franç
 * [Numéro 015: Les méthodologiesCompréhension ÉcriteCompréhension OraleExpression écriteExpression oraleÀ propos de](tcf_canada/eo/task3/task3_015_les_méthodologiesCompréhension_ÉcriteCompréhension_OraleExpression_écriteExpression_oraleÀ_propos_de.md)
 * [Numéro 016: Partie 2À votre avis les adolescents ont-ils vraiment besoin dun téléphone personnelPensez-vous q](tcf_canada/eo/task3/task3_016_Partie_2À_votre_avis_les_adolescents_ont-ils_vraiment_besoin_dun_téléphone_personnelPensez-vous_q.md)
 * [Numéro 017: Pensez-vous quInternet a vraiment rapproché les gens partout dans le monde](tcf_canada/eo/task3/task3_017_Pensez-vous_quInternet_a_vraiment_rapproché_les_gens_partout_dans_le_monde.md)
-* [Numéro 018: Pensez-vous quon travaille mieux quand on aime ce que lon faitPensez-vous que la performance à l](tcf_canada/eo/task3/task3_018_Pensez-vous_quon_travaille_mieux_quand_on_aime_ce_que_lon_faitPensez-vous_que_la_performance_à_l.md)
+
