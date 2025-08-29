@@ -11,16 +11,25 @@ There is also a dedicated section for TCF Canada (Test de Connaissance du Franç
 #### Tâche 1
 
 * [Numéro 001: Répondez au courriel de votre ami Lucas en lui fournissant des détails sur les nouveaux locaux de vo](tcf_canada/ee/task1/task1_001_Répondez_au_courriel_de_votre_ami_Lucas_en_lui_fournissant_des_détails_sur_les_nouveaux_locaux_de_vo.md)
+* [Numéro 002: Vous êtes locataire dun appartement qui vous semble trop grand Rédigez une annonce dans un journal](tcf_canada/ee/task1/task1_002_Vous_êtes_locataire_dun_appartement_qui_vous_semble_trop_grand.Rédigez_une_annonce_dans_un_journal.md)
+* [Numéro 003: Rédigez une annonce dans un journal pour trouver un colocataire en indiquant la superficie le prof](tcf_canada/ee/task1/task1_003_Rédigez_une_annonce_dans_un_journal_pour_trouver_un_colocataire_en_indiquant_la_superficie_le_prof.md)
+* [Numéro 004: Rédigez un message à un ami pour linformer de votre déménagement et lui demander son aide en préci](tcf_canada/ee/task1/task1_004_Rédigez_un_message_à_un_ami_pour_linformer_de_votre_déménagement_et_lui_demander_son_aide_en_préci.md)
 
 
 #### Tâche 2
 
 * [Numéro 001: Partagez votre expérience lors de lévénement Une semaine sans voiture incluant les dates le l](tcf_canada/ee/task2/task2_001_Partagez_votre_expérience_lors_de_lévénement_Une_semaine_sans_voiture_incluant_les_dates_le_l.md)
+* [Numéro 002: Vous avez récemment débuté une nouvelle activité de loisir comme un sport ou la danse Rédigez un ar](tcf_canada/ee/task2/task2_002_Vous_avez_récemment_débuté_une_nouvelle_activité_de_loisir_comme_un_sport_ou_la_danse.Rédigez_un_ar.md)
+* [Numéro 003: Rédigez un article sur votre blog pour partager votre expérience](tcf_canada/ee/task2/task2_003_Rédigez_un_article_sur_votre_blog_pour_partager_votre_expérience.md)
+* [Numéro 004: Rédigez un article de blog sur votre artiste préféré dans le cadre dun concours dont le thème est](tcf_canada/ee/task2/task2_004_Rédigez_un_article_de_blog_sur_votre_artiste_préféré_dans_le_cadre_dun_concours_dont_le_thème_est.md)
 
 
 #### Tâche 3
 
 * [Numéro 001: Impact des vêtements de marque sur les enfants](tcf_canada/ee/task3/task3_001_Impact_des_vêtements_de_marque_sur_les_enfants.md)
+* [Numéro 002: Laccès gratuit aux musées avantage ou inconvénient](tcf_canada/ee/task3/task3_002_Laccès_gratuit_aux_musées_avantage_ou_inconvénient.md)
+* [Numéro 003: Objets Connectés](tcf_canada/ee/task3/task3_003_Objets_Connectés.md)
+* [Numéro 004: Lart urbain Pour ou contre](tcf_canada/ee/task3/task3_004_Lart_urbain_Pour_ou_contre.md)
 
 
 ### Expression Orale
