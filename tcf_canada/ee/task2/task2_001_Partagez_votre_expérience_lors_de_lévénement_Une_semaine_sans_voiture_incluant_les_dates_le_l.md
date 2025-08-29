@@ -4,7 +4,7 @@ source_file: aout-2025-expression-ecrite.json
 source_url: https://reussir-tcfcanada.com/aout-2025-expression-ecrite/
 task: tache_2
 word_count: 120-150
-generated_at: 2025-08-29 04:48:39
+generated_at: 2025-08-29 18:01:47
 ---
 
 # Informations
@@ -21,34 +21,49 @@ Partagez votre expérience lors de l’événement « Une semaine sans voiture �
 ---
 
 # Tâche 2 - Expression Écrite TCF Canada
-## "Une semaine sans voiture"
+## Partager votre expérience lors de l'événement "Une semaine sans voiture"
 
 ### 📝 Consigne
-Rédigez un article pour votre blog personnel dans lequel vous partagez votre expérience lors de l'événement "Une semaine sans voiture". Incluez des informations précises sur les dates, le lieu et les activités proposées. Exprimez également votre avis sur cette initiative. Le texte doit compter entre 120 et 150 mots.
+Rédigez un article de blog pour partager votre expérience lors de l'événement "Une semaine sans voiture". Incluez les dates, le lieu, et décrivez les activités proposées. Donnez également votre avis personnel sur cette initiative. Votre texte devra contenir entre 120 et 150 mots.
 
 ### 🎯 Contexte de rédaction
-Votre texte est destiné à être publié sur votre blog personnel, donc le public cible est principalement constitué de vos abonnés, de personnes intéressées par les initiatives écologiques et le grand public. Le ton doit rester informel mais informatif.
+Votre texte sera publié sur un blog axé sur le développement durable et l'écologie, visité par des lecteurs de tous âges intéressés par ces sujets. Adoptez un ton à la fois informatif et personnel.
 
 ### 📋 Plan suggéré
-1. Introduction : Présentation de l'événement "Une semaine sans voiture"
-2. Développement : Description de votre expérience, des activités proposées et des effets observés 
-3. Conclusion : Votre avis sur cette initiative et une ouverture sur de prochaines éditions ou initiatives similaires
+1. Introduction: Présentation de l'événement et du contexte personnel
+2. Développement: Description des activités proposées, du lieu, et des dates
+3. Avis personnel: Partage de votre ressenti sur cette initiative
+4. Conclusion: Ouverture sur le futur de ce genre d'initiatives
 
 ### ✅ Éléments obligatoires
-1. Introduction de l'événement avec des informations précises (date, lieu)
-2. Description de quelques activités proposées pendant cette semaine
-3. Récit d'une ou deux expériences marquantes que vous avez vécues pendant cette semaine
-4. Expression de votre ressenti personnel sur l'événement
-5. Présentation de votre opinion sur l'initiative "Une semaine sans voiture"
-6. Ouverture sur les éditions futures ou autres initiatives écologiques similaires
+1. Présentation de l'événement "Une semaine sans voiture"
+2. Mention du lieu et des dates
+3. Description des activités proposées
+4. Partage de votre expérience personnelle pendant l'événement
+5. Expression de votre avis sur cette initiative
+6. Réflexion sur l'impact et le futur de ce genre d'initiatives
 
-### 💡 Exemple de réponse
-L'événement "Une semaine sans voiture", organisé du 14 au 20 septembre à Paris, a été une expérience enrichissante. De nombreuses activités étaient proposées, comme des balades à vélo ou des ateliers de réparation. J'ai particulièrement apprécié la journée sans voiture, où la quiétude de la ville sans bruit de moteur était surprenante. Cette initiative m'a permis de réaliser à quel point notre dépendance à la voiture est importante et combien il est essentiel de promouvoir des alternatives plus écologiques. J'espère que cet événement sera reconduit l'année prochaine et inspirera d'autres villes.
+### 💡 Exemple de réponse (B2++)
+**Ayant eu l'opportunité** de participer à l'événement "Une semaine sans voiture" qui **s'est déroulé** du 20 au 27 septembre à Paris, je peux affirmer que c'était une expérience enrichissante. **Des activités variées** ont été proposées, allant de **l'initiation au vélo** pour les plus petits à des **ateliers de sensibilisation** sur l'impact environnemental des voitures. **Personnellement**, j'ai beaucoup apprécié cette initiative qui nous **a permis de découvrir** des alternatives écologiques aux transports motorisés. Cependant, je regrette que **cette action soit limitée** à une semaine par an. **Il serait souhaitable** que des événements similaires se multiplient et **contribuent à un changement durable** de nos habitudes de déplacement.
 
-### 📚 Vocabulaire utile
-**Mots-clés:** une semaine sans voiture, initiative, écologie, balade à vélo, atelier de réparation, quiétude, dépendance, alternatives
-**Connecteurs:** donc, cependant, par conséquent, pourtant, en outre
-**Expressions d'opinion:** à mon avis, je pense que, je crois que, il me semble que, je suis convaincu(e) que
+### 📚 Tableau de vocabulaire (Mots/expressions mis en évidence)
+| Mot / Expression (FR) | Meaning (EN) | Illustration (FR) | Illustration (EN) |
+|---|---|---|---|
+| Ayant eu l'opportunité | Having had the opportunity | **Ayant eu l'opportunité** de voyager, j'ai découvert de nouvelles cultures. | **Having had the opportunity** to travel, I discovered new cultures. |
+| s'est déroulé | took place | Le concert **s'est déroulé** dans une ambiance festive. | The concert **took place** in a festive atmosphere. |
+| Des activités variées | Varied activities | **Des activités variées** sont proposées dans le parc. | **Varied activities** are offered in the park. |
+| l'initiation au vélo | introduction to cycling | L'association propose une **initiation au vélo** pour les enfants. | The association offers an **introduction to cycling** for children. |
+| ateliers de sensibilisation | awareness workshops | Les **ateliers de sensibilisation** visent à informer le public sur une problématique spécifique. | **Awareness workshops** aim to inform the public about a specific issue. |
+| a permis de découvrir | allowed to discover | La lecture du livre m'**a permis de découvrir** un nouvel auteur. | Reading the book **allowed me to discover** a new author. |
+| Il serait souhaitable | It would be desirable | **Il serait souhaitable** de réduire notre consommation d'énergie. | **It would be desirable** to reduce our energy consumption. |
+| contribuent à un changement durable | contribute to a sustainable change | Ces actions **contribuent à un changement durable** dans notre société. | These actions **contribute to a sustainable change** in our society. |
+
+### ✅ Checklist grammaticale utilisée
+- Participe présent : "**Ayant eu** l'opportunité"
+- Passé composé : "qui **s'est déroulé**"
+- Superlatifs : "**des activités variées**"
+- Conditionnel présent : "**Il serait souhaitable**"
+- Subjonctif présent : "**contribuent** à un changement durable"
 
 ### 📊 Critères d'évaluation
 - Respect de la consigne et du nombre de mots
@@ -57,8 +72,8 @@ L'événement "Une semaine sans voiture", organisé du 14 au 20 septembre à Par
 - Correction de la langue
 
 ### 🔧 Conseils méthodologiques
-1. Prenez le temps de bien comprendre la consigne et de noter vos idées avant de commencer à écrire.
-2. Commencez par une introduction accrocheuse pour susciter l'intérêt du lecteur.
-3. Utilisez des connecteurs pour structurer votre texte et faciliter la lecture.
-4. N'hésitez pas à utiliser du vocabulaire varié et précis pour rendre votre texte plus riche et intéressant.
-5. Relisez-vous pour corriger les éventuelles fautes de langue.
+1. Commencez par une introduction qui présente l'événement et votre contexte personnel.
+2. Dans le développement, décrivez les activités, le lieu, et les dates.
+3. Partagez votre expérience et votre avis de manière personnelle, sans être trop subjectif.
+4. Concluez en ouvrant sur une réflexion future, pour inciter le lecteur à la réflexion.
+5. Utilisez un vocabulaire varié et des structures grammaticales diverses pour enrichir votre texte.

@@ -4,7 +4,7 @@ source_file: aout-2025-expression-ecrite.json
 source_url: https://reussir-tcfcanada.com/aout-2025-expression-ecrite/
 task: tache_1
 word_count: 60-120
-generated_at: 2025-08-29 04:48:16
+generated_at: 2025-08-29 18:01:10
 ---
 
 # Informations
@@ -21,38 +21,60 @@ Répondez au courriel de votre ami Lucas en lui fournissant des détails sur les
 ---
 
 # Tâche 1 - Expression Écrite TCF Canada
-## Les nouveaux locaux de mon entreprise
+## Détails sur les nouveaux locaux de votre entreprise
 
 ### 📝 Consigne
-Votre ami Lucas vous a envoyé un courriel pour vous demander des informations sur les nouveaux locaux de votre entreprise. Il est intéressé par l'emplacement, l'aménagement des pièces, les équipements disponibles et autres détails pertinents. Répondez à Lucas en décrivant ces éléments et exprimez votre opinion sur ce nouveau lieu de travail. Votre message doit comporter entre 60 et 120 mots.
+Votre ami Lucas vous a envoyé un courriel pour vous demander des informations sur les nouveaux locaux de votre entreprise. Vous devez rédiger une réponse dans laquelle vous lui fournirez des informations sur l'emplacement des locaux, leur agencement, ainsi que les équipements disponibles. Votre réponse doit contenir entre 60 et 120 mots.
 
 ### 🎯 Situation de communication
-Lucas est un ami proche qui s'intéresse à votre vie professionnelle. Il est curieux de savoir comment sont les nouveaux locaux de votre entreprise. Votre objectif est de lui donner une idée précise et détaillée de cet espace, tout en partageant votre ressenti.
+Lucas est un ami proche avec qui vous avez l'habitude de partager des informations sur votre vie professionnelle. Il est curieux de connaître votre nouvel environnement de travail et vous souhaitez lui donner une image précise de celui-ci.
 
 ### ✅ Éléments à inclure
-1. Présentation de l'emplacement des nouveaux locaux
-2. Description de l'aménagement des pièces
-3. Présentation des équipements disponibles
-4. Votre opinion sur ces nouveaux locaux
-5. Réponse à une question éventuelle de Lucas
+1. La situation géographique des nouveaux locaux
+2. L'agencement des différentes pièces
+3. Les équipements disponibles
+4. Votre sentiment personnel sur ce nouvel environnement
+5. Une invitation à Lucas pour qu'il vienne voir ces locaux
 
-### 💡 Exemple de réponse
+### 💡 Exemple de réponse (B2++)
 Salut Lucas,
 
-Les nouveaux locaux de notre boîte sont super bien situés, juste à côté de la gare. C'est vraiment pratique ! L'aménagement est bien pensé avec des espaces ouverts pour travailler en équipe et des salles de réunions équipées de tout le matériel high-tech. On a même une salle de pause avec une machine à café dernier cri. Pour répondre à ta question, oui on a une terrasse avec une vue incroyable sur la ville. Personnellement, je me sens vraiment bien dans ce nouvel environnement de travail. 
+Je suis ravi de te parler de notre **nouvel espace de travail**. Il est situé en plein centre-ville, **à deux pas** de la gare. Les locaux sont **agencés de manière** à favoriser la collaboration : nous avons des salles de réunion **équipées** de tableaux interactifs et un espace détente très agréable.
 
-A bientôt,
-[Votre nom]
+Personnellement, je trouve que cet environnement stimule notre créativité. De plus, la proximité des transports en commun est un vrai **atout**. **Cela dit**, je serais ravi de te montrer tout cela **en personne**. Quand pourrais-tu passer ?
+
+À bientôt,
+[Ton prénom]
+
+### 📚 Tableau de vocabulaire (Mots/expressions mis en évidence)
+| Mot / Expression (FR) | Meaning (EN) | Illustration (FR) | Illustration (EN) |
+|---|---|---|---|
+| nouvel espace de travail | new workspace | Dans notre nouvel espace de travail, la lumière naturelle est privilégiée. | In our new workspace, natural light is favored. |
+| à deux pas | a stone's throw away | Le restaurant est à deux pas de mon bureau. | The restaurant is a stone's throw away from my office. |
+| agencés de manière | arranged in a way | Les meubles sont agencés de manière à économiser de l'espace. | The furniture is arranged in a way to save space. |
+| équipées | equipped | Les salles de réunion sont équipées de projecteurs. | The meeting rooms are equipped with projectors. |
+| atout | asset | La maîtrise de plusieurs langues est un atout dans le monde professionnel. | Mastery of several languages is an asset in the professional world. |
+| cela dit | that being said | C'est un bon film, cela dit, la fin est un peu décevante. | It's a good movie, that being said, the ending is a bit disappointing. |
+| en personne | in person | J'aimerais vous rencontrer en personne pour discuter de cette proposition. | I would like to meet you in person to discuss this proposal. |
+
+### ✅ Checklist grammaticale utilisée
+- forme passive : "Il est situé"
+- conditionnel présent : "je serais ravi"
+- subjonctif présent : "Quand pourrais-tu passer ?"
 
 ### 📊 Critères d'évaluation
 - Respect de la consigne et du nombre de mots
-- Utilisation d'un registre de langue familier/informel
-- Cohérence et organisation du message
-- Richesse du vocabulaire et correction grammaticale
+- Adéquation du registre et clarté (B2++)
+- Cohérence et progression du message
+- Richesse lexicale mesurée et correction grammaticale
+- Qualité des connecteurs et de la ponctuation
 
 ### 🔧 Conseils méthodologiques
-1. Lisez attentivement la consigne et assurez-vous de comprendre tous les éléments à inclure.
-2. Planifiez votre message avant de commencer à écrire : introduction, développement et conclusion.
-3. Utilisez un vocabulaire varié et des structures grammaticales diverses.
-4. Relisez votre message pour vérifier l'orthographe, la grammaire et la cohérence.
-5. N'oubliez pas la formule de politesse à la fin du message.
+- Planifiez votre message en trois parties : introduction, corps du message, conclusion
+- Utilisez une variété de connecteurs pour assurer la cohérence de votre message
+- Relisez votre message pour corriger les éventuelles fautes de grammaire et d'orthographe
+
+**Erreurs à éviter :**
+- N'oubliez pas d'inviter Lucas à visiter les locaux
+- N'oubliez pas de donner votre opinion sur les nouveaux locaux
+- Assurez-vous que votre message est bien adressé à un ami (registre informel) et non à un supérieur ou à un collègue (registre formel).
