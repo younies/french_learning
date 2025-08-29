@@ -35,6 +35,7 @@ There is also a dedicated section for TCF Canada (Test de Connaissance du Franç
 * [Numéro 015: Je suis votre amie au Canada Vous venez me voir en décembre Vous me posez des questions pour bien](tcf_canada/eo/task2/task2_015_Je_suis_votre_amie_au_Canada._Vous_venez_me_voir_en_décembre.Vous_me_posez_des_questions_pour_bien.md)
 * [Numéro 016: Je suis votre amie Je vis en colocation et une chambre est libre Vous êtes intéressée Vous me](tcf_canada/eo/task2/task2_016_Je_suis_votre_amie._Je_vis_en_colocation_et_une_chambre_est_libre._Vous_êtes_intéressée.Vous_me.md)
 * [Numéro 017: Je suis votre voisine Vous venez darriver dans le quartier Vous me posez des questions pour le d](tcf_canada/eo/task2/task2_017_Je_suis_votre_voisine._Vous_venez_darriver_dans_le_quartier.Vous_me_posez_des_questions_pour_le_d.md)
+* [Numéro 018: Je suis votre voisine Vous venez darriver dans le quartier Vous me posez des questions pour le d](tcf_canada/eo/task2/task2_018_Je_suis_votre_voisine._Vous_venez_darriver_dans_le_quartier.Vous_me_posez_des_questions_pour_le_d.md)
 
 
 ## New Expression Orale Tâche 3
@@ -56,3 +57,4 @@ There is also a dedicated section for TCF Canada (Test de Connaissance du Franç
 * [Numéro 015: Les méthodologiesCompréhension ÉcriteCompréhension OraleExpression écriteExpression oraleÀ propos de](tcf_canada/eo/task3/task3_015_les_méthodologiesCompréhension_ÉcriteCompréhension_OraleExpression_écriteExpression_oraleÀ_propos_de.md)
 * [Numéro 016: Partie 2À votre avis les adolescents ont-ils vraiment besoin dun téléphone personnelPensez-vous q](tcf_canada/eo/task3/task3_016_Partie_2À_votre_avis_les_adolescents_ont-ils_vraiment_besoin_dun_téléphone_personnelPensez-vous_q.md)
 * [Numéro 017: Pensez-vous quInternet a vraiment rapproché les gens partout dans le monde](tcf_canada/eo/task3/task3_017_Pensez-vous_quInternet_a_vraiment_rapproché_les_gens_partout_dans_le_monde.md)
+* [Numéro 018: Pensez-vous quon travaille mieux quand on aime ce que lon faitPensez-vous que la performance à l](tcf_canada/eo/task3/task3_018_Pensez-vous_quon_travaille_mieux_quand_on_aime_ce_que_lon_faitPensez-vous_que_la_performance_à_l.md)
