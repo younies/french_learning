@@ -46,6 +46,7 @@ Vous devez rédiger un texte argumentatif de 120 à 180 mots dans lequel vous pr
 4. Conclusion: position personnelle argumentée.
 
 ### 💡 Exemple de réponse (B2++) – 4 paragraphes
+
 Le **Document 1 insiste sur** l'importance des vêtements de marque pour les enfants, en **soutenant qu'ils** permettent d'affirmer leur identité et de s'intégrer socialement. **À l'opposé**, le **Document 2 soulève l'inconvénient** de ces vêtements pour les enfants : leur croissance rapide et leur tendance à user rapidement leurs vêtements.  
 
 **Personnellement, je suis davantage en accord avec** le point de vue du Document 1. **Il est indéniable que** les vêtements de marque peuvent aider les enfants à se sentir acceptés par leurs pairs. C'est une étape essentielle dans leur développement social. 
