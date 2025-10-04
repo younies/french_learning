@@ -43,6 +43,7 @@ Votre texte sera publié sur un blog dédié à la musique et aux cultures du mo
 6. Expression de votre désir de gagner.
 
 ### 💡 Exemple de réponse (B2++)
+
 J'ai toujours été **fasciné** par l'univers de *Stromae*, artiste belge **aux multiples facettes**. Son album "**Racine Carrée**", est pour moi une **véritable pépite**. **Au-delà** de sa musique entrainante, ce qui me touche le plus, c'est la **profondeur** de ses textes. En effet, il **décortique** les maux de notre société avec une **acuité** rare. **C'est comme si** ses chansons **étaient le reflet** de ma propre vie. J'admire sa capacité à **jongler** entre des sujets légers et d'autres plus graves. Ce concours est une occasion **en or** pour moi de faire connaître cet artiste **hors pair**. Si je gagne ce séjour à Bruxelles, ville de naissance de Stromae, je serais **aux anges**. C'est avec une **vive émotion** que je vous partage ma passion pour cet artiste exceptionnel.
 
 ### 📚 Tableau de vocabulaire (Mots/expressions mis en évidence)
