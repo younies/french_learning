@@ -19,11 +19,11 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 2 - Conversation simulée
 
-**📄 Sujet sélectionné :** [Task2 017 Je suis votre voisine. Vous venez darriver dans le quartier.Vous me posez des questions pour le d](tcf_canada/eo/task2/task2_017_Je_suis_votre_voisine._Vous_venez_darriver_dans_le_quartier.Vous_me_posez_des_questions_pour_le_d.md)
+**📄 Sujet sélectionné :** [Task2 017 Je suis votre voisine. Vous venez darriver dans le quartier.Vous me posez des questions pour le d](../tcf_canada/eo/task2/task2_017_Je_suis_votre_voisine._Vous_venez_darriver_dans_le_quartier.Vous_me_posez_des_questions_pour_le_d.md)
 
 ### Tâche 3 - Monologue suivi
 
-**📄 Sujet sélectionné :** [Task3 017 Pensez-vous quInternet a vraiment rapproché les gens partout dans le monde](tcf_canada/eo/task3/task3_017_Pensez-vous_quInternet_a_vraiment_rapproché_les_gens_partout_dans_le_monde.md)
+**📄 Sujet sélectionné :** [Task3 017 Pensez-vous quInternet a vraiment rapproché les gens partout dans le monde](../tcf_canada/eo/task3/task3_017_Pensez-vous_quInternet_a_vraiment_rapproché_les_gens_partout_dans_le_monde.md)
 
 ---
 
@@ -31,15 +31,15 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 1 - Message personnel (60-120 mots)
 
-**📄 Sujet sélectionné :** [Task1 017 Décrivez votre travail vos collègues et votre environnement professionnel](tcf_canada/ee/task1/task1_017_Décrivez_votre_travail_vos_collègues_et_votre_environnement_professionnel.md)
+**📄 Sujet sélectionné :** [Task1 017 Décrivez votre travail vos collègues et votre environnement professionnel](../tcf_canada/ee/task1/task1_017_Décrivez_votre_travail_vos_collègues_et_votre_environnement_professionnel.md)
 
 ### Tâche 2 - Article de blog (120-150 mots)
 
-**📄 Sujet sélectionné :** [Task2 017 Une étudiante de 19 ans souhaite partir à létranger pour ses études et demande des témoignages sur](tcf_canada/ee/task2/task2_017_Une_étudiante_de_19_ans_souhaite_partir_à_létranger_pour_ses_études_et_demande_des_témoignages_sur.md)
+**📄 Sujet sélectionné :** [Task2 017 Une étudiante de 19 ans souhaite partir à létranger pour ses études et demande des témoignages sur](../tcf_canada/ee/task2/task2_017_Une_étudiante_de_19_ans_souhaite_partir_à_létranger_pour_ses_études_et_demande_des_témoignages_sur.md)
 
 ### Tâche 3 - Essai argumentatif (120-180 mots)
 
-**📄 Sujet sélectionné :** [Task3 017 Impact des Jeux Vidéo sur les Enfants](tcf_canada/ee/task3/task3_017_Impact_des_Jeux_Vidéo_sur_les_Enfants.md)
+**📄 Sujet sélectionné :** [Task3 017 Impact des Jeux Vidéo sur les Enfants](../tcf_canada/ee/task3/task3_017_Impact_des_Jeux_Vidéo_sur_les_Enfants.md)
 
 ---
 

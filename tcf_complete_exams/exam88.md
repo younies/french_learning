@@ -19,11 +19,11 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 2 - Conversation simulée
 
-**📄 Sujet sélectionné :** [Task2 089 Je suis votre amie et jorganise une fête. Vous voulez participer à la préparation.Vous me demande](tcf_canada/eo/task2/task2_089_Je_suis_votre_amie_et_jorganise_une_fête._Vous_voulez_participer_à_la_préparation.Vous_me_demande.md)
+**📄 Sujet sélectionné :** [Task2 089 Je suis votre amie et jorganise une fête. Vous voulez participer à la préparation.Vous me demande](../tcf_canada/eo/task2/task2_089_Je_suis_votre_amie_et_jorganise_une_fête._Vous_voulez_participer_à_la_préparation.Vous_me_demande.md)
 
 ### Tâche 3 - Monologue suivi
 
-**📄 Sujet sélectionné :** [Task3 089 Pensez-vous que lapprentissage na pas dâge](tcf_canada/eo/task3/task3_089_Pensez-vous_que_lapprentissage_na_pas_dâge.md)
+**📄 Sujet sélectionné :** [Task3 089 Pensez-vous que lapprentissage na pas dâge](../tcf_canada/eo/task3/task3_089_Pensez-vous_que_lapprentissage_na_pas_dâge.md)
 
 ---
 
@@ -31,15 +31,15 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 1 - Message personnel (60-120 mots)
 
-**📄 Sujet sélectionné :** [Task1 003 Rédigez une annonce dans un journal pour trouver un colocataire en indiquant la superficie le prof](tcf_canada/ee/task1/task1_003_Rédigez_une_annonce_dans_un_journal_pour_trouver_un_colocataire_en_indiquant_la_superficie_le_prof.md)
+**📄 Sujet sélectionné :** [Task1 003 Rédigez une annonce dans un journal pour trouver un colocataire en indiquant la superficie le prof](../tcf_canada/ee/task1/task1_003_Rédigez_une_annonce_dans_un_journal_pour_trouver_un_colocataire_en_indiquant_la_superficie_le_prof.md)
 
 ### Tâche 2 - Article de blog (120-150 mots)
 
-**📄 Sujet sélectionné :** [Task2 003 Rédigez un article sur votre blog pour partager votre expérience](tcf_canada/ee/task2/task2_003_Rédigez_un_article_sur_votre_blog_pour_partager_votre_expérience.md)
+**📄 Sujet sélectionné :** [Task2 003 Rédigez un article sur votre blog pour partager votre expérience](../tcf_canada/ee/task2/task2_003_Rédigez_un_article_sur_votre_blog_pour_partager_votre_expérience.md)
 
 ### Tâche 3 - Essai argumentatif (120-180 mots)
 
-**📄 Sujet sélectionné :** [Task3 015 La livraison de repas au bureau pratique ou problématique](tcf_canada/ee/task3/task3_015_La_livraison_de_repas_au_bureau_pratique_ou_problématique.md)
+**📄 Sujet sélectionné :** [Task3 015 La livraison de repas au bureau pratique ou problématique](../tcf_canada/ee/task3/task3_015_La_livraison_de_repas_au_bureau_pratique_ou_problématique.md)
 
 ---
 

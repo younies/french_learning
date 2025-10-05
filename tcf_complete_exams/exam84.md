@@ -19,11 +19,11 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 2 - Conversation simulée
 
-**📄 Sujet sélectionné :** [Task2 085 Je suis agent immobilier. Vous êtes à la recherche dun logement et vous voulez en savoir plus sur l](tcf_canada/eo/task2/task2_085_Je_suis_agent_immobilier._Vous_êtes_à_la_recherche_dun_logement_et_vous_voulez_en_savoir_plus_sur_l.md)
+**📄 Sujet sélectionné :** [Task2 085 Je suis agent immobilier. Vous êtes à la recherche dun logement et vous voulez en savoir plus sur l](../tcf_canada/eo/task2/task2_085_Je_suis_agent_immobilier._Vous_êtes_à_la_recherche_dun_logement_et_vous_voulez_en_savoir_plus_sur_l.md)
 
 ### Tâche 3 - Monologue suivi
 
-**📄 Sujet sélectionné :** [Task3 085 Pensez-vous que la gentillesse aide vraiment à se faire respecter Pourquoi](tcf_canada/eo/task3/task3_085_Pensez-vous_que_la_gentillesse_aide_vraiment_à_se_faire_respecter_Pourquoi.md)
+**📄 Sujet sélectionné :** [Task3 085 Pensez-vous que la gentillesse aide vraiment à se faire respecter Pourquoi](../tcf_canada/eo/task3/task3_085_Pensez-vous_que_la_gentillesse_aide_vraiment_à_se_faire_respecter_Pourquoi.md)
 
 ---
 
@@ -31,15 +31,15 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 1 - Message personnel (60-120 mots)
 
-**📄 Sujet sélectionné :** [Task1 084 Vous avez invité votre ami Cédric à votre mariage au Château de Chombony mais il vous a répondu qu](tcf_canada/ee/task1/task1_084_Vous_avez_invité_votre_ami_Cédric_à_votre_mariage_au_Château_de_Chombony_mais_il_vous_a_répondu_qu.md)
+**📄 Sujet sélectionné :** [Task1 084 Vous avez invité votre ami Cédric à votre mariage au Château de Chombony mais il vous a répondu qu](../tcf_canada/ee/task1/task1_084_Vous_avez_invité_votre_ami_Cédric_à_votre_mariage_au_Château_de_Chombony_mais_il_vous_a_répondu_qu.md)
 
 ### Tâche 2 - Article de blog (120-150 mots)
 
-**📄 Sujet sélectionné :** [Task2 084 Sur votre blog vous expliquez les raisons de ce choix et mettez en avant les bienfaits de votre nou](tcf_canada/ee/task2/task2_084_Sur_votre_blog_vous_expliquez_les_raisons_de_ce_choix_et_mettez_en_avant_les_bienfaits_de_votre_nou.md)
+**📄 Sujet sélectionné :** [Task2 084 Sur votre blog vous expliquez les raisons de ce choix et mettez en avant les bienfaits de votre nou](../tcf_canada/ee/task2/task2_084_Sur_votre_blog_vous_expliquez_les_raisons_de_ce_choix_et_mettez_en_avant_les_bienfaits_de_votre_nou.md)
 
 ### Tâche 3 - Essai argumentatif (120-180 mots)
 
-**📄 Sujet sélectionné :** [Task3 011 Les Jeux Vidéo Bienfaits Cognitifs ou Risque de Dépendance](tcf_canada/ee/task3/task3_011_Les_Jeux_Vidéo_Bienfaits_Cognitifs_ou_Risque_de_Dépendance.md)
+**📄 Sujet sélectionné :** [Task3 011 Les Jeux Vidéo Bienfaits Cognitifs ou Risque de Dépendance](../tcf_canada/ee/task3/task3_011_Les_Jeux_Vidéo_Bienfaits_Cognitifs_ou_Risque_de_Dépendance.md)
 
 ---
 

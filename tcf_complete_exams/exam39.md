@@ -19,11 +19,11 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 2 - Conversation simulée
 
-**📄 Sujet sélectionné :** [Task2 040 Je suis votre amie. Vous avez envie de partir un week-end pour vous reposer.Vous me posez des ques](tcf_canada/eo/task2/task2_040_Je_suis_votre_amie._Vous_avez_envie_de_partir_un_week-end_pour_vous_reposer.Vous_me_posez_des_ques.md)
+**📄 Sujet sélectionné :** [Task2 040 Je suis votre amie. Vous avez envie de partir un week-end pour vous reposer.Vous me posez des ques](../tcf_canada/eo/task2/task2_040_Je_suis_votre_amie._Vous_avez_envie_de_partir_un_week-end_pour_vous_reposer.Vous_me_posez_des_ques.md)
 
 ### Tâche 3 - Monologue suivi
 
-**📄 Sujet sélectionné :** [Task3 040 Le rôle principal de lécole est dapprendre les matières scolaires.Quen pensez-vous](tcf_canada/eo/task3/task3_040_Le_rôle_principal_de_lécole_est_dapprendre_les_matières_scolaires.Quen_pensez-vous.md)
+**📄 Sujet sélectionné :** [Task3 040 Le rôle principal de lécole est dapprendre les matières scolaires.Quen pensez-vous](../tcf_canada/eo/task3/task3_040_Le_rôle_principal_de_lécole_est_dapprendre_les_matières_scolaires.Quen_pensez-vous.md)
 
 ---
 
@@ -31,15 +31,15 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 1 - Message personnel (60-120 mots)
 
-**📄 Sujet sélectionné :** [Task1 039 Rédigez un message pour inviter une amie à venir passer les vacances chez vous](tcf_canada/ee/task1/task1_039_Rédigez_un_message_pour_inviter_une_amie_à_venir_passer_les_vacances_chez_vous.md)
+**📄 Sujet sélectionné :** [Task1 039 Rédigez un message pour inviter une amie à venir passer les vacances chez vous](../tcf_canada/ee/task1/task1_039_Rédigez_un_message_pour_inviter_une_amie_à_venir_passer_les_vacances_chez_vous.md)
 
 ### Tâche 2 - Article de blog (120-150 mots)
 
-**📄 Sujet sélectionné :** [Task2 039 Partagez dans un blog votre expérience dapprentissage dune langue étrangère.](tcf_canada/ee/task2/task2_039_Partagez_dans_un_blog_votre_expérience_dapprentissage_dune_langue_étrangère..md)
+**📄 Sujet sélectionné :** [Task2 039 Partagez dans un blog votre expérience dapprentissage dune langue étrangère.](../tcf_canada/ee/task2/task2_039_Partagez_dans_un_blog_votre_expérience_dapprentissage_dune_langue_étrangère..md)
 
 ### Tâche 3 - Essai argumentatif (120-180 mots)
 
-**📄 Sujet sélectionné :** [Task3 039 Les bienfaits des animaux de compagnie pour les enfants](tcf_canada/ee/task3/task3_039_Les_bienfaits_des_animaux_de_compagnie_pour_les_enfants.md)
+**📄 Sujet sélectionné :** [Task3 039 Les bienfaits des animaux de compagnie pour les enfants](../tcf_canada/ee/task3/task3_039_Les_bienfaits_des_animaux_de_compagnie_pour_les_enfants.md)
 
 ---
 

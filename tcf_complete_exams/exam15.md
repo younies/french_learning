@@ -19,11 +19,11 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 2 - Conversation simulée
 
-**📄 Sujet sélectionné :** [Task2 015 Je suis votre amie au Canada. Vous venez me voir en décembre.Vous me posez des questions pour bien](tcf_canada/eo/task2/task2_015_Je_suis_votre_amie_au_Canada._Vous_venez_me_voir_en_décembre.Vous_me_posez_des_questions_pour_bien.md)
+**📄 Sujet sélectionné :** [Task2 015 Je suis votre amie au Canada. Vous venez me voir en décembre.Vous me posez des questions pour bien](../tcf_canada/eo/task2/task2_015_Je_suis_votre_amie_au_Canada._Vous_venez_me_voir_en_décembre.Vous_me_posez_des_questions_pour_bien.md)
 
 ### Tâche 3 - Monologue suivi
 
-**📄 Sujet sélectionné :** [Task3 015 les méthodologiesCompréhension ÉcriteCompréhension OraleExpression écriteExpression oraleÀ propos de](tcf_canada/eo/task3/task3_015_les_méthodologiesCompréhension_ÉcriteCompréhension_OraleExpression_écriteExpression_oraleÀ_propos_de.md)
+**📄 Sujet sélectionné :** [Task3 015 les méthodologiesCompréhension ÉcriteCompréhension OraleExpression écriteExpression oraleÀ propos de](../tcf_canada/eo/task3/task3_015_les_méthodologiesCompréhension_ÉcriteCompréhension_OraleExpression_écriteExpression_oraleÀ_propos_de.md)
 
 ---
 
@@ -31,15 +31,15 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 1 - Message personnel (60-120 mots)
 
-**📄 Sujet sélectionné :** [Task1 015 Vous lui répondre en décrivant brièvement votre environnement universitaire](tcf_canada/ee/task1/task1_015_Vous_lui_répondre_en_décrivant_brièvement_votre_environnement_universitaire.md)
+**📄 Sujet sélectionné :** [Task1 015 Vous lui répondre en décrivant brièvement votre environnement universitaire](../tcf_canada/ee/task1/task1_015_Vous_lui_répondre_en_décrivant_brièvement_votre_environnement_universitaire.md)
 
 ### Tâche 2 - Article de blog (120-150 mots)
 
-**📄 Sujet sélectionné :** [Task2 015 Vous avez décidé darrêter dutiliser votre réseau social préféré comme Instagram Facebook etc..](tcf_canada/ee/task2/task2_015_Vous_avez_décidé_darrêter_dutiliser_votre_réseau_social_préféré_comme_Instagram_Facebook_etc...md)
+**📄 Sujet sélectionné :** [Task2 015 Vous avez décidé darrêter dutiliser votre réseau social préféré comme Instagram Facebook etc..](../tcf_canada/ee/task2/task2_015_Vous_avez_décidé_darrêter_dutiliser_votre_réseau_social_préféré_comme_Instagram_Facebook_etc...md)
 
 ### Tâche 3 - Essai argumentatif (120-180 mots)
 
-**📄 Sujet sélectionné :** [Task3 015 La livraison de repas au bureau pratique ou problématique](tcf_canada/ee/task3/task3_015_La_livraison_de_repas_au_bureau_pratique_ou_problématique.md)
+**📄 Sujet sélectionné :** [Task3 015 La livraison de repas au bureau pratique ou problématique](../tcf_canada/ee/task3/task3_015_La_livraison_de_repas_au_bureau_pratique_ou_problématique.md)
 
 ---
 

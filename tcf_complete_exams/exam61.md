@@ -19,11 +19,11 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 2 - Conversation simulée
 
-**📄 Sujet sélectionné :** [Task2 062 Je suis votre amie. Pour lanniversaire prochain de ma sœur vous cherchez un cadeau.Vous me posez](tcf_canada/eo/task2/task2_062_Je_suis_votre_amie._Pour_lanniversaire_prochain_de_ma_sœur_vous_cherchez_un_cadeau.Vous_me_posez.md)
+**📄 Sujet sélectionné :** [Task2 062 Je suis votre amie. Pour lanniversaire prochain de ma sœur vous cherchez un cadeau.Vous me posez](../tcf_canada/eo/task2/task2_062_Je_suis_votre_amie._Pour_lanniversaire_prochain_de_ma_sœur_vous_cherchez_un_cadeau.Vous_me_posez.md)
 
 ### Tâche 3 - Monologue suivi
 
-**📄 Sujet sélectionné :** [Task3 062 Pensez-vous que deux personnes très différentes peuvent rester amies toute leur vie Pourquoi](tcf_canada/eo/task3/task3_062_Pensez-vous_que_deux_personnes_très_différentes_peuvent_rester_amies_toute_leur_vie_Pourquoi.md)
+**📄 Sujet sélectionné :** [Task3 062 Pensez-vous que deux personnes très différentes peuvent rester amies toute leur vie Pourquoi](../tcf_canada/eo/task3/task3_062_Pensez-vous_que_deux_personnes_très_différentes_peuvent_rester_amies_toute_leur_vie_Pourquoi.md)
 
 ---
 
@@ -31,15 +31,15 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 1 - Message personnel (60-120 mots)
 
-**📄 Sujet sélectionné :** [Task1 061 Rédigez un courriel en réponse à une annonce de recherche de vélo.Présentez votre vélo décrivez son](tcf_canada/ee/task1/task1_061_Rédigez_un_courriel_en_réponse_à_une_annonce_de_recherche_de_vélo.Présentez_votre_vélo_décrivez_son.md)
+**📄 Sujet sélectionné :** [Task1 061 Rédigez un courriel en réponse à une annonce de recherche de vélo.Présentez votre vélo décrivez son](../tcf_canada/ee/task1/task1_061_Rédigez_un_courriel_en_réponse_à_une_annonce_de_recherche_de_vélo.Présentez_votre_vélo_décrivez_son.md)
 
 ### Tâche 2 - Article de blog (120-150 mots)
 
-**📄 Sujet sélectionné :** [Task2 061 Vous avez récemment assisté à une fête de quartier entre voisins.Sur votre blog racontez votre expé](tcf_canada/ee/task2/task2_061_Vous_avez_récemment_assisté_à_une_fête_de_quartier_entre_voisins.Sur_votre_blog_racontez_votre_expé.md)
+**📄 Sujet sélectionné :** [Task2 061 Vous avez récemment assisté à une fête de quartier entre voisins.Sur votre blog racontez votre expé](../tcf_canada/ee/task2/task2_061_Vous_avez_récemment_assisté_à_une_fête_de_quartier_entre_voisins.Sur_votre_blog_racontez_votre_expé.md)
 
 ### Tâche 3 - Essai argumentatif (120-180 mots)
 
-**📄 Sujet sélectionné :** [Task3 061 Les animaux de compagnie pour les enfants pour ou contre](tcf_canada/ee/task3/task3_061_Les_animaux_de_compagnie_pour_les_enfants_pour_ou_contre.md)
+**📄 Sujet sélectionné :** [Task3 061 Les animaux de compagnie pour les enfants pour ou contre](../tcf_canada/ee/task3/task3_061_Les_animaux_de_compagnie_pour_les_enfants_pour_ou_contre.md)
 
 ---
 

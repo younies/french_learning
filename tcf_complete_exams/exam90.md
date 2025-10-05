@@ -19,11 +19,11 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 2 - Conversation simulée
 
-**📄 Sujet sélectionné :** [Task2 091 Vous venez me voir à laccueil pour en savoir plus sur le bénévolat.Vous me posez des questions sur](tcf_canada/eo/task2/task2_091_Vous_venez_me_voir_à_laccueil_pour_en_savoir_plus_sur_le_bénévolat.Vous_me_posez_des_questions_sur.md)
+**📄 Sujet sélectionné :** [Task2 091 Vous venez me voir à laccueil pour en savoir plus sur le bénévolat.Vous me posez des questions sur](../tcf_canada/eo/task2/task2_091_Vous_venez_me_voir_à_laccueil_pour_en_savoir_plus_sur_le_bénévolat.Vous_me_posez_des_questions_sur.md)
 
 ### Tâche 3 - Monologue suivi
 
-**📄 Sujet sélectionné :** [Task3 091 Quelles formes dengagement citoyen telles que le bénévolat ou les actions écologiquestrouvez-vous](tcf_canada/eo/task3/task3_091_Quelles_formes_dengagement_citoyen_telles_que_le_bénévolat_ou_les_actions_écologiquestrouvez-vous.md)
+**📄 Sujet sélectionné :** [Task3 091 Quelles formes dengagement citoyen telles que le bénévolat ou les actions écologiquestrouvez-vous](../tcf_canada/eo/task3/task3_091_Quelles_formes_dengagement_citoyen_telles_que_le_bénévolat_ou_les_actions_écologiquestrouvez-vous.md)
 
 ---
 
@@ -31,15 +31,15 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 1 - Message personnel (60-120 mots)
 
-**📄 Sujet sélectionné :** [Task1 005 Rédigez un message à un ami pour linviter à une rencontre avec un écrivain organisée par la bibliot](tcf_canada/ee/task1/task1_005_Rédigez_un_message_à_un_ami_pour_linviter_à_une_rencontre_avec_un_écrivain_organisée_par_la_bibliot.md)
+**📄 Sujet sélectionné :** [Task1 005 Rédigez un message à un ami pour linviter à une rencontre avec un écrivain organisée par la bibliot](../tcf_canada/ee/task1/task1_005_Rédigez_un_message_à_un_ami_pour_linviter_à_une_rencontre_avec_un_écrivain_organisée_par_la_bibliot.md)
 
 ### Tâche 2 - Article de blog (120-150 mots)
 
-**📄 Sujet sélectionné :** [Task2 005 Rédigez un article de blog relatant votre expérience lors de lévénement La Semaine du Goût auq](tcf_canada/ee/task2/task2_005_Rédigez_un_article_de_blog_relatant_votre_expérience_lors_de_lévénement_La_Semaine_du_Goût_auq.md)
+**📄 Sujet sélectionné :** [Task2 005 Rédigez un article de blog relatant votre expérience lors de lévénement La Semaine du Goût auq](../tcf_canada/ee/task2/task2_005_Rédigez_un_article_de_blog_relatant_votre_expérience_lors_de_lévénement_La_Semaine_du_Goût_auq.md)
 
 ### Tâche 3 - Essai argumentatif (120-180 mots)
 
-**📄 Sujet sélectionné :** [Task3 017 Impact des Jeux Vidéo sur les Enfants](tcf_canada/ee/task3/task3_017_Impact_des_Jeux_Vidéo_sur_les_Enfants.md)
+**📄 Sujet sélectionné :** [Task3 017 Impact des Jeux Vidéo sur les Enfants](../tcf_canada/ee/task3/task3_017_Impact_des_Jeux_Vidéo_sur_les_Enfants.md)
 
 ---
 

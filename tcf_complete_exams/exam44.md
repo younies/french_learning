@@ -19,11 +19,11 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 2 - Conversation simulée
 
-**📄 Sujet sélectionné :** [Task2 045 Je suis votre amie et je mengage dans une association qui soutient les personnes âgées.Vous souha](tcf_canada/eo/task2/task2_045_Je_suis_votre_amie_et_je_mengage_dans_une_association_qui_soutient_les_personnes_âgées.Vous_souha.md)
+**📄 Sujet sélectionné :** [Task2 045 Je suis votre amie et je mengage dans une association qui soutient les personnes âgées.Vous souha](../tcf_canada/eo/task2/task2_045_Je_suis_votre_amie_et_je_mengage_dans_une_association_qui_soutient_les_personnes_âgées.Vous_souha.md)
 
 ### Tâche 3 - Monologue suivi
 
-**📄 Sujet sélectionné :** [Task3 045 Pensez-vous quavoir un bon diplôme aide vraiment à réussir dans la vie professionnelle Expliquez v](tcf_canada/eo/task3/task3_045_Pensez-vous_quavoir_un_bon_diplôme_aide_vraiment_à_réussir_dans_la_vie_professionnelle_Expliquez_v.md)
+**📄 Sujet sélectionné :** [Task3 045 Pensez-vous quavoir un bon diplôme aide vraiment à réussir dans la vie professionnelle Expliquez v](../tcf_canada/eo/task3/task3_045_Pensez-vous_quavoir_un_bon_diplôme_aide_vraiment_à_réussir_dans_la_vie_professionnelle_Expliquez_v.md)
 
 ---
 
@@ -31,15 +31,15 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 1 - Message personnel (60-120 mots)
 
-**📄 Sujet sélectionné :** [Task1 044 Envoyez un courriel à vos amis pour les inviter à fêter votre anniversaire dans un restaurant. Inclu](tcf_canada/ee/task1/task1_044_Envoyez_un_courriel_à_vos_amis_pour_les_inviter_à_fêter_votre_anniversaire_dans_un_restaurant._Inclu.md)
+**📄 Sujet sélectionné :** [Task1 044 Envoyez un courriel à vos amis pour les inviter à fêter votre anniversaire dans un restaurant. Inclu](../tcf_canada/ee/task1/task1_044_Envoyez_un_courriel_à_vos_amis_pour_les_inviter_à_fêter_votre_anniversaire_dans_un_restaurant._Inclu.md)
 
 ### Tâche 2 - Article de blog (120-150 mots)
 
-**📄 Sujet sélectionné :** [Task2 044 Décrivez le déroulement de lévénement lieu date organisation et donnez votre avis sur votre par](tcf_canada/ee/task2/task2_044_Décrivez_le_déroulement_de_lévénement_lieu_date_organisation_et_donnez_votre_avis_sur_votre_par.md)
+**📄 Sujet sélectionné :** [Task2 044 Décrivez le déroulement de lévénement lieu date organisation et donnez votre avis sur votre par](../tcf_canada/ee/task2/task2_044_Décrivez_le_déroulement_de_lévénement_lieu_date_organisation_et_donnez_votre_avis_sur_votre_par.md)
 
 ### Tâche 3 - Essai argumentatif (120-180 mots)
 
-**📄 Sujet sélectionné :** [Task3 044 Les Relations Amicales Au Travail](tcf_canada/ee/task3/task3_044_Les_Relations_Amicales_Au_Travail.md)
+**📄 Sujet sélectionné :** [Task3 044 Les Relations Amicales Au Travail](../tcf_canada/ee/task3/task3_044_Les_Relations_Amicales_Au_Travail.md)
 
 ---
 

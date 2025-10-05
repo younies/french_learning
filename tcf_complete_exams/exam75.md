@@ -19,11 +19,11 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 2 - Conversation simulée
 
-**📄 Sujet sélectionné :** [Task2 076 Je travaille au service culturel de la mairie. Vous souhaitez découvrir les activités culturelles pr](tcf_canada/eo/task2/task2_076_Je_travaille_au_service_culturel_de_la_mairie._Vous_souhaitez_découvrir_les_activités_culturelles_pr.md)
+**📄 Sujet sélectionné :** [Task2 076 Je travaille au service culturel de la mairie. Vous souhaitez découvrir les activités culturelles pr](../tcf_canada/eo/task2/task2_076_Je_travaille_au_service_culturel_de_la_mairie._Vous_souhaitez_découvrir_les_activités_culturelles_pr.md)
 
 ### Tâche 3 - Monologue suivi
 
-**📄 Sujet sélectionné :** [Task3 076 On dit souvent quInternet a rendu le monde plus connecté comme un petit village.Êtes-vous daccord](tcf_canada/eo/task3/task3_076_On_dit_souvent_quInternet_a_rendu_le_monde_plus_connecté_comme_un_petit_village.Êtes-vous_daccord.md)
+**📄 Sujet sélectionné :** [Task3 076 On dit souvent quInternet a rendu le monde plus connecté comme un petit village.Êtes-vous daccord](../tcf_canada/eo/task3/task3_076_On_dit_souvent_quInternet_a_rendu_le_monde_plus_connecté_comme_un_petit_village.Êtes-vous_daccord.md)
 
 ---
 
@@ -31,15 +31,15 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 1 - Message personnel (60-120 mots)
 
-**📄 Sujet sélectionné :** [Task1 075 Ali ta envoyé un message pour savoir comment se passe ton nouveau travail et si tu en es satisfait](tcf_canada/ee/task1/task1_075_Ali_ta_envoyé_un_message_pour_savoir_comment_se_passe_ton_nouveau_travail_et_si_tu_en_es_satisfait.md)
+**📄 Sujet sélectionné :** [Task1 075 Ali ta envoyé un message pour savoir comment se passe ton nouveau travail et si tu en es satisfait](../tcf_canada/ee/task1/task1_075_Ali_ta_envoyé_un_message_pour_savoir_comment_se_passe_ton_nouveau_travail_et_si_tu_en_es_satisfait.md)
 
 ### Tâche 2 - Article de blog (120-150 mots)
 
-**📄 Sujet sélectionné :** [Task2 075 Rédiger un témoignage sur votre participation à lévénement Une semaine sans voitureen partageant](tcf_canada/ee/task2/task2_075_Rédiger_un_témoignage_sur_votre_participation_à_lévénement_Une_semaine_sans_voitureen_partageant.md)
+**📄 Sujet sélectionné :** [Task2 075 Rédiger un témoignage sur votre participation à lévénement Une semaine sans voitureen partageant](../tcf_canada/ee/task2/task2_075_Rédiger_un_témoignage_sur_votre_participation_à_lévénement_Une_semaine_sans_voitureen_partageant.md)
 
 ### Tâche 3 - Essai argumentatif (120-180 mots)
 
-**📄 Sujet sélectionné :** [Task3 002 Laccès gratuit aux musées avantage ou inconvénient](tcf_canada/ee/task3/task3_002_Laccès_gratuit_aux_musées_avantage_ou_inconvénient.md)
+**📄 Sujet sélectionné :** [Task3 002 Laccès gratuit aux musées avantage ou inconvénient](../tcf_canada/ee/task3/task3_002_Laccès_gratuit_aux_musées_avantage_ou_inconvénient.md)
 
 ---
 

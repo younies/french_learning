@@ -19,11 +19,11 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 2 - Conversation simulée
 
-**📄 Sujet sélectionné :** [Task2 022 Je suis une amie canadienne. Jai passé des vacances en montagne récemment.Vous me posez des q](tcf_canada/eo/task2/task2_022_Je_suis_une_amie_canadienne._Jai_passé_des_vacances_en_montagne_récemment.Vous_me_posez_des_q.md)
+**📄 Sujet sélectionné :** [Task2 022 Je suis une amie canadienne. Jai passé des vacances en montagne récemment.Vous me posez des q](../tcf_canada/eo/task2/task2_022_Je_suis_une_amie_canadienne._Jai_passé_des_vacances_en_montagne_récemment.Vous_me_posez_des_q.md)
 
 ### Tâche 3 - Monologue suivi
 
-**📄 Sujet sélectionné :** [Task3 022 Pensez-vous que lutilisation des réseaux sociaux empêche de se concentrer sur lessentiel Pourquoi](tcf_canada/eo/task3/task3_022_Pensez-vous_que_lutilisation_des_réseaux_sociaux_empêche_de_se_concentrer_sur_lessentiel_Pourquoi.md)
+**📄 Sujet sélectionné :** [Task3 022 Pensez-vous que lutilisation des réseaux sociaux empêche de se concentrer sur lessentiel Pourquoi](../tcf_canada/eo/task3/task3_022_Pensez-vous_que_lutilisation_des_réseaux_sociaux_empêche_de_se_concentrer_sur_lessentiel_Pourquoi.md)
 
 ---
 
@@ -31,15 +31,15 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 1 - Message personnel (60-120 mots)
 
-**📄 Sujet sélectionné :** [Task1 021 Vous répondez par un message en expliquant que vous aimeriez recevoir des vêtements et vous donnez](tcf_canada/ee/task1/task1_021_Vous_répondez_par_un_message_en_expliquant_que_vous_aimeriez_recevoir_des_vêtements_et_vous_donnez.md)
+**📄 Sujet sélectionné :** [Task1 021 Vous répondez par un message en expliquant que vous aimeriez recevoir des vêtements et vous donnez](../tcf_canada/ee/task1/task1_021_Vous_répondez_par_un_message_en_expliquant_que_vous_aimeriez_recevoir_des_vêtements_et_vous_donnez.md)
 
 ### Tâche 2 - Article de blog (120-150 mots)
 
-**📄 Sujet sélectionné :** [Task2 021 Le site www.manger-international.com lance un appel à témoignages.Ce mois-ci il veut découvrir les](tcf_canada/ee/task2/task2_021_Le_site_www.manger-international.com_lance_un_appel_à_témoignages.Ce_mois-ci_il_veut_découvrir_les.md)
+**📄 Sujet sélectionné :** [Task2 021 Le site www.manger-international.com lance un appel à témoignages.Ce mois-ci il veut découvrir les](../tcf_canada/ee/task2/task2_021_Le_site_www.manger-international.com_lance_un_appel_à_témoignages.Ce_mois-ci_il_veut_découvrir_les.md)
 
 ### Tâche 3 - Essai argumentatif (120-180 mots)
 
-**📄 Sujet sélectionné :** [Task3 021 Caméras de surveillance à lécole pour ou contre](tcf_canada/ee/task3/task3_021_Caméras_de_surveillance_à_lécole_pour_ou_contre.md)
+**📄 Sujet sélectionné :** [Task3 021 Caméras de surveillance à lécole pour ou contre](../tcf_canada/ee/task3/task3_021_Caméras_de_surveillance_à_lécole_pour_ou_contre.md)
 
 ---
 

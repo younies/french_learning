@@ -19,11 +19,11 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 2 - Conversation simulée
 
-**📄 Sujet sélectionné :** [Task2 004 Je travaille à la réception dun musée. Vous souhaitez venir avec des amis pour le découvrir.Vous me](tcf_canada/eo/task2/task2_004_Je_travaille_à_la_réception_dun_musée._Vous_souhaitez_venir_avec_des_amis_pour_le_découvrir.Vous_me.md)
+**📄 Sujet sélectionné :** [Task2 004 Je travaille à la réception dun musée. Vous souhaitez venir avec des amis pour le découvrir.Vous me](../tcf_canada/eo/task2/task2_004_Je_travaille_à_la_réception_dun_musée._Vous_souhaitez_venir_avec_des_amis_pour_le_découvrir.Vous_me.md)
 
 ### Tâche 3 - Monologue suivi
 
-**📄 Sujet sélectionné :** [Task3 004 Selon vous faut-il avoir une journée dédiée à la défense des droits des femmes Pourquoi](tcf_canada/eo/task3/task3_004_Selon_vous_faut-il_avoir_une_journée_dédiée_à_la_défense_des_droits_des_femmes_Pourquoi.md)
+**📄 Sujet sélectionné :** [Task3 004 Selon vous faut-il avoir une journée dédiée à la défense des droits des femmes Pourquoi](../tcf_canada/eo/task3/task3_004_Selon_vous_faut-il_avoir_une_journée_dédiée_à_la_défense_des_droits_des_femmes_Pourquoi.md)
 
 ---
 
@@ -31,15 +31,15 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 1 - Message personnel (60-120 mots)
 
-**📄 Sujet sélectionné :** [Task1 004 Rédigez un message à un ami pour linformer de votre déménagement et lui demander son aide en préci](tcf_canada/ee/task1/task1_004_Rédigez_un_message_à_un_ami_pour_linformer_de_votre_déménagement_et_lui_demander_son_aide_en_préci.md)
+**📄 Sujet sélectionné :** [Task1 004 Rédigez un message à un ami pour linformer de votre déménagement et lui demander son aide en préci](../tcf_canada/ee/task1/task1_004_Rédigez_un_message_à_un_ami_pour_linformer_de_votre_déménagement_et_lui_demander_son_aide_en_préci.md)
 
 ### Tâche 2 - Article de blog (120-150 mots)
 
-**📄 Sujet sélectionné :** [Task2 004 Rédigez un article de blog sur votre artiste préféré dans le cadre dun concours dont le thème est](tcf_canada/ee/task2/task2_004_Rédigez_un_article_de_blog_sur_votre_artiste_préféré_dans_le_cadre_dun_concours_dont_le_thème_est.md)
+**📄 Sujet sélectionné :** [Task2 004 Rédigez un article de blog sur votre artiste préféré dans le cadre dun concours dont le thème est](../tcf_canada/ee/task2/task2_004_Rédigez_un_article_de_blog_sur_votre_artiste_préféré_dans_le_cadre_dun_concours_dont_le_thème_est.md)
 
 ### Tâche 3 - Essai argumentatif (120-180 mots)
 
-**📄 Sujet sélectionné :** [Task3 004 Lart urbain Pour ou contre](tcf_canada/ee/task3/task3_004_Lart_urbain_Pour_ou_contre.md)
+**📄 Sujet sélectionné :** [Task3 004 Lart urbain Pour ou contre](../tcf_canada/ee/task3/task3_004_Lart_urbain_Pour_ou_contre.md)
 
 ---
 

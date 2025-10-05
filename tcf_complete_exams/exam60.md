@@ -19,11 +19,11 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 2 - Conversation simulée
 
-**📄 Sujet sélectionné :** [Task2 061 Je suis votre amie. Pour lanniversaire prochain de ma sœur vous cherchez un cadeau.Vous me posez](tcf_canada/eo/task2/task2_061_Je_suis_votre_amie._Pour_lanniversaire_prochain_de_ma_sœur_vous_cherchez_un_cadeau.Vous_me_posez.md)
+**📄 Sujet sélectionné :** [Task2 061 Je suis votre amie. Pour lanniversaire prochain de ma sœur vous cherchez un cadeau.Vous me posez](../tcf_canada/eo/task2/task2_061_Je_suis_votre_amie._Pour_lanniversaire_prochain_de_ma_sœur_vous_cherchez_un_cadeau.Vous_me_posez.md)
 
 ### Tâche 3 - Monologue suivi
 
-**📄 Sujet sélectionné :** [Task3 061 Chaque été on trouve beaucoup de conseils pour perdre du poids dans les magazines. Sont-ils vraimen](tcf_canada/eo/task3/task3_061_Chaque_été_on_trouve_beaucoup_de_conseils_pour_perdre_du_poids_dans_les_magazines._Sont-ils_vraimen.md)
+**📄 Sujet sélectionné :** [Task3 061 Chaque été on trouve beaucoup de conseils pour perdre du poids dans les magazines. Sont-ils vraimen](../tcf_canada/eo/task3/task3_061_Chaque_été_on_trouve_beaucoup_de_conseils_pour_perdre_du_poids_dans_les_magazines._Sont-ils_vraimen.md)
 
 ---
 
@@ -31,15 +31,15 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 1 - Message personnel (60-120 mots)
 
-**📄 Sujet sélectionné :** [Task1 060 Décrivez les changements que vous souhaitez faire et demandez-lui son aide ou ses conseils](tcf_canada/ee/task1/task1_060_Décrivez_les_changements_que_vous_souhaitez_faire_et_demandez-lui_son_aide_ou_ses_conseils.md)
+**📄 Sujet sélectionné :** [Task1 060 Décrivez les changements que vous souhaitez faire et demandez-lui son aide ou ses conseils](../tcf_canada/ee/task1/task1_060_Décrivez_les_changements_que_vous_souhaitez_faire_et_demandez-lui_son_aide_ou_ses_conseils.md)
 
 ### Tâche 2 - Article de blog (120-150 mots)
 
-**📄 Sujet sélectionné :** [Task2 060 vous répondez à ce message. Vous racontez cette expérience et vous donnez votre avis](tcf_canada/ee/task2/task2_060_vous_répondez_à_ce_message._Vous_racontez_cette_expérience_et_vous_donnez_votre_avis.md)
+**📄 Sujet sélectionné :** [Task2 060 vous répondez à ce message. Vous racontez cette expérience et vous donnez votre avis](../tcf_canada/ee/task2/task2_060_vous_répondez_à_ce_message._Vous_racontez_cette_expérience_et_vous_donnez_votre_avis.md)
 
 ### Tâche 3 - Essai argumentatif (120-180 mots)
 
-**📄 Sujet sélectionné :** [Task3 060 Location Courte Durée](tcf_canada/ee/task3/task3_060_Location_Courte_Durée.md)
+**📄 Sujet sélectionné :** [Task3 060 Location Courte Durée](../tcf_canada/ee/task3/task3_060_Location_Courte_Durée.md)
 
 ---
 

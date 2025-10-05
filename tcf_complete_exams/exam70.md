@@ -19,11 +19,11 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 2 - Conversation simulée
 
-**📄 Sujet sélectionné :** [Task2 071 Je suis votre collègue. Je ne peux pas me rendre à un festival musical pour lequel jai des billets.](tcf_canada/eo/task2/task2_071_Je_suis_votre_collègue._Je_ne_peux_pas_me_rendre_à_un_festival_musical_pour_lequel_jai_des_billets..md)
+**📄 Sujet sélectionné :** [Task2 071 Je suis votre collègue. Je ne peux pas me rendre à un festival musical pour lequel jai des billets.](../tcf_canada/eo/task2/task2_071_Je_suis_votre_collègue._Je_ne_peux_pas_me_rendre_à_un_festival_musical_pour_lequel_jai_des_billets..md)
 
 ### Tâche 3 - Monologue suivi
 
-**📄 Sujet sélectionné :** [Task3 071 Internet rend-il la vie plus facile selon vousPensez-vous quil est utile davoir plusieurs métier](tcf_canada/eo/task3/task3_071_Internet_rend-il_la_vie_plus_facile_selon_vousPensez-vous_quil_est_utile_davoir_plusieurs_métier.md)
+**📄 Sujet sélectionné :** [Task3 071 Internet rend-il la vie plus facile selon vousPensez-vous quil est utile davoir plusieurs métier](../tcf_canada/eo/task3/task3_071_Internet_rend-il_la_vie_plus_facile_selon_vousPensez-vous_quil_est_utile_davoir_plusieurs_métier.md)
 
 ---
 
@@ -31,15 +31,15 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 1 - Message personnel (60-120 mots)
 
-**📄 Sujet sélectionné :** [Task1 070 Vous souhaitez célébrer votre anniversaire dans un restaurant et avez invité vos amis.Vous leur écri](tcf_canada/ee/task1/task1_070_Vous_souhaitez_célébrer_votre_anniversaire_dans_un_restaurant_et_avez_invité_vos_amis.Vous_leur_écri.md)
+**📄 Sujet sélectionné :** [Task1 070 Vous souhaitez célébrer votre anniversaire dans un restaurant et avez invité vos amis.Vous leur écri](../tcf_canada/ee/task1/task1_070_Vous_souhaitez_célébrer_votre_anniversaire_dans_un_restaurant_et_avez_invité_vos_amis.Vous_leur_écri.md)
 
 ### Tâche 2 - Article de blog (120-150 mots)
 
-**📄 Sujet sélectionné :** [Task2 070 Décrivez les moments marquants les activités réalisées et ce que vous avez particulièrement appréci](tcf_canada/ee/task2/task2_070_Décrivez_les_moments_marquants_les_activités_réalisées_et_ce_que_vous_avez_particulièrement_appréci.md)
+**📄 Sujet sélectionné :** [Task2 070 Décrivez les moments marquants les activités réalisées et ce que vous avez particulièrement appréci](../tcf_canada/ee/task2/task2_070_Décrivez_les_moments_marquants_les_activités_réalisées_et_ce_que_vous_avez_particulièrement_appréci.md)
 
 ### Tâche 3 - Essai argumentatif (120-180 mots)
 
-**📄 Sujet sélectionné :** [Task3 070 Les Produits Faits Maison Pour Ou Contre](tcf_canada/ee/task3/task3_070_Les_Produits_Faits_Maison_Pour_Ou_Contre.md)
+**📄 Sujet sélectionné :** [Task3 070 Les Produits Faits Maison Pour Ou Contre](../tcf_canada/ee/task3/task3_070_Les_Produits_Faits_Maison_Pour_Ou_Contre.md)
 
 ---
 

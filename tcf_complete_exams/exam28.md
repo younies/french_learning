@@ -19,11 +19,11 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 2 - Conversation simulée
 
-**📄 Sujet sélectionné :** [Task2 029 Je suis employée dans une entreprise de location de vélos au Canada. En tant que touristevous vou](tcf_canada/eo/task2/task2_029_Je_suis_employée_dans_une_entreprise_de_location_de_vélos_au_Canada._En_tant_que_touristevous_vou.md)
+**📄 Sujet sélectionné :** [Task2 029 Je suis employée dans une entreprise de location de vélos au Canada. En tant que touristevous vou](../tcf_canada/eo/task2/task2_029_Je_suis_employée_dans_une_entreprise_de_location_de_vélos_au_Canada._En_tant_que_touristevous_vou.md)
 
 ### Tâche 3 - Monologue suivi
 
-**📄 Sujet sélectionné :** [Task3 029 De plus en plus de gens choisissent de devenir végétariens.Que pensez-vous de ce régime alimentaire](tcf_canada/eo/task3/task3_029_De_plus_en_plus_de_gens_choisissent_de_devenir_végétariens.Que_pensez-vous_de_ce_régime_alimentaire.md)
+**📄 Sujet sélectionné :** [Task3 029 De plus en plus de gens choisissent de devenir végétariens.Que pensez-vous de ce régime alimentaire](../tcf_canada/eo/task3/task3_029_De_plus_en_plus_de_gens_choisissent_de_devenir_végétariens.Que_pensez-vous_de_ce_régime_alimentaire.md)
 
 ---
 
@@ -31,15 +31,15 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 1 - Message personnel (60-120 mots)
 
-**📄 Sujet sélectionné :** [Task1 028 Rédigez-lui un message pour lui recommander quelques lieux intéressants à découvrir](tcf_canada/ee/task1/task1_028_Rédigez-lui_un_message_pour_lui_recommander_quelques_lieux_intéressants_à_découvrir.md)
+**📄 Sujet sélectionné :** [Task1 028 Rédigez-lui un message pour lui recommander quelques lieux intéressants à découvrir](../tcf_canada/ee/task1/task1_028_Rédigez-lui_un_message_pour_lui_recommander_quelques_lieux_intéressants_à_découvrir.md)
 
 ### Tâche 2 - Article de blog (120-150 mots)
 
-**📄 Sujet sélectionné :** [Task2 028 Rédiger un message décrivant une expérience avec les formations en ligne en mettant en avant les po](tcf_canada/ee/task2/task2_028_Rédiger_un_message_décrivant_une_expérience_avec_les_formations_en_ligne_en_mettant_en_avant_les_po.md)
+**📄 Sujet sélectionné :** [Task2 028 Rédiger un message décrivant une expérience avec les formations en ligne en mettant en avant les po](../tcf_canada/ee/task2/task2_028_Rédiger_un_message_décrivant_une_expérience_avec_les_formations_en_ligne_en_mettant_en_avant_les_po.md)
 
 ### Tâche 3 - Essai argumentatif (120-180 mots)
 
-**📄 Sujet sélectionné :** [Task3 028 Sévérité parentale atout ou frein](tcf_canada/ee/task3/task3_028_Sévérité_parentale_atout_ou_frein.md)
+**📄 Sujet sélectionné :** [Task3 028 Sévérité parentale atout ou frein](../tcf_canada/ee/task3/task3_028_Sévérité_parentale_atout_ou_frein.md)
 
 ---
 

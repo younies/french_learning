@@ -19,11 +19,11 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 2 - Conversation simulée
 
-**📄 Sujet sélectionné :** [Task2 034 Je suis votre collègue de travail. Vous venez darriver à Toronto. Vous voulez organiser votre anniv](tcf_canada/eo/task2/task2_034_Je_suis_votre_collègue_de_travail._Vous_venez_darriver_à_Toronto._Vous_voulez_organiser_votre_anniv.md)
+**📄 Sujet sélectionné :** [Task2 034 Je suis votre collègue de travail. Vous venez darriver à Toronto. Vous voulez organiser votre anniv](../tcf_canada/eo/task2/task2_034_Je_suis_votre_collègue_de_travail._Vous_venez_darriver_à_Toronto._Vous_voulez_organiser_votre_anniv.md)
 
 ### Tâche 3 - Monologue suivi
 
-**📄 Sujet sélectionné :** [Task3 034 Est-ce bien de travailler avec des amis ou des membres de sa famille Quen pensez-vousEst-ce bien](tcf_canada/eo/task3/task3_034_Est-ce_bien_de_travailler_avec_des_amis_ou_des_membres_de_sa_famille_Quen_pensez-vousEst-ce_bien.md)
+**📄 Sujet sélectionné :** [Task3 034 Est-ce bien de travailler avec des amis ou des membres de sa famille Quen pensez-vousEst-ce bien](../tcf_canada/eo/task3/task3_034_Est-ce_bien_de_travailler_avec_des_amis_ou_des_membres_de_sa_famille_Quen_pensez-vousEst-ce_bien.md)
 
 ---
 
@@ -31,15 +31,15 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 1 - Message personnel (60-120 mots)
 
-**📄 Sujet sélectionné :** [Task1 033 Rédigez un email pour inviter un ami à passer une journée avec vous en incluant les informations es](tcf_canada/ee/task1/task1_033_Rédigez_un_email_pour_inviter_un_ami_à_passer_une_journée_avec_vous_en_incluant_les_informations_es.md)
+**📄 Sujet sélectionné :** [Task1 033 Rédigez un email pour inviter un ami à passer une journée avec vous en incluant les informations es](../tcf_canada/ee/task1/task1_033_Rédigez_un_email_pour_inviter_un_ami_à_passer_une_journée_avec_vous_en_incluant_les_informations_es.md)
 
 ### Tâche 2 - Article de blog (120-150 mots)
 
-**📄 Sujet sélectionné :** [Task2 033 Vous travaillez désormais à létranger.Écrivez à vos amis pour leur parler de cette nouvelle expérie](tcf_canada/ee/task2/task2_033_Vous_travaillez_désormais_à_létranger.Écrivez_à_vos_amis_pour_leur_parler_de_cette_nouvelle_expérie.md)
+**📄 Sujet sélectionné :** [Task2 033 Vous travaillez désormais à létranger.Écrivez à vos amis pour leur parler de cette nouvelle expérie](../tcf_canada/ee/task2/task2_033_Vous_travaillez_désormais_à_létranger.Écrivez_à_vos_amis_pour_leur_parler_de_cette_nouvelle_expérie.md)
 
 ### Tâche 3 - Essai argumentatif (120-180 mots)
 
-**📄 Sujet sélectionné :** [Task3 033 Les bienfaits de la lecture pour les plus jeunes](tcf_canada/ee/task3/task3_033_Les_bienfaits_de_la_lecture_pour_les_plus_jeunes.md)
+**📄 Sujet sélectionné :** [Task3 033 Les bienfaits de la lecture pour les plus jeunes](../tcf_canada/ee/task3/task3_033_Les_bienfaits_de_la_lecture_pour_les_plus_jeunes.md)
 
 ---
 

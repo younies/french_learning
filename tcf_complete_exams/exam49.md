@@ -19,11 +19,11 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 2 - Conversation simulée
 
-**📄 Sujet sélectionné :** [Task2 050 Je suis votre voisine. Vous venez darriver au Canada etvous me demandez des informations sur les](tcf_canada/eo/task2/task2_050_Je_suis_votre_voisine._Vous_venez_darriver_au_Canada_etvous_me_demandez_des_informations_sur_les.md)
+**📄 Sujet sélectionné :** [Task2 050 Je suis votre voisine. Vous venez darriver au Canada etvous me demandez des informations sur les](../tcf_canada/eo/task2/task2_050_Je_suis_votre_voisine._Vous_venez_darriver_au_Canada_etvous_me_demandez_des_informations_sur_les.md)
 
 ### Tâche 3 - Monologue suivi
 
-**📄 Sujet sélectionné :** [Task3 050 Quand est-il préférable de sexpatrier Donnez votre opinion.](tcf_canada/eo/task3/task3_050_Quand_est-il_préférable_de_sexpatrier_Donnez_votre_opinion..md)
+**📄 Sujet sélectionné :** [Task3 050 Quand est-il préférable de sexpatrier Donnez votre opinion.](../tcf_canada/eo/task3/task3_050_Quand_est-il_préférable_de_sexpatrier_Donnez_votre_opinion..md)
 
 ---
 
@@ -31,15 +31,15 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 1 - Message personnel (60-120 mots)
 
-**📄 Sujet sélectionné :** [Task1 049 Vous pratiquez un sport dans un club et vous venez de gagner une compétition.Écrivez un courriel à v](tcf_canada/ee/task1/task1_049_Vous_pratiquez_un_sport_dans_un_club_et_vous_venez_de_gagner_une_compétition.Écrivez_un_courriel_à_v.md)
+**📄 Sujet sélectionné :** [Task1 049 Vous pratiquez un sport dans un club et vous venez de gagner une compétition.Écrivez un courriel à v](../tcf_canada/ee/task1/task1_049_Vous_pratiquez_un_sport_dans_un_club_et_vous_venez_de_gagner_une_compétition.Écrivez_un_courriel_à_v.md)
 
 ### Tâche 2 - Article de blog (120-150 mots)
 
-**📄 Sujet sélectionné :** [Task2 049 Un internaute exprime des inquiétudes concernant son départ pour étudier à létranger.Partagez votre](tcf_canada/ee/task2/task2_049_Un_internaute_exprime_des_inquiétudes_concernant_son_départ_pour_étudier_à_létranger.Partagez_votre.md)
+**📄 Sujet sélectionné :** [Task2 049 Un internaute exprime des inquiétudes concernant son départ pour étudier à létranger.Partagez votre](../tcf_canada/ee/task2/task2_049_Un_internaute_exprime_des_inquiétudes_concernant_son_départ_pour_étudier_à_létranger.Partagez_votre.md)
 
 ### Tâche 3 - Essai argumentatif (120-180 mots)
 
-**📄 Sujet sélectionné :** [Task3 049 Manger au restaurant ou cuisiner chez soi](tcf_canada/ee/task3/task3_049_Manger_au_restaurant_ou_cuisiner_chez_soi.md)
+**📄 Sujet sélectionné :** [Task3 049 Manger au restaurant ou cuisiner chez soi](../tcf_canada/ee/task3/task3_049_Manger_au_restaurant_ou_cuisiner_chez_soi.md)
 
 ---
 

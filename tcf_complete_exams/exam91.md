@@ -19,11 +19,11 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 2 - Conversation simulée
 
-**📄 Sujet sélectionné :** [Task2 092 Vous venez me voir à laccueil pour en savoir plus sur le bénévolat.Vous me posez des questions sur](tcf_canada/eo/task2/task2_092_Vous_venez_me_voir_à_laccueil_pour_en_savoir_plus_sur_le_bénévolat.Vous_me_posez_des_questions_sur.md)
+**📄 Sujet sélectionné :** [Task2 092 Vous venez me voir à laccueil pour en savoir plus sur le bénévolat.Vous me posez des questions sur](../tcf_canada/eo/task2/task2_092_Vous_venez_me_voir_à_laccueil_pour_en_savoir_plus_sur_le_bénévolat.Vous_me_posez_des_questions_sur.md)
 
 ### Tâche 3 - Monologue suivi
 
-**📄 Sujet sélectionné :** [Task3 092 Pensez-vous que chacun a la capacité de sintégrer et de sadapter en vivant à létranger Pourquoi](tcf_canada/eo/task3/task3_092_Pensez-vous_que_chacun_a_la_capacité_de_sintégrer_et_de_sadapter_en_vivant_à_létranger_Pourquoi.md)
+**📄 Sujet sélectionné :** [Task3 092 Pensez-vous que chacun a la capacité de sintégrer et de sadapter en vivant à létranger Pourquoi](../tcf_canada/eo/task3/task3_092_Pensez-vous_que_chacun_a_la_capacité_de_sintégrer_et_de_sadapter_en_vivant_à_létranger_Pourquoi.md)
 
 ---
 
@@ -31,15 +31,15 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 1 - Message personnel (60-120 mots)
 
-**📄 Sujet sélectionné :** [Task1 006 Invitez votre amie à venir passer les vacances chez vous.Dans votre message décrivez les sites to](tcf_canada/ee/task1/task1_006_Invitez_votre_amie_à_venir_passer_les_vacances_chez_vous.Dans_votre_message_décrivez_les_sites_to.md)
+**📄 Sujet sélectionné :** [Task1 006 Invitez votre amie à venir passer les vacances chez vous.Dans votre message décrivez les sites to](../tcf_canada/ee/task1/task1_006_Invitez_votre_amie_à_venir_passer_les_vacances_chez_vous.Dans_votre_message_décrivez_les_sites_to.md)
 
 ### Tâche 2 - Article de blog (120-150 mots)
 
-**📄 Sujet sélectionné :** [Task2 006 Vous avez été sélectionnée pour un concours où le prix est un séjour de deux semaines dans votre v](tcf_canada/ee/task2/task2_006_Vous_avez_été_sélectionnée_pour_un_concours_où_le_prix_est_un_séjour_de_deux_semaines_dans_votre_v.md)
+**📄 Sujet sélectionné :** [Task2 006 Vous avez été sélectionnée pour un concours où le prix est un séjour de deux semaines dans votre v](../tcf_canada/ee/task2/task2_006_Vous_avez_été_sélectionnée_pour_un_concours_où_le_prix_est_un_séjour_de_deux_semaines_dans_votre_v.md)
 
 ### Tâche 3 - Essai argumentatif (120-180 mots)
 
-**📄 Sujet sélectionné :** [Task3 018 Végétarisme Un Choix à Réfléchir](tcf_canada/ee/task3/task3_018_Végétarisme_Un_Choix_à_Réfléchir.md)
+**📄 Sujet sélectionné :** [Task3 018 Végétarisme Un Choix à Réfléchir](../tcf_canada/ee/task3/task3_018_Végétarisme_Un_Choix_à_Réfléchir.md)
 
 ---
 

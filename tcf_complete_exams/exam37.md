@@ -19,11 +19,11 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 2 - Conversation simulée
 
-**📄 Sujet sélectionné :** [Task2 038 Je travaille à la réception dune école de musique. Vous voulez vous inscrire à des cours.Vous me po](tcf_canada/eo/task2/task2_038_Je_travaille_à_la_réception_dune_école_de_musique._Vous_voulez_vous_inscrire_à_des_cours.Vous_me_po.md)
+**📄 Sujet sélectionné :** [Task2 038 Je travaille à la réception dune école de musique. Vous voulez vous inscrire à des cours.Vous me po](../tcf_canada/eo/task2/task2_038_Je_travaille_à_la_réception_dune_école_de_musique._Vous_voulez_vous_inscrire_à_des_cours.Vous_me_po.md)
 
 ### Tâche 3 - Monologue suivi
 
-**📄 Sujet sélectionné :** [Task3 038 Selon vous pourquoi les gens sont-ils autant attirés par la vie des célébrités](tcf_canada/eo/task3/task3_038_Selon_vous_pourquoi_les_gens_sont-ils_autant_attirés_par_la_vie_des_célébrités.md)
+**📄 Sujet sélectionné :** [Task3 038 Selon vous pourquoi les gens sont-ils autant attirés par la vie des célébrités](../tcf_canada/eo/task3/task3_038_Selon_vous_pourquoi_les_gens_sont-ils_autant_attirés_par_la_vie_des_célébrités.md)
 
 ---
 
@@ -31,15 +31,15 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 1 - Message personnel (60-120 mots)
 
-**📄 Sujet sélectionné :** [Task1 037 Écrivez un message à votre ami pour décrire lambiance la décoration les plats et le service](tcf_canada/ee/task1/task1_037_Écrivez_un_message_à_votre_ami_pour_décrire_lambiance_la_décoration_les_plats_et_le_service.md)
+**📄 Sujet sélectionné :** [Task1 037 Écrivez un message à votre ami pour décrire lambiance la décoration les plats et le service](../tcf_canada/ee/task1/task1_037_Écrivez_un_message_à_votre_ami_pour_décrire_lambiance_la_décoration_les_plats_et_le_service.md)
 
 ### Tâche 2 - Article de blog (120-150 mots)
 
-**📄 Sujet sélectionné :** [Task2 037 Partagez votre expérience avec vos collègues](tcf_canada/ee/task2/task2_037_Partagez_votre_expérience_avec_vos_collègues.md)
+**📄 Sujet sélectionné :** [Task2 037 Partagez votre expérience avec vos collègues](../tcf_canada/ee/task2/task2_037_Partagez_votre_expérience_avec_vos_collègues.md)
 
 ### Tâche 3 - Essai argumentatif (120-180 mots)
 
-**📄 Sujet sélectionné :** [Task3 037 La question des caméras de surveillance dans les écoles Pour ou contre cette mesure](tcf_canada/ee/task3/task3_037_La_question_des_caméras_de_surveillance_dans_les_écoles_Pour_ou_contre_cette_mesure.md)
+**📄 Sujet sélectionné :** [Task3 037 La question des caméras de surveillance dans les écoles Pour ou contre cette mesure](../tcf_canada/ee/task3/task3_037_La_question_des_caméras_de_surveillance_dans_les_écoles_Pour_ou_contre_cette_mesure.md)
 
 ---
 

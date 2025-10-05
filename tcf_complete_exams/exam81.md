@@ -19,11 +19,11 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 2 - Conversation simulée
 
-**📄 Sujet sélectionné :** [Task2 082 Vous êtes intéressé à devenir bénévole dans une association qui distribue des repas aux sans-abris](tcf_canada/eo/task2/task2_082_Vous_êtes_intéressé_à_devenir_bénévole_dans_une_association_qui_distribue_des_repas_aux_sans-abris.md)
+**📄 Sujet sélectionné :** [Task2 082 Vous êtes intéressé à devenir bénévole dans une association qui distribue des repas aux sans-abris](../tcf_canada/eo/task2/task2_082_Vous_êtes_intéressé_à_devenir_bénévole_dans_une_association_qui_distribue_des_repas_aux_sans-abris.md)
 
 ### Tâche 3 - Monologue suivi
 
-**📄 Sujet sélectionné :** [Task3 082 À lécole quelle matière aimiez-vous le plus Expliquez.](tcf_canada/eo/task3/task3_082_À_lécole_quelle_matière_aimiez-vous_le_plus_Expliquez..md)
+**📄 Sujet sélectionné :** [Task3 082 À lécole quelle matière aimiez-vous le plus Expliquez.](../tcf_canada/eo/task3/task3_082_À_lécole_quelle_matière_aimiez-vous_le_plus_Expliquez..md)
 
 ---
 
@@ -31,15 +31,15 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 1 - Message personnel (60-120 mots)
 
-**📄 Sujet sélectionné :** [Task1 081 Rédigez un message à publier dans le journal de votre université afin de rechercher un partenaire av](tcf_canada/ee/task1/task1_081_Rédigez_un_message_à_publier_dans_le_journal_de_votre_université_afin_de_rechercher_un_partenaire_av.md)
+**📄 Sujet sélectionné :** [Task1 081 Rédigez un message à publier dans le journal de votre université afin de rechercher un partenaire av](../tcf_canada/ee/task1/task1_081_Rédigez_un_message_à_publier_dans_le_journal_de_votre_université_afin_de_rechercher_un_partenaire_av.md)
 
 ### Tâche 2 - Article de blog (120-150 mots)
 
-**📄 Sujet sélectionné :** [Task2 081 Rédiger un message à des amis pour raconter un séjour dans une belle région du pays en décrivant l](tcf_canada/ee/task2/task2_081_Rédiger_un_message_à_des_amis_pour_raconter_un_séjour_dans_une_belle_région_du_pays_en_décrivant_l.md)
+**📄 Sujet sélectionné :** [Task2 081 Rédiger un message à des amis pour raconter un séjour dans une belle région du pays en décrivant l](../tcf_canada/ee/task2/task2_081_Rédiger_un_message_à_des_amis_pour_raconter_un_séjour_dans_une_belle_région_du_pays_en_décrivant_l.md)
 
 ### Tâche 3 - Essai argumentatif (120-180 mots)
 
-**📄 Sujet sélectionné :** [Task3 008 La colocation entre avantages et inconvénients](tcf_canada/ee/task3/task3_008_La_colocation_entre_avantages_et_inconvénients.md)
+**📄 Sujet sélectionné :** [Task3 008 La colocation entre avantages et inconvénients](../tcf_canada/ee/task3/task3_008_La_colocation_entre_avantages_et_inconvénients.md)
 
 ---
 

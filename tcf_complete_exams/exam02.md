@@ -19,11 +19,11 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 2 - Conversation simulée
 
-**📄 Sujet sélectionné :** [Task2 002 Je suis votre amie et je vous invite à une célébration. Vous êtes nouvellement installée au Québ](tcf_canada/eo/task2/task2_002_Je_suis_votre_amie_et_je_vous_invite_à_une_célébration._Vous_êtes_nouvellement_installée_au_Québ.md)
+**📄 Sujet sélectionné :** [Task2 002 Je suis votre amie et je vous invite à une célébration. Vous êtes nouvellement installée au Québ](../tcf_canada/eo/task2/task2_002_Je_suis_votre_amie_et_je_vous_invite_à_une_célébration._Vous_êtes_nouvellement_installée_au_Québ.md)
 
 ### Tâche 3 - Monologue suivi
 
-**📄 Sujet sélectionné :** [Task3 002 Pensez-vous que la gentillesse garantit toujours dobtenir de lattention et du respect](tcf_canada/eo/task3/task3_002_Pensez-vous_que_la_gentillesse_garantit_toujours_dobtenir_de_lattention_et_du_respect.md)
+**📄 Sujet sélectionné :** [Task3 002 Pensez-vous que la gentillesse garantit toujours dobtenir de lattention et du respect](../tcf_canada/eo/task3/task3_002_Pensez-vous_que_la_gentillesse_garantit_toujours_dobtenir_de_lattention_et_du_respect.md)
 
 ---
 
@@ -31,15 +31,15 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 1 - Message personnel (60-120 mots)
 
-**📄 Sujet sélectionné :** [Task1 002 Vous êtes locataire dun appartement qui vous semble trop grand.Rédigez une annonce dans un journal](tcf_canada/ee/task1/task1_002_Vous_êtes_locataire_dun_appartement_qui_vous_semble_trop_grand.Rédigez_une_annonce_dans_un_journal.md)
+**📄 Sujet sélectionné :** [Task1 002 Vous êtes locataire dun appartement qui vous semble trop grand.Rédigez une annonce dans un journal](../tcf_canada/ee/task1/task1_002_Vous_êtes_locataire_dun_appartement_qui_vous_semble_trop_grand.Rédigez_une_annonce_dans_un_journal.md)
 
 ### Tâche 2 - Article de blog (120-150 mots)
 
-**📄 Sujet sélectionné :** [Task2 002 Vous avez récemment débuté une nouvelle activité de loisir comme un sport ou la danse.Rédigez un ar](tcf_canada/ee/task2/task2_002_Vous_avez_récemment_débuté_une_nouvelle_activité_de_loisir_comme_un_sport_ou_la_danse.Rédigez_un_ar.md)
+**📄 Sujet sélectionné :** [Task2 002 Vous avez récemment débuté une nouvelle activité de loisir comme un sport ou la danse.Rédigez un ar](../tcf_canada/ee/task2/task2_002_Vous_avez_récemment_débuté_une_nouvelle_activité_de_loisir_comme_un_sport_ou_la_danse.Rédigez_un_ar.md)
 
 ### Tâche 3 - Essai argumentatif (120-180 mots)
 
-**📄 Sujet sélectionné :** [Task3 002 Laccès gratuit aux musées avantage ou inconvénient](tcf_canada/ee/task3/task3_002_Laccès_gratuit_aux_musées_avantage_ou_inconvénient.md)
+**📄 Sujet sélectionné :** [Task3 002 Laccès gratuit aux musées avantage ou inconvénient](../tcf_canada/ee/task3/task3_002_Laccès_gratuit_aux_musées_avantage_ou_inconvénient.md)
 
 ---
 

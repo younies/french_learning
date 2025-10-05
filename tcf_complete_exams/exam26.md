@@ -19,11 +19,11 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 2 - Conversation simulée
 
-**📄 Sujet sélectionné :** [Task2 027 Je suis votre amie. Vous pensez vous installer dans ma ville.Vous me posez des questions sur les d](tcf_canada/eo/task2/task2_027_Je_suis_votre_amie._Vous_pensez_vous_installer_dans_ma_ville.Vous_me_posez_des_questions_sur_les_d.md)
+**📄 Sujet sélectionné :** [Task2 027 Je suis votre amie. Vous pensez vous installer dans ma ville.Vous me posez des questions sur les d](../tcf_canada/eo/task2/task2_027_Je_suis_votre_amie._Vous_pensez_vous_installer_dans_ma_ville.Vous_me_posez_des_questions_sur_les_d.md)
 
 ### Tâche 3 - Monologue suivi
 
-**📄 Sujet sélectionné :** [Task3 027 Faut-il forcer les enfants à faire du sport Quen pensez-vous Pourquoi](tcf_canada/eo/task3/task3_027_Faut-il_forcer_les_enfants_à_faire_du_sport_Quen_pensez-vous_Pourquoi.md)
+**📄 Sujet sélectionné :** [Task3 027 Faut-il forcer les enfants à faire du sport Quen pensez-vous Pourquoi](../tcf_canada/eo/task3/task3_027_Faut-il_forcer_les_enfants_à_faire_du_sport_Quen_pensez-vous_Pourquoi.md)
 
 ---
 
@@ -31,15 +31,15 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 1 - Message personnel (60-120 mots)
 
-**📄 Sujet sélectionné :** [Task1 026 Rédiger un message en réponse à un ami qui demande des informations sur une salle de sport réputée p](tcf_canada/ee/task1/task1_026_Rédiger_un_message_en_réponse_à_un_ami_qui_demande_des_informations_sur_une_salle_de_sport_réputée_p.md)
+**📄 Sujet sélectionné :** [Task1 026 Rédiger un message en réponse à un ami qui demande des informations sur une salle de sport réputée p](../tcf_canada/ee/task1/task1_026_Rédiger_un_message_en_réponse_à_un_ami_qui_demande_des_informations_sur_une_salle_de_sport_réputée_p.md)
 
 ### Tâche 2 - Article de blog (120-150 mots)
 
-**📄 Sujet sélectionné :** [Task2 026 Participez à la discussion sur le site voyage.internaute.fr en répondant à la question est-ce un](tcf_canada/ee/task2/task2_026_Participez_à_la_discussion_sur_le_site_voyage.internaute.fr_en_répondant_à_la_question_est-ce_un.md)
+**📄 Sujet sélectionné :** [Task2 026 Participez à la discussion sur le site voyage.internaute.fr en répondant à la question est-ce un](../tcf_canada/ee/task2/task2_026_Participez_à_la_discussion_sur_le_site_voyage.internaute.fr_en_répondant_à_la_question_est-ce_un.md)
 
 ### Tâche 3 - Essai argumentatif (120-180 mots)
 
-**📄 Sujet sélectionné :** [Task3 026 Photo sur le CV un atout ou un danger](tcf_canada/ee/task3/task3_026_Photo_sur_le_CV_un_atout_ou_un_danger.md)
+**📄 Sujet sélectionné :** [Task3 026 Photo sur le CV un atout ou un danger](../tcf_canada/ee/task3/task3_026_Photo_sur_le_CV_un_atout_ou_un_danger.md)
 
 ---
 

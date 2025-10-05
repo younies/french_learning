@@ -19,11 +19,11 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 2 - Conversation simulée
 
-**📄 Sujet sélectionné :** [Task2 037 Je travaille à la réception dune école de musique. Vous voulez vous inscrire à des cours.Vous me po](tcf_canada/eo/task2/task2_037_Je_travaille_à_la_réception_dune_école_de_musique._Vous_voulez_vous_inscrire_à_des_cours.Vous_me_po.md)
+**📄 Sujet sélectionné :** [Task2 037 Je travaille à la réception dune école de musique. Vous voulez vous inscrire à des cours.Vous me po](../tcf_canada/eo/task2/task2_037_Je_travaille_à_la_réception_dune_école_de_musique._Vous_voulez_vous_inscrire_à_des_cours.Vous_me_po.md)
 
 ### Tâche 3 - Monologue suivi
 
-**📄 Sujet sélectionné :** [Task3 037 Sinstaller dans un nouveau pays est souvent difficile. Êtes-vous daccord Expliquez pourquoi.](tcf_canada/eo/task3/task3_037_Sinstaller_dans_un_nouveau_pays_est_souvent_difficile._Êtes-vous_daccord_Expliquez_pourquoi..md)
+**📄 Sujet sélectionné :** [Task3 037 Sinstaller dans un nouveau pays est souvent difficile. Êtes-vous daccord Expliquez pourquoi.](../tcf_canada/eo/task3/task3_037_Sinstaller_dans_un_nouveau_pays_est_souvent_difficile._Êtes-vous_daccord_Expliquez_pourquoi..md)
 
 ---
 
@@ -31,15 +31,15 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 1 - Message personnel (60-120 mots)
 
-**📄 Sujet sélectionné :** [Task1 036 Vous avez découvert un nouveau restaurant.Écrivez un message à votre ami pour décrire lambiance la](tcf_canada/ee/task1/task1_036_Vous_avez_découvert_un_nouveau_restaurant.Écrivez_un_message_à_votre_ami_pour_décrire_lambiance_la.md)
+**📄 Sujet sélectionné :** [Task1 036 Vous avez découvert un nouveau restaurant.Écrivez un message à votre ami pour décrire lambiance la](../tcf_canada/ee/task1/task1_036_Vous_avez_découvert_un_nouveau_restaurant.Écrivez_un_message_à_votre_ami_pour_décrire_lambiance_la.md)
 
 ### Tâche 2 - Article de blog (120-150 mots)
 
-**📄 Sujet sélectionné :** [Task2 036 Après avoir participé à une journée de formation au sein de votre entreprise rédigez un message à p](tcf_canada/ee/task2/task2_036_Après_avoir_participé_à_une_journée_de_formation_au_sein_de_votre_entreprise_rédigez_un_message_à_p.md)
+**📄 Sujet sélectionné :** [Task2 036 Après avoir participé à une journée de formation au sein de votre entreprise rédigez un message à p](../tcf_canada/ee/task2/task2_036_Après_avoir_participé_à_une_journée_de_formation_au_sein_de_votre_entreprise_rédigez_un_message_à_p.md)
 
 ### Tâche 3 - Essai argumentatif (120-180 mots)
 
-**📄 Sujet sélectionné :** [Task3 036 Produits Maison Une Alternative Intéressante ou une Contrainte](tcf_canada/ee/task3/task3_036_Produits_Maison_Une_Alternative_Intéressante_ou_une_Contrainte.md)
+**📄 Sujet sélectionné :** [Task3 036 Produits Maison Une Alternative Intéressante ou une Contrainte](../tcf_canada/ee/task3/task3_036_Produits_Maison_Une_Alternative_Intéressante_ou_une_Contrainte.md)
 
 ---
 

@@ -19,11 +19,11 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 2 - Conversation simulée
 
-**📄 Sujet sélectionné :** [Task2 093 Je suis professeur de français. Vous êtes nouveau au Canada et vous cherchez des cours particuliers.](tcf_canada/eo/task2/task2_093_Je_suis_professeur_de_français._Vous_êtes_nouveau_au_Canada_et_vous_cherchez_des_cours_particuliers..md)
+**📄 Sujet sélectionné :** [Task2 093 Je suis professeur de français. Vous êtes nouveau au Canada et vous cherchez des cours particuliers.](../tcf_canada/eo/task2/task2_093_Je_suis_professeur_de_français._Vous_êtes_nouveau_au_Canada_et_vous_cherchez_des_cours_particuliers..md)
 
 ### Tâche 3 - Monologue suivi
 
-**📄 Sujet sélectionné :** [Task3 093 Pensez-vous que les adultes perçoivent les jeunes de manière négative Pourquoi](tcf_canada/eo/task3/task3_093_Pensez-vous_que_les_adultes_perçoivent_les_jeunes_de_manière_négative_Pourquoi.md)
+**📄 Sujet sélectionné :** [Task3 093 Pensez-vous que les adultes perçoivent les jeunes de manière négative Pourquoi](../tcf_canada/eo/task3/task3_093_Pensez-vous_que_les_adultes_perçoivent_les_jeunes_de_manière_négative_Pourquoi.md)
 
 ---
 
@@ -31,15 +31,15 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 1 - Message personnel (60-120 mots)
 
-**📄 Sujet sélectionné :** [Task1 007 Dans votre message décrivez les sites touristiques et les endroits intéressants à découvrir dans vo](tcf_canada/ee/task1/task1_007_Dans_votre_message_décrivez_les_sites_touristiques_et_les_endroits_intéressants_à_découvrir_dans_vo.md)
+**📄 Sujet sélectionné :** [Task1 007 Dans votre message décrivez les sites touristiques et les endroits intéressants à découvrir dans vo](../tcf_canada/ee/task1/task1_007_Dans_votre_message_décrivez_les_sites_touristiques_et_les_endroits_intéressants_à_découvrir_dans_vo.md)
 
 ### Tâche 2 - Article de blog (120-150 mots)
 
-**📄 Sujet sélectionné :** [Task2 007 Rédigez un article de blog pour parler de lartiste que vous aimez le plus](tcf_canada/ee/task2/task2_007_Rédigez_un_article_de_blog_pour_parler_de_lartiste_que_vous_aimez_le_plus.md)
+**📄 Sujet sélectionné :** [Task2 007 Rédigez un article de blog pour parler de lartiste que vous aimez le plus](../tcf_canada/ee/task2/task2_007_Rédigez_un_article_de_blog_pour_parler_de_lartiste_que_vous_aimez_le_plus.md)
 
 ### Tâche 3 - Essai argumentatif (120-180 mots)
 
-**📄 Sujet sélectionné :** [Task3 019 Limpact des grands événements sportifs](tcf_canada/ee/task3/task3_019_Limpact_des_grands_événements_sportifs.md)
+**📄 Sujet sélectionné :** [Task3 019 Limpact des grands événements sportifs](../tcf_canada/ee/task3/task3_019_Limpact_des_grands_événements_sportifs.md)
 
 ---
 

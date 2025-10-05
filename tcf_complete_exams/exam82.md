@@ -19,11 +19,11 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 2 - Conversation simulée
 
-**📄 Sujet sélectionné :** [Task2 083 Vous envisagez de changer demploi et vous souhaitez en savoir plus sur les activités les condition](tcf_canada/eo/task2/task2_083_Vous_envisagez_de_changer_demploi_et_vous_souhaitez_en_savoir_plus_sur_les_activités_les_condition.md)
+**📄 Sujet sélectionné :** [Task2 083 Vous envisagez de changer demploi et vous souhaitez en savoir plus sur les activités les condition](../tcf_canada/eo/task2/task2_083_Vous_envisagez_de_changer_demploi_et_vous_souhaitez_en_savoir_plus_sur_les_activités_les_condition.md)
 
 ### Tâche 3 - Monologue suivi
 
-**📄 Sujet sélectionné :** [Task3 083 Pensez-vous quhabiter à létranger assure le succès professionnel Pourquoi ou pourquoi pas](tcf_canada/eo/task3/task3_083_Pensez-vous_quhabiter_à_létranger_assure_le_succès_professionnel_Pourquoi_ou_pourquoi_pas.md)
+**📄 Sujet sélectionné :** [Task3 083 Pensez-vous quhabiter à létranger assure le succès professionnel Pourquoi ou pourquoi pas](../tcf_canada/eo/task3/task3_083_Pensez-vous_quhabiter_à_létranger_assure_le_succès_professionnel_Pourquoi_ou_pourquoi_pas.md)
 
 ---
 
@@ -31,15 +31,15 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 1 - Message personnel (60-120 mots)
 
-**📄 Sujet sélectionné :** [Task1 082 Votre amie souhaite découvrir votre région.Rédigez un message pour lui recommander des sites intér](tcf_canada/ee/task1/task1_082_Votre_amie_souhaite_découvrir_votre_région.Rédigez_un_message_pour_lui_recommander_des_sites_intér.md)
+**📄 Sujet sélectionné :** [Task1 082 Votre amie souhaite découvrir votre région.Rédigez un message pour lui recommander des sites intér](../tcf_canada/ee/task1/task1_082_Votre_amie_souhaite_découvrir_votre_région.Rédigez_un_message_pour_lui_recommander_des_sites_intér.md)
 
 ### Tâche 2 - Article de blog (120-150 mots)
 
-**📄 Sujet sélectionné :** [Task2 082 Rédigez un message à votre amie pour linviter à venir avec vous au concert de votre artiste favor](tcf_canada/ee/task2/task2_082_Rédigez_un_message_à_votre_amie_pour_linviter_à_venir_avec_vous_au_concert_de_votre_artiste_favor.md)
+**📄 Sujet sélectionné :** [Task2 082 Rédigez un message à votre amie pour linviter à venir avec vous au concert de votre artiste favor](../tcf_canada/ee/task2/task2_082_Rédigez_un_message_à_votre_amie_pour_linviter_à_venir_avec_vous_au_concert_de_votre_artiste_favor.md)
 
 ### Tâche 3 - Essai argumentatif (120-180 mots)
 
-**📄 Sujet sélectionné :** [Task3 009 Photo sur le CV pour ou contre](tcf_canada/ee/task3/task3_009_Photo_sur_le_CV_pour_ou_contre.md)
+**📄 Sujet sélectionné :** [Task3 009 Photo sur le CV pour ou contre](../tcf_canada/ee/task3/task3_009_Photo_sur_le_CV_pour_ou_contre.md)
 
 ---
 

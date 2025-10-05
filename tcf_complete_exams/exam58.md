@@ -19,11 +19,11 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 2 - Conversation simulée
 
-**📄 Sujet sélectionné :** [Task2 059 Je suis agent immobilier. Vous êtes nouveau au Québec et vous cherchez un appartement.Vous me demand](tcf_canada/eo/task2/task2_059_Je_suis_agent_immobilier._Vous_êtes_nouveau_au_Québec_et_vous_cherchez_un_appartement.Vous_me_demand.md)
+**📄 Sujet sélectionné :** [Task2 059 Je suis agent immobilier. Vous êtes nouveau au Québec et vous cherchez un appartement.Vous me demand](../tcf_canada/eo/task2/task2_059_Je_suis_agent_immobilier._Vous_êtes_nouveau_au_Québec_et_vous_cherchez_un_appartement.Vous_me_demand.md)
 
 ### Tâche 3 - Monologue suivi
 
-**📄 Sujet sélectionné :** [Task3 059 Pensez-vous que maîtriser la langue du pays où lon vit soit essentiel pour bien sintégrer Pourquo](tcf_canada/eo/task3/task3_059_Pensez-vous_que_maîtriser_la_langue_du_pays_où_lon_vit_soit_essentiel_pour_bien_sintégrer_Pourquo.md)
+**📄 Sujet sélectionné :** [Task3 059 Pensez-vous que maîtriser la langue du pays où lon vit soit essentiel pour bien sintégrer Pourquo](../tcf_canada/eo/task3/task3_059_Pensez-vous_que_maîtriser_la_langue_du_pays_où_lon_vit_soit_essentiel_pour_bien_sintégrer_Pourquo.md)
 
 ---
 
@@ -31,15 +31,15 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 1 - Message personnel (60-120 mots)
 
-**📄 Sujet sélectionné :** [Task1 058 Rédigez un courriel à vos amis pour les inviter à une fête danniversaire surprise en précisant les](tcf_canada/ee/task1/task1_058_Rédigez_un_courriel_à_vos_amis_pour_les_inviter_à_une_fête_danniversaire_surprise_en_précisant_les.md)
+**📄 Sujet sélectionné :** [Task1 058 Rédigez un courriel à vos amis pour les inviter à une fête danniversaire surprise en précisant les](../tcf_canada/ee/task1/task1_058_Rédigez_un_courriel_à_vos_amis_pour_les_inviter_à_une_fête_danniversaire_surprise_en_précisant_les.md)
 
 ### Tâche 2 - Article de blog (120-150 mots)
 
-**📄 Sujet sélectionné :** [Task2 058 Vous avez pris des cours dans notre salle de sport.](tcf_canada/ee/task2/task2_058_Vous_avez_pris_des_cours_dans_notre_salle_de_sport..md)
+**📄 Sujet sélectionné :** [Task2 058 Vous avez pris des cours dans notre salle de sport.](../tcf_canada/ee/task2/task2_058_Vous_avez_pris_des_cours_dans_notre_salle_de_sport..md)
 
 ### Tâche 3 - Essai argumentatif (120-180 mots)
 
-**📄 Sujet sélectionné :** [Task3 058 Uniforme Scolaire](tcf_canada/ee/task3/task3_058_Uniforme_Scolaire.md)
+**📄 Sujet sélectionné :** [Task3 058 Uniforme Scolaire](../tcf_canada/ee/task3/task3_058_Uniforme_Scolaire.md)
 
 ---
 

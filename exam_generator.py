@@ -124,7 +124,8 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
     # Add EO Task 2 link
     if 'eo_task2' in selected_files:
-        relative_path = os.path.relpath(selected_files['eo_task2'], base_path)
+        # Path relative to the exam file (which is in tcf_complete_exams/)
+        relative_path = os.path.relpath(selected_files['eo_task2'], base_path / 'tcf_complete_exams')
         title = clean_filename_for_title(selected_files['eo_task2'])
         content += f"\n**📄 Sujet sélectionné :** [{title}]({relative_path})\n"
     else:
@@ -136,7 +137,8 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
     # Add EO Task 3 link
     if 'eo_task3' in selected_files:
-        relative_path = os.path.relpath(selected_files['eo_task3'], base_path)
+        # Path relative to the exam file (which is in tcf_complete_exams/)
+        relative_path = os.path.relpath(selected_files['eo_task3'], base_path / 'tcf_complete_exams')
         title = clean_filename_for_title(selected_files['eo_task3'])
         content += f"\n**📄 Sujet sélectionné :** [{title}]({relative_path})\n"
     else:
@@ -152,7 +154,8 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
     # Add EE Task 1 link
     if 'ee_task1' in selected_files:
-        relative_path = os.path.relpath(selected_files['ee_task1'], base_path)
+        # Path relative to the exam file (which is in tcf_complete_exams/)
+        relative_path = os.path.relpath(selected_files['ee_task1'], base_path / 'tcf_complete_exams')
         title = clean_filename_for_title(selected_files['ee_task1'])
         content += f"\n**📄 Sujet sélectionné :** [{title}]({relative_path})\n"
     else:
@@ -164,7 +167,8 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
     # Add EE Task 2 link
     if 'ee_task2' in selected_files:
-        relative_path = os.path.relpath(selected_files['ee_task2'], base_path)
+        # Path relative to the exam file (which is in tcf_complete_exams/)
+        relative_path = os.path.relpath(selected_files['ee_task2'], base_path / 'tcf_complete_exams')
         title = clean_filename_for_title(selected_files['ee_task2'])
         content += f"\n**📄 Sujet sélectionné :** [{title}]({relative_path})\n"
     else:
@@ -176,7 +180,8 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
     # Add EE Task 3 link
     if 'ee_task3' in selected_files:
-        relative_path = os.path.relpath(selected_files['ee_task3'], base_path)
+        # Path relative to the exam file (which is in tcf_complete_exams/)
+        relative_path = os.path.relpath(selected_files['ee_task3'], base_path / 'tcf_complete_exams')
         title = clean_filename_for_title(selected_files['ee_task3'])
         content += f"\n**📄 Sujet sélectionné :** [{title}]({relative_path})\n"
     else:

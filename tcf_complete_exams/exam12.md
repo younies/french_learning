@@ -19,11 +19,11 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 2 - Conversation simulée
 
-**📄 Sujet sélectionné :** [Task2 012 À une soirée où nous faisons connaissance je rentre dun voyage récent.Vous me posez des questions](tcf_canada/eo/task2/task2_012_À_une_soirée_où_nous_faisons_connaissance_je_rentre_dun_voyage_récent.Vous_me_posez_des_questions.md)
+**📄 Sujet sélectionné :** [Task2 012 À une soirée où nous faisons connaissance je rentre dun voyage récent.Vous me posez des questions](../tcf_canada/eo/task2/task2_012_À_une_soirée_où_nous_faisons_connaissance_je_rentre_dun_voyage_récent.Vous_me_posez_des_questions.md)
 
 ### Tâche 3 - Monologue suivi
 
-**📄 Sujet sélectionné :** [Task3 012 Est-il vrai que vivre à la ville est plus stressant que vivre à la campagne Quen pensez-vous](tcf_canada/eo/task3/task3_012_Est-il_vrai_que_vivre_à_la_ville_est_plus_stressant_que_vivre_à_la_campagne_Quen_pensez-vous.md)
+**📄 Sujet sélectionné :** [Task3 012 Est-il vrai que vivre à la ville est plus stressant que vivre à la campagne Quen pensez-vous](../tcf_canada/eo/task3/task3_012_Est-il_vrai_que_vivre_à_la_ville_est_plus_stressant_que_vivre_à_la_campagne_Quen_pensez-vous.md)
 
 ---
 
@@ -31,15 +31,15 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 1 - Message personnel (60-120 mots)
 
-**📄 Sujet sélectionné :** [Task1 012 Rédigez un message à un ami pour lui proposer de vous accompagner. Indiquez clairement les détails d](tcf_canada/ee/task1/task1_012_Rédigez_un_message_à_un_ami_pour_lui_proposer_de_vous_accompagner._Indiquez_clairement_les_détails_d.md)
+**📄 Sujet sélectionné :** [Task1 012 Rédigez un message à un ami pour lui proposer de vous accompagner. Indiquez clairement les détails d](../tcf_canada/ee/task1/task1_012_Rédigez_un_message_à_un_ami_pour_lui_proposer_de_vous_accompagner._Indiquez_clairement_les_détails_d.md)
 
 ### Tâche 2 - Article de blog (120-150 mots)
 
-**📄 Sujet sélectionné :** [Task2 012 Rédigez un message à vos amis pour partager votre expérience et leur donner votre avis sur ce film](tcf_canada/ee/task2/task2_012_Rédigez_un_message_à_vos_amis_pour_partager_votre_expérience_et_leur_donner_votre_avis_sur_ce_film.md)
+**📄 Sujet sélectionné :** [Task2 012 Rédigez un message à vos amis pour partager votre expérience et leur donner votre avis sur ce film](../tcf_canada/ee/task2/task2_012_Rédigez_un_message_à_vos_amis_pour_partager_votre_expérience_et_leur_donner_votre_avis_sur_ce_film.md)
 
 ### Tâche 3 - Essai argumentatif (120-180 mots)
 
-**📄 Sujet sélectionné :** [Task3 012 Les Bienfaits Cognitifs des Jeux Vidéo](tcf_canada/ee/task3/task3_012_Les_Bienfaits_Cognitifs_des_Jeux_Vidéo.md)
+**📄 Sujet sélectionné :** [Task3 012 Les Bienfaits Cognitifs des Jeux Vidéo](../tcf_canada/ee/task3/task3_012_Les_Bienfaits_Cognitifs_des_Jeux_Vidéo.md)
 
 ---
 

@@ -19,11 +19,11 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 2 - Conversation simulée
 
-**📄 Sujet sélectionné :** [Task2 101 Nous venons de nous rencontrer dans une gare.Vous êtes intéressée par mon amour pour la montagne e](tcf_canada/eo/task2/task2_101_Nous_venons_de_nous_rencontrer_dans_une_gare.Vous_êtes_intéressée_par_mon_amour_pour_la_montagne_e.md)
+**📄 Sujet sélectionné :** [Task2 101 Nous venons de nous rencontrer dans une gare.Vous êtes intéressée par mon amour pour la montagne e](../tcf_canada/eo/task2/task2_101_Nous_venons_de_nous_rencontrer_dans_une_gare.Vous_êtes_intéressée_par_mon_amour_pour_la_montagne_e.md)
 
 ### Tâche 3 - Monologue suivi
 
-**📄 Sujet sélectionné :** [Task3 101 Quels sont selon vous les impacts et les éventuels dangers dune utilisation quotidienne des appar](tcf_canada/eo/task3/task3_101_Quels_sont_selon_vous_les_impacts_et_les_éventuels_dangers_dune_utilisation_quotidienne_des_appar.md)
+**📄 Sujet sélectionné :** [Task3 101 Quels sont selon vous les impacts et les éventuels dangers dune utilisation quotidienne des appar](../tcf_canada/eo/task3/task3_101_Quels_sont_selon_vous_les_impacts_et_les_éventuels_dangers_dune_utilisation_quotidienne_des_appar.md)
 
 ---
 
@@ -31,15 +31,15 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 1 - Message personnel (60-120 mots)
 
-**📄 Sujet sélectionné :** [Task1 015 Vous lui répondre en décrivant brièvement votre environnement universitaire](tcf_canada/ee/task1/task1_015_Vous_lui_répondre_en_décrivant_brièvement_votre_environnement_universitaire.md)
+**📄 Sujet sélectionné :** [Task1 015 Vous lui répondre en décrivant brièvement votre environnement universitaire](../tcf_canada/ee/task1/task1_015_Vous_lui_répondre_en_décrivant_brièvement_votre_environnement_universitaire.md)
 
 ### Tâche 2 - Article de blog (120-150 mots)
 
-**📄 Sujet sélectionné :** [Task2 015 Vous avez décidé darrêter dutiliser votre réseau social préféré comme Instagram Facebook etc..](tcf_canada/ee/task2/task2_015_Vous_avez_décidé_darrêter_dutiliser_votre_réseau_social_préféré_comme_Instagram_Facebook_etc...md)
+**📄 Sujet sélectionné :** [Task2 015 Vous avez décidé darrêter dutiliser votre réseau social préféré comme Instagram Facebook etc..](../tcf_canada/ee/task2/task2_015_Vous_avez_décidé_darrêter_dutiliser_votre_réseau_social_préféré_comme_Instagram_Facebook_etc...md)
 
 ### Tâche 3 - Essai argumentatif (120-180 mots)
 
-**📄 Sujet sélectionné :** [Task3 027 Faire ses courses épiceries locales ou supermarchés](tcf_canada/ee/task3/task3_027_Faire_ses_courses_épiceries_locales_ou_supermarchés.md)
+**📄 Sujet sélectionné :** [Task3 027 Faire ses courses épiceries locales ou supermarchés](../tcf_canada/ee/task3/task3_027_Faire_ses_courses_épiceries_locales_ou_supermarchés.md)
 
 ---
 

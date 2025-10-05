@@ -19,11 +19,11 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 2 - Conversation simulée
 
-**📄 Sujet sélectionné :** [Task2 055 Je fais partie dune association qui protège les animaux. Je vous invite à nous rejoindre.Vous me po](tcf_canada/eo/task2/task2_055_Je_fais_partie_dune_association_qui_protège_les_animaux._Je_vous_invite_à_nous_rejoindre.Vous_me_po.md)
+**📄 Sujet sélectionné :** [Task2 055 Je fais partie dune association qui protège les animaux. Je vous invite à nous rejoindre.Vous me po](../tcf_canada/eo/task2/task2_055_Je_fais_partie_dune_association_qui_protège_les_animaux._Je_vous_invite_à_nous_rejoindre.Vous_me_po.md)
 
 ### Tâche 3 - Monologue suivi
 
-**📄 Sujet sélectionné :** [Task3 055 Pensez-vous que lintégration dans un nouveau pays est plus simple pour les jeunes](tcf_canada/eo/task3/task3_055_Pensez-vous_que_lintégration_dans_un_nouveau_pays_est_plus_simple_pour_les_jeunes.md)
+**📄 Sujet sélectionné :** [Task3 055 Pensez-vous que lintégration dans un nouveau pays est plus simple pour les jeunes](../tcf_canada/eo/task3/task3_055_Pensez-vous_que_lintégration_dans_un_nouveau_pays_est_plus_simple_pour_les_jeunes.md)
 
 ---
 
@@ -31,15 +31,15 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 1 - Message personnel (60-120 mots)
 
-**📄 Sujet sélectionné :** [Task1 054 Votre amie Anna prévoit de passer un week-end dans votre ville et souhaite en savoir plus sur les mo](tcf_canada/ee/task1/task1_054_Votre_amie_Anna_prévoit_de_passer_un_week-end_dans_votre_ville_et_souhaite_en_savoir_plus_sur_les_mo.md)
+**📄 Sujet sélectionné :** [Task1 054 Votre amie Anna prévoit de passer un week-end dans votre ville et souhaite en savoir plus sur les mo](../tcf_canada/ee/task1/task1_054_Votre_amie_Anna_prévoit_de_passer_un_week-end_dans_votre_ville_et_souhaite_en_savoir_plus_sur_les_mo.md)
 
 ### Tâche 2 - Article de blog (120-150 mots)
 
-**📄 Sujet sélectionné :** [Task2 054 Raconter votre expérience de colocation et dire ce que vous en pensez](tcf_canada/ee/task2/task2_054_Raconter_votre_expérience_de_colocation_et_dire_ce_que_vous_en_pensez.md)
+**📄 Sujet sélectionné :** [Task2 054 Raconter votre expérience de colocation et dire ce que vous en pensez](../tcf_canada/ee/task2/task2_054_Raconter_votre_expérience_de_colocation_et_dire_ce_que_vous_en_pensez.md)
 
 ### Tâche 3 - Essai argumentatif (120-180 mots)
 
-**📄 Sujet sélectionné :** [Task3 054 Limpact de la télévision sur léducation des enfants](tcf_canada/ee/task3/task3_054_Limpact_de_la_télévision_sur_léducation_des_enfants.md)
+**📄 Sujet sélectionné :** [Task3 054 Limpact de la télévision sur léducation des enfants](../tcf_canada/ee/task3/task3_054_Limpact_de_la_télévision_sur_léducation_des_enfants.md)
 
 ---
 

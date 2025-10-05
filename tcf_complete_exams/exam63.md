@@ -19,11 +19,11 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 2 - Conversation simulée
 
-**📄 Sujet sélectionné :** [Task2 064 Je suis votre voisine. Vous vous occuperez de mon animal pendant quelques jours.Vous souhaitez vou](tcf_canada/eo/task2/task2_064_Je_suis_votre_voisine._Vous_vous_occuperez_de_mon_animal_pendant_quelques_jours.Vous_souhaitez_vou.md)
+**📄 Sujet sélectionné :** [Task2 064 Je suis votre voisine. Vous vous occuperez de mon animal pendant quelques jours.Vous souhaitez vou](../tcf_canada/eo/task2/task2_064_Je_suis_votre_voisine._Vous_vous_occuperez_de_mon_animal_pendant_quelques_jours.Vous_souhaitez_vou.md)
 
 ### Tâche 3 - Monologue suivi
 
-**📄 Sujet sélectionné :** [Task3 064 Pensez-vous que les outils numériques nous aident à mieux gérer notre temps au quotidien Expliquez.](tcf_canada/eo/task3/task3_064_Pensez-vous_que_les_outils_numériques_nous_aident_à_mieux_gérer_notre_temps_au_quotidien_Expliquez..md)
+**📄 Sujet sélectionné :** [Task3 064 Pensez-vous que les outils numériques nous aident à mieux gérer notre temps au quotidien Expliquez.](../tcf_canada/eo/task3/task3_064_Pensez-vous_que_les_outils_numériques_nous_aident_à_mieux_gérer_notre_temps_au_quotidien_Expliquez..md)
 
 ---
 
@@ -31,15 +31,15 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 1 - Message personnel (60-120 mots)
 
-**📄 Sujet sélectionné :** [Task1 063 Écrire un message à une amie pour raconter son week-end à la campagneen détaillant les événement](tcf_canada/ee/task1/task1_063_Écrire_un_message_à_une_amie_pour_raconter_son_week-end_à_la_campagneen_détaillant_les_événement.md)
+**📄 Sujet sélectionné :** [Task1 063 Écrire un message à une amie pour raconter son week-end à la campagneen détaillant les événement](../tcf_canada/ee/task1/task1_063_Écrire_un_message_à_une_amie_pour_raconter_son_week-end_à_la_campagneen_détaillant_les_événement.md)
 
 ### Tâche 2 - Article de blog (120-150 mots)
 
-**📄 Sujet sélectionné :** [Task2 063 Rédigez un article de blog pour exprimer votre admiration envers une personnalité quelle soit célè](tcf_canada/ee/task2/task2_063_Rédigez_un_article_de_blog_pour_exprimer_votre_admiration_envers_une_personnalité_quelle_soit_célè.md)
+**📄 Sujet sélectionné :** [Task2 063 Rédigez un article de blog pour exprimer votre admiration envers une personnalité quelle soit célè](../tcf_canada/ee/task2/task2_063_Rédigez_un_article_de_blog_pour_exprimer_votre_admiration_envers_une_personnalité_quelle_soit_célè.md)
 
 ### Tâche 3 - Essai argumentatif (120-180 mots)
 
-**📄 Sujet sélectionné :** [Task3 063 La gratuité des transports en commun pour ou contre](tcf_canada/ee/task3/task3_063_La_gratuité_des_transports_en_commun_pour_ou_contre.md)
+**📄 Sujet sélectionné :** [Task3 063 La gratuité des transports en commun pour ou contre](../tcf_canada/ee/task3/task3_063_La_gratuité_des_transports_en_commun_pour_ou_contre.md)
 
 ---
 

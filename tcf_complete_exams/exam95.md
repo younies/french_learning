@@ -19,11 +19,11 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 2 - Conversation simulée
 
-**📄 Sujet sélectionné :** [Task2 096 Vous venez demménager au Québec. Je suis votre voisine et je vous invite à un petit apéro.Pendant](tcf_canada/eo/task2/task2_096_Vous_venez_demménager_au_Québec._Je_suis_votre_voisine_et_je_vous_invite_à_un_petit_apéro.Pendant.md)
+**📄 Sujet sélectionné :** [Task2 096 Vous venez demménager au Québec. Je suis votre voisine et je vous invite à un petit apéro.Pendant](../tcf_canada/eo/task2/task2_096_Vous_venez_demménager_au_Québec._Je_suis_votre_voisine_et_je_vous_invite_à_un_petit_apéro.Pendant.md)
 
 ### Tâche 3 - Monologue suivi
 
-**📄 Sujet sélectionné :** [Task3 096 Faut-il rendre les soins médicaux gratuits pour tout le monde](tcf_canada/eo/task3/task3_096_Faut-il_rendre_les_soins_médicaux_gratuits_pour_tout_le_monde.md)
+**📄 Sujet sélectionné :** [Task3 096 Faut-il rendre les soins médicaux gratuits pour tout le monde](../tcf_canada/eo/task3/task3_096_Faut-il_rendre_les_soins_médicaux_gratuits_pour_tout_le_monde.md)
 
 ---
 
@@ -31,15 +31,15 @@ Ce fichier contient un examen complet du TCF Canada avec toutes les tâches d'Ex
 
 ### Tâche 1 - Message personnel (60-120 mots)
 
-**📄 Sujet sélectionné :** [Task1 010 Rédigez un message à votre ami Cédric pour lui fournir des instructions concernant lentretien de vo](tcf_canada/ee/task1/task1_010_Rédigez_un_message_à_votre_ami_Cédric_pour_lui_fournir_des_instructions_concernant_lentretien_de_vo.md)
+**📄 Sujet sélectionné :** [Task1 010 Rédigez un message à votre ami Cédric pour lui fournir des instructions concernant lentretien de vo](../tcf_canada/ee/task1/task1_010_Rédigez_un_message_à_votre_ami_Cédric_pour_lui_fournir_des_instructions_concernant_lentretien_de_vo.md)
 
 ### Tâche 2 - Article de blog (120-150 mots)
 
-**📄 Sujet sélectionné :** [Task2 010 Rédigez une lettre de réclamation pour exprimer votre insatisfaction à légard des services fournis](tcf_canada/ee/task2/task2_010_Rédigez_une_lettre_de_réclamation_pour_exprimer_votre_insatisfaction_à_légard_des_services_fournis.md)
+**📄 Sujet sélectionné :** [Task2 010 Rédigez une lettre de réclamation pour exprimer votre insatisfaction à légard des services fournis](../tcf_canada/ee/task2/task2_010_Rédigez_une_lettre_de_réclamation_pour_exprimer_votre_insatisfaction_à_légard_des_services_fournis.md)
 
 ### Tâche 3 - Essai argumentatif (120-180 mots)
 
-**📄 Sujet sélectionné :** [Task3 022 Réduction du temps de travail](tcf_canada/ee/task3/task3_022_Réduction_du_temps_de_travail.md)
+**📄 Sujet sélectionné :** [Task3 022 Réduction du temps de travail](../tcf_canada/ee/task3/task3_022_Réduction_du_temps_de_travail.md)
 
 ---
 
