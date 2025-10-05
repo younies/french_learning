@@ -32,27 +32,27 @@ De nos jours, dans une société où **les relations humaines deviennent de plus
 
 ### 📚 Tableau des expressions et verbes
 
-| Expression / Verbe | Translation (EN) | Explication (FR) | Explanation (EN) |
-|--------------------|------------------|------------------|------------------|
-| **les relations humaines deviennent de plus en plus superficielles** | human relationships are becoming more and more superficial | Observation générale sur l’évolution sociale | Describes a general social trend |
-| **À mon avis** | In my opinion | Expression d’opinion personnelle | Used to express a personal opinion |
-| **favorise** | promotes / encourages | Sert à montrer que quelque chose crée un effet positif | Indicates something creates a positive effect |
-| **peut être mal interprétée** | can be misinterpreted | Montre le risque d’un malentendu | Shows risk of misunderstanding |
-| **faut savoir poser des limites** | one must know how to set limits | Conseille de se protéger | Suggests protecting oneself |
-| **permet de créer** | allows to create | Introduit un effet positif ou un résultat | Introduces a positive outcome |
-| **agir avec respect** | act with respect | Décrit une attitude morale | Describes a moral behavior |
-| **fait preuve d’empathie** | shows empathy | Met l’accent sur la compréhension émotionnelle | Highlights emotional understanding |
-| **attire naturellement** | naturally attracts | Montre une conséquence naturelle | Shows a natural consequence |
-| **favorise la collaboration** | promotes collaboration | Exprime une action bénéfique collective | Expresses a collective benefit |
-| **peut parfois être perçue comme une faiblesse** | can sometimes be seen as a weakness | Introduit une mise en garde | Introduces a warning |
-| **profite de la bonté** | takes advantage of kindness | Décrit un abus de confiance | Describes taking advantage of someone's trust |
-| **pris pour acquis** | taken for granted | Signifie qu’on ne reconnaît plus la valeur de quelqu’un | Means someone's value is not recognized |
-| **il est essentiel de distinguer** | it is essential to distinguish | Introduit une nuance importante | Introduces an important nuance |
-| **faut savoir se faire respecter soi-même** | one must know how to make oneself respected | Montre la nécessité d’affirmation personnelle | Expresses need for self-assertion |
-| **implique d’avoir du courage** | implies having courage | Montre un lien entre deux qualités | Links two qualities together |
-| **dire non quand c’est nécessaire** | say no when necessary | Exprime la capacité à refuser | Expresses the ability to refuse |
-| **s’affirme avec bienveillance** | assert oneself with kindness | Montre un équilibre entre fermeté et douceur | Shows balance between firmness and kindness |
-| **inspire réellement** | truly inspires | Indique un effet authentique sur les autres | Indicates a genuine impact on others |
+| Expression / Verbe                                                   | Translation (EN)                                           | Explication (FR)                                        | Explanation (EN)                              |
+| -------------------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------- |
+| **les relations humaines deviennent de plus en plus superficielles** | human relationships are becoming more and more superficial | Observation générale sur l’évolution sociale            | Describes a general social trend              |
+| **À mon avis**                                                       | In my opinion                                              | Expression d’opinion personnelle                        | Used to express a personal opinion            |
+| **favorise**                                                         | promotes / encourages                                      | Sert à montrer que quelque chose crée un effet positif  | Indicates something creates a positive effect |
+| **peut être mal interprétée**                                        | can be misinterpreted                                      | Montre le risque d’un malentendu                        | Shows risk of misunderstanding                |
+| **faut savoir poser des limites**                                    | one must know how to set limits                            | Conseille de se protéger                                | Suggests protecting oneself                   |
+| **permet de créer**                                                  | allows to create                                           | Introduit un effet positif ou un résultat               | Introduces a positive outcome                 |
+| **agir avec respect**                                                | act with respect                                           | Décrit une attitude morale                              | Describes a moral behavior                    |
+| **fait preuve d’empathie**                                           | shows empathy                                              | Met l’accent sur la compréhension émotionnelle          | Highlights emotional understanding            |
+| **attire naturellement**                                             | naturally attracts                                         | Montre une conséquence naturelle                        | Shows a natural consequence                   |
+| **favorise la collaboration**                                        | promotes collaboration                                     | Exprime une action bénéfique collective                 | Expresses a collective benefit                |
+| **peut parfois être perçue comme une faiblesse**                     | can sometimes be seen as a weakness                        | Introduit une mise en garde                             | Introduces a warning                          |
+| **profite de la bonté**                                              | takes advantage of kindness                                | Décrit un abus de confiance                             | Describes taking advantage of someone's trust |
+| **pris pour acquis**                                                 | taken for granted                                          | Signifie qu’on ne reconnaît plus la valeur de quelqu’un | Means someone's value is not recognized       |
+| **il est essentiel de distinguer**                                   | it is essential to distinguish                             | Introduit une nuance importante                         | Introduces an important nuance                |
+| **faut savoir se faire respecter soi-même**                          | one must know how to make oneself respected                | Montre la nécessité d’affirmation personnelle           | Expresses need for self-assertion             |
+| **implique d’avoir du courage**                                      | implies having courage                                     | Montre un lien entre deux qualités                      | Links two qualities together                  |
+| **dire non quand c’est nécessaire**                                  | say no when necessary                                      | Exprime la capacité à refuser                           | Expresses the ability to refuse               |
+| **s’affirme avec bienveillance**                                     | assert oneself with kindness                               | Montre un équilibre entre fermeté et douceur            | Shows balance between firmness and kindness   |
+| **inspire réellement**                                               | truly inspires                                             | Indique un effet authentique sur les autres             | Indicates a genuine impact on others          |
 
 ### 🗣️ Monologue simulé (Tâche 3 – Niveau B2++)
 
@@ -74,26 +74,73 @@ De nos jours, dans une société où [**les relations humaines deviennent de plu
 
 ### 📚 Tableau des expressions et verbes
 
-| Expression / Verbe | Translation (EN) | Explication (FR) | Explanation (EN) |
-|--------------------|------------------|------------------|------------------|
-| <a id="t1"></a>[**les relations humaines deviennent de plus en plus superficielles**](#m1) | human relationships are becoming more and more superficial | Observation générale sur l’évolution sociale | Describes a general social trend |
-| <a id="t2"></a>[**À mon avis**](#m2) | In my opinion | Expression d’opinion personnelle | Used to express a personal opinion |
-| <a id="t3"></a>[**peut être mal interprétée**](#m3) | can be misinterpreted | Montre le risque d’un malentendu | Shows risk of misunderstanding |
-| <a id="t4"></a>[**faut savoir poser des limites**](#m4) | one must know how to set limits | Conseille de se protéger | Suggests protecting oneself |
-| <a id="t5"></a>[**permet de créer**](#m5) | allows to create | Introduit un effet positif ou un résultat | Introduces a positive outcome |
-| <a id="t6"></a>[**agir avec respect**](#m6) | act with respect | Décrit une attitude morale | Describes a moral behavior |
-| <a id="t7"></a>[**écoute les autres**](#m7) | listens to others | Met l’accent sur l’attention à autrui | Highlights paying attention to others |
-| <a id="t8"></a>[**fait preuve d’empathie**](#m8) | shows empathy | Met l’accent sur la compréhension émotionnelle | Highlights emotional understanding |
-| <a id="t9"></a>[**attire naturellement**](#m9) | naturally attracts | Montre une conséquence naturelle | Shows a natural consequence |
-| <a id="t10"></a>[**favorise la collaboration**](#m10) | promotes collaboration | Exprime une action bénéfique collective | Expresses a collective benefit |
-| <a id="t11"></a>[**peut parfois être perçue comme une faiblesse**](#m11) | can sometimes be seen as a weakness | Introduit une mise en garde | Introduces a warning |
-| <a id="t12"></a>[**profite de la bonté**](#m12) | takes advantage of kindness | Décrit un abus de confiance | Describes taking advantage of someone's trust |
-| <a id="t13"></a>[**pris pour acquis**](#m13) | taken for granted | Signifie qu’on ne reconnaît plus la valeur de quelqu’un | Means someone's value is not recognized |
-| <a id="t14"></a>[**il est essentiel de distinguer**](#m14) | it is essential to distinguish | Introduit une nuance importante | Introduces an important nuance |
-| <a id="t15"></a>[**faut savoir se faire respecter soi-même**](#m15) | one must know how to make oneself respected | Montre la nécessité d’affirmation personnelle | Expresses need for self-assertion |
-| <a id="t16"></a>[**implique d’avoir du courage**](#m16) | implies having courage | Montre un lien entre deux qualités | Links two qualities together |
-| <a id="t17"></a>[**dire non quand c’est nécessaire**](#m17) | say no when necessary | Exprime la capacité à refuser | Expresses the ability to refuse |
-| <a id="t18"></a>[**défendre ses valeurs**](#m18) | defend one’s values | Montre la fermeté morale | Shows moral firmness |
-| <a id="t19"></a>[**s’affirme avec bienveillance**](#m19) | assert oneself with kindness | Montre un équilibre entre fermeté et douceur | Shows balance between firmness and kindness |
-| <a id="t20"></a>[**faut savoir l’accompagner**](#m20) | one must know how to accompany it | Indique qu’une qualité seule ne suffit pas | Indicates a quality alone is not enough |
-| <a id="t21"></a>[**inspire réellement**](#m21) | truly inspires | Indique un effet authentique sur les autres | Indicates a genuine impact on others |
+| Expression / Verbe                                                                         | Translation (EN)                                           | Explication (FR)                                        | Explanation (EN)                              |
+| ------------------------------------------------------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------- |
+| <a id="t1"></a>[**les relations humaines deviennent de plus en plus superficielles**](#m1) | human relationships are becoming more and more superficial | Observation générale sur l’évolution sociale            | Describes a general social trend              |
+| <a id="t2"></a>[**À mon avis**](#m2)                                                       | In my opinion                                              | Expression d’opinion personnelle                        | Used to express a personal opinion            |
+| <a id="t3"></a>[**peut être mal interprétée**](#m3)                                        | can be misinterpreted                                      | Montre le risque d’un malentendu                        | Shows risk of misunderstanding                |
+| <a id="t4"></a>[**faut savoir poser des limites**](#m4)                                    | one must know how to set limits                            | Conseille de se protéger                                | Suggests protecting oneself                   |
+| <a id="t5"></a>[**permet de créer**](#m5)                                                  | allows to create                                           | Introduit un effet positif ou un résultat               | Introduces a positive outcome                 |
+| <a id="t6"></a>[**agir avec respect**](#m6)                                                | act with respect                                           | Décrit une attitude morale                              | Describes a moral behavior                    |
+| <a id="t7"></a>[**écoute les autres**](#m7)                                                | listens to others                                          | Met l’accent sur l’attention à autrui                   | Highlights paying attention to others         |
+| <a id="t8"></a>[**fait preuve d’empathie**](#m8)                                           | shows empathy                                              | Met l’accent sur la compréhension émotionnelle          | Highlights emotional understanding            |
+| <a id="t9"></a>[**attire naturellement**](#m9)                                             | naturally attracts                                         | Montre une conséquence naturelle                        | Shows a natural consequence                   |
+| <a id="t10"></a>[**favorise la collaboration**](#m10)                                      | promotes collaboration                                     | Exprime une action bénéfique collective                 | Expresses a collective benefit                |
+| <a id="t11"></a>[**peut parfois être perçue comme une faiblesse**](#m11)                   | can sometimes be seen as a weakness                        | Introduit une mise en garde                             | Introduces a warning                          |
+| <a id="t12"></a>[**profite de la bonté**](#m12)                                            | takes advantage of kindness                                | Décrit un abus de confiance                             | Describes taking advantage of someone's trust |
+| <a id="t13"></a>[**pris pour acquis**](#m13)                                               | taken for granted                                          | Signifie qu’on ne reconnaît plus la valeur de quelqu’un | Means someone's value is not recognized       |
+| <a id="t14"></a>[**il est essentiel de distinguer**](#m14)                                 | it is essential to distinguish                             | Introduit une nuance importante                         | Introduces an important nuance                |
+| <a id="t15"></a>[**faut savoir se faire respecter soi-même**](#m15)                        | one must know how to make oneself respected                | Montre la nécessité d’affirmation personnelle           | Expresses need for self-assertion             |
+| <a id="t16"></a>[**implique d’avoir du courage**](#m16)                                    | implies having courage                                     | Montre un lien entre deux qualités                      | Links two qualities together                  |
+| <a id="t17"></a>[**dire non quand c’est nécessaire**](#m17)                                | say no when necessary                                      | Exprime la capacité à refuser                           | Expresses the ability to refuse               |
+| <a id="t18"></a>[**défendre ses valeurs**](#m18)                                           | defend one’s values                                        | Montre la fermeté morale                                | Shows moral firmness                          |
+| <a id="t19"></a>[**s’affirme avec bienveillance**](#m19)                                   | assert oneself with kindness                               | Montre un équilibre entre fermeté et douceur            | Shows balance between firmness and kindness   |
+| <a id="t20"></a>[**faut savoir l’accompagner**](#m20)                                      | one must know how to accompany it                          | Indique qu’une qualité seule ne suffit pas              | Indicates a quality alone is not enough       |
+| <a id="t21"></a>[**inspire réellement**](#m21)                                             | truly inspires                                             | Indique un effet authentique sur les autres             | Indicates a genuine impact on others          |
+
+
+
+### 🗣️ Monologue simulé (Tâche 3 – Niveau B2++)
+
+De nos jours, dans une société où [**les relations humaines deviennent de plus en plus superficielles**](# "human relationships are becoming more and more superficial"), on se demande souvent si la gentillesse permet réellement **d’obtenir de l’attention et du respect**. [**À mon avis**](# "in my opinion"), la gentillesse est une **valeur essentielle**, mais elle ne garantit pas toujours le respect ou la reconnaissance des autres. Pour mieux comprendre cette idée, **je développerai trois points** : d’abord, la gentillesse **favorise** des relations positives ; ensuite, elle [**peut être mal interprétée**](# "can be misinterpreted") ; enfin, il [**faut savoir poser des limites**](# "one must know how to set limits") pour être respecté.
+
+---
+
+**Tout d’abord**, être gentil [**permet de créer**](# "allows to create") un climat de confiance et **d’encourager** la bienveillance. **En effet**, une personne qui [**agit avec respect**](# "acts with respect"), [**écoute les autres**](# "listens to others") et [**fait preuve d’empathie**](# "shows empathy") [**attire naturellement**](# "naturally attracts") la sympathie. Par exemple, dans le milieu professionnel, **un collègue aimable et serviable** **est souvent apprécié** par son équipe, car il [**favorise la collaboration**](# "promotes collaboration") et **apaise** les tensions. Dans ce sens, **la gentillesse contribue** à **établir** des liens solides et durables.
+
+**Cependant**, il faut reconnaître que la gentillesse [**peut parfois être perçue comme une faiblesse**](# "can sometimes be seen as a weakness"). Certaines personnes [**profitent de la bonté**](# "take advantage of kindness") des autres, **manquent de respect** ou **ignorent** ceux qui **se montrent trop conciliants**. Par exemple, dans les relations amoureuses ou amicales, **celui qui donne sans compter** risque d’être [**pris pour acquis**](# "taken for granted"). C’est pourquoi [**il est essentiel de distinguer**](# "it is essential to distinguish") la vraie gentillesse du simple désir de plaire.
+
+**Enfin**, pour que la gentillesse **soit respectée**, il [**faut savoir se faire respecter soi-même**](# "one must know how to make oneself respected"). Être gentil ne veut pas **dire oui à tout**. **Au contraire**, la vraie gentillesse [**implique d’avoir du courage**](# "implies having courage"), [**de dire non quand c’est nécessaire**](# "to say no when necessary") et [**de défendre ses valeurs**](# "to defend one’s values") sans agressivité. **Ainsi**, quand une personne [**s’affirme avec bienveillance**](# "asserts oneself with kindness"), elle **gagne naturellement** l’attention et le respect des autres.
+
+---
+
+**En conclusion**, je dirais que **la gentillesse est une qualité précieuse**, mais **elle ne suffit pas à elle seule** pour obtenir le respect. Il [**faut savoir l’accompagner**](# "one must know how to accompany it") de confiance en soi et de clarté dans ses limites. **En d’autres termes**, être gentil, c’est bien, mais **être gentil et fort à la fois**, c’est encore mieux ! C’est cette combinaison qui [**inspire réellement**](# "truly inspires") l’attention et le respect des autres.
+
+---
+
+### 📚 Tableau des expressions et verbes  
+*(Survolez aussi la première colonne pour voir la traduction.)*
+
+| Expression / Verbe                                                                                                                     | Translation (EN)                                           | Explication (FR)                                        | Explanation (EN)                              |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------- |
+| [**les relations humaines deviennent de plus en plus superficielles**](# "human relationships are becoming more and more superficial") | human relationships are becoming more and more superficial | Observation générale sur l’évolution sociale            | Describes a general social trend              |
+| [**À mon avis**](# "in my opinion")                                                                                                    | In my opinion                                              | Expression d’opinion personnelle                        | Used to express a personal opinion            |
+| [**peut être mal interprétée**](# "can be misinterpreted")                                                                             | can be misinterpreted                                      | Montre le risque d’un malentendu                        | Shows risk of misunderstanding                |
+| [**faut savoir poser des limites**](# "one must know how to set limits")                                                               | one must know how to set limits                            | Conseille de se protéger                                | Suggests protecting oneself                   |
+| [**permet de créer**](# "allows to create")                                                                                            | allows to create                                           | Introduit un effet positif ou un résultat               | Introduces a positive outcome                 |
+| [**agir avec respect**](# "act with respect")                                                                                          | act with respect                                           | Décrit une attitude morale                              | Describes a moral behavior                    |
+| [**écoute les autres**](# "listens to others")                                                                                         | listens to others                                          | Met l’accent sur l’attention à autrui                   | Highlights paying attention to others         |
+| [**fait preuve d’empathie**](# "shows empathy")                                                                                        | shows empathy                                              | Met l’accent sur la compréhension émotionnelle          | Highlights emotional understanding            |
+| [**attire naturellement**](# "naturally attracts")                                                                                     | naturally attracts                                         | Montre une conséquence naturelle                        | Shows a natural consequence                   |
+| [**favorise la collaboration**](# "promotes collaboration")                                                                            | promotes collaboration                                     | Exprime une action bénéfique collective                 | Expresses a collective benefit                |
+| [**peut parfois être perçue comme une faiblesse**](# "can sometimes be seen as a weakness")                                            | can sometimes be seen as a weakness                        | Introduit une mise en garde                             | Introduces a warning                          |
+| [**profite de la bonté**](# "takes advantage of kindness")                                                                             | takes advantage of kindness                                | Décrit un abus de confiance                             | Describes taking advantage of someone's trust |
+| [**pris pour acquis**](# "taken for granted")                                                                                          | taken for granted                                          | Signifie qu’on ne reconnaît plus la valeur de quelqu’un | Means someone's value is not recognized       |
+| [**il est essentiel de distinguer**](# "it is essential to distinguish")                                                               | it is essential to distinguish                             | Introduit une nuance importante                         | Introduces an important nuance                |
+| [**faut savoir se faire respecter soi-même**](# "one must know how to make oneself respected")                                         | one must know how to make oneself respected                | Montre la nécessité d’affirmation personnelle           | Expresses need for self-assertion             |
+| [**implique d’avoir du courage**](# "implies having courage")                                                                          | implies having courage                                     | Montre un lien entre deux qualités                      | Links two qualities together                  |
+| [**dire non quand c’est nécessaire**](# "say no when necessary")                                                                       | say no when necessary                                      | Exprime la capacité à refuser                           | Expresses the ability to refuse               |
+| [**défendre ses valeurs**](# "defend one’s values")                                                                                    | defend one’s values                                        | Montre la fermeté morale                                | Shows moral firmness                          |
+| [**s’affirme avec bienveillance**](# "assert oneself with kindness")                                                                   | assert oneself with kindness                               | Montre un équilibre entre fermeté et douceur            | Shows balance between firmness and kindness   |
+| [**faut savoir l’accompagner**](# "one must know how to accompany it")                                                                 | one must know how to accompany it                          | Indique qu’une qualité seule ne suffit pas              | Indicates a quality alone is not enough       |
+| [**inspire réellement**](# "truly inspires")                                                                                           | truly inspires                                             | Indique un effet authentique sur les autres             | Indicates a genuine impact on others          |
