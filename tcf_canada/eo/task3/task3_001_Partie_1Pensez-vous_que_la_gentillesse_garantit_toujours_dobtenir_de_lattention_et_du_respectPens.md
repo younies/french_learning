@@ -54,22 +54,21 @@ De nos jours, dans une société où **les relations humaines deviennent de plus
 | **s’affirme avec bienveillance** | assert oneself with kindness | Montre un équilibre entre fermeté et douceur | Shows balance between firmness and kindness |
 | **inspire réellement** | truly inspires | Indique un effet authentique sur les autres | Indicates a genuine impact on others |
 
-
 ### 🗣️ Monologue simulé (Tâche 3 – Niveau B2++)
 
-De nos jours, dans une société où [**les relations humaines deviennent de plus en plus superficielles**](#expr1), on se demande souvent si la gentillesse permet réellement **d’obtenir de l’attention et du respect**. [**À mon avis**](#expr2), la gentillesse est une **valeur essentielle**, mais elle ne garantit pas toujours le respect ou la reconnaissance des autres. Pour mieux comprendre cette idée, je développerai trois points : d’abord, la gentillesse favorise des relations positives ; ensuite, elle [**peut être mal interprétée**](#expr3) ; enfin, il [**faut savoir poser des limites**](#expr4) pour être respecté.
+De nos jours, dans une société où [**les relations humaines deviennent de plus en plus superficielles**](#t1) <a id="m1"></a>, on se demande souvent si la gentillesse permet réellement d’obtenir de l’attention et du respect. [**À mon avis**](#t2) <a id="m2"></a>, la gentillesse est une valeur essentielle, mais elle ne garantit pas toujours le respect ou la reconnaissance des autres. Pour mieux comprendre cette idée, je développerai trois points : d’abord, la gentillesse favorise des relations positives ; ensuite, elle [**peut être mal interprétée**](#t3) <a id="m3"></a> ; enfin, il [**faut savoir poser des limites**](#t4) <a id="m4"></a> pour être respecté.
 
 ---
 
-**Tout d’abord**, être gentil [**permet de créer**](#expr5) un climat de confiance et d’encourager la bienveillance. **En effet**, une personne qui [**agit avec respect**](#expr6), [**écoute les autres**](#expr7) et [**fait preuve d’empathie**](#expr8) [**attire naturellement**](#expr9) la sympathie. Par exemple, dans le milieu professionnel, un collègue aimable et serviable est souvent apprécié par son équipe, car il [**favorise la collaboration**](#expr10) et apaise les tensions. Dans ce sens, la gentillesse contribue à établir des liens solides et durables.
+**Tout d’abord**, être gentil [**permet de créer**](#t5) <a id="m5"></a> un climat de confiance et d’encourager la bienveillance. **En effet**, une personne qui [**agit avec respect**](#t6) <a id="m6"></a>, [**écoute les autres**](#t7) <a id="m7"></a> et [**fait preuve d’empathie**](#t8) <a id="m8"></a> [**attire naturellement**](#t9) <a id="m9"></a> la sympathie. Par exemple, dans le milieu professionnel, un collègue aimable et serviable est souvent apprécié par son équipe, car il [**favorise la collaboration**](#t10) <a id="m10"></a> et apaise les tensions.
 
-**Cependant**, il faut reconnaître que la gentillesse [**peut parfois être perçue comme une faiblesse**](#expr11). Certaines personnes [**profitent de la bonté**](#expr12) des autres, manquent de respect ou ignorent ceux qui se montrent trop conciliants. Par exemple, dans les relations amoureuses ou amicales, celui qui donne sans compter risque d’être [**pris pour acquis**](#expr13). C’est pourquoi [**il est essentiel de distinguer**](#expr14) la vraie gentillesse du simple désir de plaire.
+**Cependant**, il faut reconnaître que la gentillesse [**peut parfois être perçue comme une faiblesse**](#t11) <a id="m11"></a>. Certaines personnes [**profitent de la bonté**](#t12) <a id="m12"></a> des autres, manquent de respect ou ignorent ceux qui se montrent trop conciliants. Par exemple, celui qui donne sans compter risque d’être [**pris pour acquis**](#t13) <a id="m13"></a>. C’est pourquoi [**il est essentiel de distinguer**](#t14) <a id="m14"></a> la vraie gentillesse du simple désir de plaire.
 
-**Enfin**, pour que la gentillesse soit respectée, il [**faut savoir se faire respecter soi-même**](#expr15). Être gentil ne veut pas dire dire oui à tout. **Au contraire**, la vraie gentillesse [**implique d’avoir du courage**](#expr16), [**de dire non quand c’est nécessaire**](#expr17) et [**de défendre ses valeurs**](#expr18) sans agressivité. Ainsi, quand une personne [**s’affirme avec bienveillance**](#expr19), elle gagne naturellement l’attention et le respect des autres.
+**Enfin**, pour que la gentillesse soit respectée, il [**faut savoir se faire respecter soi-même**](#t15) <a id="m15"></a>. Être gentil ne veut pas dire dire oui à tout. **Au contraire**, la vraie gentillesse [**implique d’avoir du courage**](#t16) <a id="m16"></a>, [**dire non quand c’est nécessaire**](#t17) <a id="m17"></a> et [**défendre ses valeurs**](#t18) <a id="m18"></a> sans agressivité. Ainsi, quand une personne [**s’affirme avec bienveillance**](#t19) <a id="m19"></a>, elle gagne naturellement l’attention et le respect des autres.
 
 ---
 
-**En conclusion**, je dirais que la gentillesse est une qualité précieuse, mais elle ne suffit pas à elle seule pour obtenir le respect. Il [**faut savoir l’accompagner**](#expr20) de confiance en soi et de clarté dans ses limites. **En d’autres termes**, être gentil, c’est bien, mais être gentil et fort à la fois, c’est encore mieux ! C’est cette combinaison qui [**inspire réellement**](#expr21) l’attention et le respect des autres.
+**En conclusion**, je dirais que la gentillesse est une qualité précieuse, mais elle ne suffit pas à elle seule pour obtenir le respect. Il [**faut savoir l’accompagner**](#t20) <a id="m20"></a> de confiance en soi et de clarté dans ses limites. **En d’autres termes**, être gentil, c’est bien, mais être gentil et fort à la fois, c’est encore mieux ! C’est cette combinaison qui [**inspire réellement**](#t21) <a id="m21"></a> l’attention et le respect des autres.
 
 ---
 
@@ -77,49 +76,24 @@ De nos jours, dans une société où [**les relations humaines deviennent de plu
 
 | Expression / Verbe | Translation (EN) | Explication (FR) | Explanation (EN) |
 |--------------------|------------------|------------------|------------------|
-| <a id="expr1"></a>[**les relations humaines deviennent de plus en plus superficielles**](#ref1) | human relationships are becoming more and more superficial | Observation générale sur l’évolution sociale | Describes a general social trend |
-| <a id="expr2"></a>[**À mon avis**](#ref2) | In my opinion | Expression d’opinion personnelle | Used to express a personal opinion |
-| <a id="expr3"></a>[**peut être mal interprétée**](#ref3) | can be misinterpreted | Montre le risque d’un malentendu | Shows risk of misunderstanding |
-| <a id="expr4"></a>[**faut savoir poser des limites**](#ref4) | one must know how to set limits | Conseille de se protéger | Suggests protecting oneself |
-| <a id="expr5"></a>[**permet de créer**](#ref5) | allows to create | Introduit un effet positif ou un résultat | Introduces a positive outcome |
-| <a id="expr6"></a>[**agir avec respect**](#ref6) | act with respect | Décrit une attitude morale | Describes a moral behavior |
-| <a id="expr7"></a>[**écoute les autres**](#ref7) | listens to others | Met l’accent sur l’attention à autrui | Highlights paying attention to others |
-| <a id="expr8"></a>[**fait preuve d’empathie**](#ref8) | shows empathy | Met l’accent sur la compréhension émotionnelle | Highlights emotional understanding |
-| <a id="expr9"></a>[**attire naturellement**](#ref9) | naturally attracts | Montre une conséquence naturelle | Shows a natural consequence |
-| <a id="expr10"></a>[**favorise la collaboration**](#ref10) | promotes collaboration | Exprime une action bénéfique collective | Expresses a collective benefit |
-| <a id="expr11"></a>[**peut parfois être perçue comme une faiblesse**](#ref11) | can sometimes be seen as a weakness | Introduit une mise en garde | Introduces a warning |
-| <a id="expr12"></a>[**profite de la bonté**](#ref12) | takes advantage of kindness | Décrit un abus de confiance | Describes taking advantage of someone's trust |
-| <a id="expr13"></a>[**pris pour acquis**](#ref13) | taken for granted | Signifie qu’on ne reconnaît plus la valeur de quelqu’un | Means someone's value is not recognized |
-| <a id="expr14"></a>[**il est essentiel de distinguer**](#ref14) | it is essential to distinguish | Introduit une nuance importante | Introduces an important nuance |
-| <a id="expr15"></a>[**faut savoir se faire respecter soi-même**](#ref15) | one must know how to make oneself respected | Montre la nécessité d’affirmation personnelle | Expresses need for self-assertion |
-| <a id="expr16"></a>[**implique d’avoir du courage**](#ref16) | implies having courage | Montre un lien entre deux qualités | Links two qualities together |
-| <a id="expr17"></a>[**dire non quand c’est nécessaire**](#ref17) | say no when necessary | Exprime la capacité à refuser | Expresses the ability to refuse |
-| <a id="expr18"></a>[**de défendre ses valeurs**](#ref18) | to defend one’s values | Montre la fermeté morale | Shows moral firmness |
-| <a id="expr19"></a>[**s’affirme avec bienveillance**](#ref19) | assert oneself with kindness | Montre un équilibre entre fermeté et douceur | Shows balance between firmness and kindness |
-| <a id="expr20"></a>[**faut savoir l’accompagner**](#ref20) | one must know how to accompany it | Indique qu’une qualité seule ne suffit pas | Indicates a quality alone is not enough |
-| <a id="expr21"></a>[**inspire réellement**](#ref21) | truly inspires | Indique un effet authentique sur les autres | Indicates a genuine impact on others |
-
----
-
-### 🔁 Return anchors (from table back to text)
-<a id="ref1"></a>↩️ [Back to text](#expr1)  
-<a id="ref2"></a>↩️ [Back to text](#expr2)  
-<a id="ref3"></a>↩️ [Back to text](#expr3)  
-<a id="ref4"></a>↩️ [Back to text](#expr4)  
-<a id="ref5"></a>↩️ [Back to text](#expr5)  
-<a id="ref6"></a>↩️ [Back to text](#expr6)  
-<a id="ref7"></a>↩️ [Back to text](#expr7)  
-<a id="ref8"></a>↩️ [Back to text](#expr8)  
-<a id="ref9"></a>↩️ [Back to text](#expr9)  
-<a id="ref10"></a>↩️ [Back to text](#expr10)  
-<a id="ref11"></a>↩️ [Back to text](#expr11)  
-<a id="ref12"></a>↩️ [Back to text](#expr12)  
-<a id="ref13"></a>↩️ [Back to text](#expr13)  
-<a id="ref14"></a>↩️ [Back to text](#expr14)  
-<a id="ref15"></a>↩️ [Back to text](#expr15)  
-<a id="ref16"></a>↩️ [Back to text](#expr16)  
-<a id="ref17"></a>↩️ [Back to text](#expr17)  
-<a id="ref18"></a>↩️ [Back to text](#expr18)  
-<a id="ref19"></a>↩️ [Back to text](#expr19)  
-<a id="ref20"></a>↩️ [Back to text](#expr20)  
-<a id="ref21"></a>↩️ [Back to text](#expr21)
+| <a id="t1"></a>[**les relations humaines deviennent de plus en plus superficielles**](#m1) | human relationships are becoming more and more superficial | Observation générale sur l’évolution sociale | Describes a general social trend |
+| <a id="t2"></a>[**À mon avis**](#m2) | In my opinion | Expression d’opinion personnelle | Used to express a personal opinion |
+| <a id="t3"></a>[**peut être mal interprétée**](#m3) | can be misinterpreted | Montre le risque d’un malentendu | Shows risk of misunderstanding |
+| <a id="t4"></a>[**faut savoir poser des limites**](#m4) | one must know how to set limits | Conseille de se protéger | Suggests protecting oneself |
+| <a id="t5"></a>[**permet de créer**](#m5) | allows to create | Introduit un effet positif ou un résultat | Introduces a positive outcome |
+| <a id="t6"></a>[**agir avec respect**](#m6) | act with respect | Décrit une attitude morale | Describes a moral behavior |
+| <a id="t7"></a>[**écoute les autres**](#m7) | listens to others | Met l’accent sur l’attention à autrui | Highlights paying attention to others |
+| <a id="t8"></a>[**fait preuve d’empathie**](#m8) | shows empathy | Met l’accent sur la compréhension émotionnelle | Highlights emotional understanding |
+| <a id="t9"></a>[**attire naturellement**](#m9) | naturally attracts | Montre une conséquence naturelle | Shows a natural consequence |
+| <a id="t10"></a>[**favorise la collaboration**](#m10) | promotes collaboration | Exprime une action bénéfique collective | Expresses a collective benefit |
+| <a id="t11"></a>[**peut parfois être perçue comme une faiblesse**](#m11) | can sometimes be seen as a weakness | Introduit une mise en garde | Introduces a warning |
+| <a id="t12"></a>[**profite de la bonté**](#m12) | takes advantage of kindness | Décrit un abus de confiance | Describes taking advantage of someone's trust |
+| <a id="t13"></a>[**pris pour acquis**](#m13) | taken for granted | Signifie qu’on ne reconnaît plus la valeur de quelqu’un | Means someone's value is not recognized |
+| <a id="t14"></a>[**il est essentiel de distinguer**](#m14) | it is essential to distinguish | Introduit une nuance importante | Introduces an important nuance |
+| <a id="t15"></a>[**faut savoir se faire respecter soi-même**](#m15) | one must know how to make oneself respected | Montre la nécessité d’affirmation personnelle | Expresses need for self-assertion |
+| <a id="t16"></a>[**implique d’avoir du courage**](#m16) | implies having courage | Montre un lien entre deux qualités | Links two qualities together |
+| <a id="t17"></a>[**dire non quand c’est nécessaire**](#m17) | say no when necessary | Exprime la capacité à refuser | Expresses the ability to refuse |
+| <a id="t18"></a>[**défendre ses valeurs**](#m18) | defend one’s values | Montre la fermeté morale | Shows moral firmness |
+| <a id="t19"></a>[**s’affirme avec bienveillance**](#m19) | assert oneself with kindness | Montre un équilibre entre fermeté et douceur | Shows balance between firmness and kindness |
+| <a id="t20"></a>[**faut savoir l’accompagner**](#m20) | one must know how to accompany it | Indique qu’une qualité seule ne suffit pas | Indicates a quality alone is not enough |
+| <a id="t21"></a>[**inspire réellement**](#m21) | truly inspires | Indique un effet authentique sur les autres | Indicates a genuine impact on others |
