@@ -1,0 +1,40 @@
+---
+# TCF Canada Expression Orale - Generated Practice
+source_file: juin-2025-expression-orale.json
+source_url: https://reussir-tcfcanada.com/juin-2025-expression-orale/
+task: unknown
+part: partie_1
+generated_at: 2025-10-05 02:01:27
+---
+
+# Informations
+- Tâche: unknown
+- Partie: Partie 1
+- Source URL: https://reussir-tcfcanada.com/juin-2025-expression-orale/
+- Source fichier: juin-2025-expression-orale.json
+
+---
+
+# Original Topic
+Je fais partie d’une association qui protège les animaux. Je vous invite à nous rejoindre.Vous me posez des questions pour mieux connaître cette association (activités, services, personnes aidées, etc.).Nous travaillons ensemble. J’ai vu un film hier soir.Vous voulez en savoir plus avant de décider si vous allez le voir (casting, résumé, horaires…).Je viens de rejoindre votre équipe. J’ai vécu un moment au Québec.Vous me posez des questions sur mes études, mes débuts professionnels, mon expérience à l’étranger et les obstacles que j’ai rencontrés.Je suis agent immobilier. Vous êtes nouveau au Québec et vous cherchez un appartement.Vous me demandez des infos sur les procédures, les zones à privilégier et les logements proposés.Je travaille à la bibliothèque. Vous souhaitez devenir membre.Vous me demandez des informations sur l’inscription, les services offerts, les horaires et les événements.
+
+---
+
+# Sujet
+Je fais partie d’une association qui protège les animaux. Je vous invite à nous rejoindre.Vous me posez des questions pour mieux connaître cette association (activités, services, personnes aidées, etc.).Nous travaillons ensemble. J’ai vu un film hier soir.Vous voulez en savoir plus avant de décider si vous allez le voir (casting, résumé, horaires…).Je viens de rejoindre votre équipe. J’ai vécu un moment au Québec.Vous me posez des questions sur mes études, mes débuts professionnels, mon expérience à l’étranger et les obstacles que j’ai rencontrés.Je suis agent immobilier. Vous êtes nouveau au Québec et vous cherchez un appartement.Vous me demandez des infos sur les procédures, les zones à privilégier et les logements proposés.Je travaille à la bibliothèque. Vous souhaitez devenir membre.Vous me demandez des informations sur l’inscription, les services offerts, les horaires et les événements.
+
+---
+# Consigne
+Préparez une interaction orale (1–2 minutes) en posant des questions pertinentes et en répondant clairement.
+
+# Pistes / éléments à prévoir
+- Questions principales à poser
+- Informations à donner (prix, horaires, lieu, conditions, etc.)
+- Connecteurs et relances (et, donc, car, d'ailleurs, en fait, du coup)
+
+# Votre plan / notes
+- (Listez vos questions)
+- (Notez vos réponses possibles)
+
+# Votre prise de parole (brouillon)
+(Rédigez votre script ou vos notes ici)
