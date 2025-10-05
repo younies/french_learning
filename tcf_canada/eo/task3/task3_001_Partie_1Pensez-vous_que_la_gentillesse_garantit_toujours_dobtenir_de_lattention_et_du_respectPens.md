@@ -12,6 +12,11 @@ Pensez-vous que la gentillesse garantit toujours d’obtenir de l’attention et
 
 ---
 
+<audio controls>
+  <source src="../task3_audio/001.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 ### 🗣️ Monologue simulé (Tâche 3 – Niveau B2++)
 
 De nos jours, dans une société où **les relations humaines deviennent de plus en plus superficielles**, on se demande souvent si **la gentillesse** permet réellement **d’obtenir de l’attention et du respect**. **À mon avis**, la gentillesse est une **valeur essentielle**, mais **elle ne garantit pas toujours** le respect ou la reconnaissance des autres. Pour mieux comprendre cette idée, **je développerai trois points** : d’abord, la gentillesse **favorise** des relations positives ; ensuite, elle **peut être mal interprétée** ; enfin, il **faut savoir poser des limites** pour être respecté.
