@@ -14,7 +14,7 @@ Pensez-vous que la gentillesse garantit toujours d’obtenir de l’attention et
 
 <audio controls>
   <source src="../task3_audio/001.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
+  Ce fichier audio a été généré par ElevenLabs. Your browser does not support the audio element.
 </audio>
 
 ### 🗣️ Monologue simulé (Tâche 3 – Niveau B2++)
