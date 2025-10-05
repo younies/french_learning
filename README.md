@@ -6,6 +6,15 @@ There is also a dedicated section for TCF Canada (Test de Connaissance du Franç
 
 ## TCF Canada
 
+### Examens Complets
+
+🎯 **Examens complets TCF Canada** - Chaque examen contient toutes les tâches (EO + EE) avec sélection séquentielle des sujets.
+
+📚 **[Accéder aux examens complets](tcf_complete_exams/README.md)** - 100 examens disponibles
+
+**Structure de chaque examen :**
+- **Expression Orale :** Tâche 2 (conversation) + Tâche 3 (monologue)  
+- **Expression Écrite :** Tâche 1 (message) + Tâche 2 (article) + Tâche 3 (essai)
 ### Expression Ecrite
 
 #### Tâche 1
